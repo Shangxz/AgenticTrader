@@ -7,6 +7,17 @@ for the 10% daily stop-loss check.
 
 ---
 
+## 2026-06-19 (scheduled run, 09:30 ET)
+
+- **Account:** Agentic cash ••••1338
+- **Market status:** **CLOSED — Juneteenth National Independence Day.** NYSE & Nasdaq are closed Friday, June 19, 2026; bond markets also closed. Markets reopen Monday, June 22. Confirmed via news sources.
+- **Action:** **NO ACTION.** Per procedure step 1, the run stops on a market holiday. No news/regime scan, no holdings review, no orders.
+- **Orders placed:** none
+- **Ending state:** unchanged from prior run — $500.00 cash / $500.00 total value (no trading possible)
+- **baseline_value:** 500.00
+
+---
+
 ## 2026-06-18 (manual run, 15:52 ET)
 
 - **Account:** Agentic cash ••••1338
