@@ -5,13 +5,16 @@ US market open on a Robinhood **cash** account (••••1338, $500 starting 
 **Not** an investment strategy or financial advice — it's a research log to study whether
 an agent can trade growth/momentum signals competently.
 
-## Two daily passes (both write to the same day's file)
+## Three daily passes (all write to the same day's file)
 
 1. **Open pass (~9:30 ET):** growth/momentum — find and enter new positions; manage exits.
 2. **Mid-day pass (~12:30 ET):** risk review — re-evaluate currently held positions
    (emphasis on ones opened that morning) and cut/trim what isn't working. No new initiations.
+3. **Close pass (~15:30 ET):** end-of-day review — re-check holdings and cut losers per the
+   open-pass exit rules; make only conservative, high-conviction late entries on confirmed
+   movers (don't chase); reduce overnight risk.
 
-Each pass prepends its own entry to that day's `logs/YYYY-MM-DD.md`.
+Each pass prepends its own entry to that day's `logs/YYYY-MM-DD.md` and pushes directly to `main`.
 
 ## Convention
 
