@@ -1,0 +1,158 @@
+# Everest Group, Ltd. (NYSE: EG)
+
+**First created:** 2026-06-26 · **Last updated:** 2026-06-28 · Research support only — not personal financial advice.
+
+Global property & casualty reinsurance and insurance, domiciled in Bermuda (Hamilton). Sector: Finance / Property & Casualty (Re)insurance. CEO: James (Jim) Williamson.
+
+### Snapshot — current valuation
+
+| Metric | Value | Source |
+|--------|-------|--------|
+| Price (last trade) | **$355.51** (2026-06-26 close; prev close 2026-06-25 $343.02, +3.6%) | Robinhood, as of 2026-06-26 close |
+| Trailing P/E | **7.24x** | Robinhood, as of 2026-06-26 close |
+| Price/Book | **0.925x** (trades ~7.5% *below* book) | Robinhood, as of 2026-06-26 close |
+| Forward P/E (2026E) | **~6.8x** on ~$52 consensus EPS | [stockanalysis.com](https://stockanalysis.com/stocks/eg/forecast/) |
+| Book value/share | **$383.75** ($393.02 ex-unrealized fixed-maturity losses), Q1 2026 | [Bernews / Q1'26 release](https://bernews.com/2026/05/everest-group-reports-q1-2026-results/) |
+| Market cap | **~$14.1B** | Robinhood, as of 2026-06-26 close |
+| Shares out | **~39.6M** | Robinhood, as of 2026-06-26 close |
+| 52-week range | $302.44 (2025-10-28) – $368.29 (2025-10-08); ~3% off high | Robinhood, as of 2026-06-26 close |
+| Dividend | $8.00/yr, **~2.25% yield** | Robinhood, as of 2026-06-26 close |
+| Q1 2026 net income | **$653M / $16.21 dil. EPS** (vs $210M / $4.90 y/y) | [StockTitan](https://www.stocktitan.net/news/EG/everest-reports-first-quarter-2026-do0uhymguwqc.html) |
+| Q1 2026 combined ratio | **91.2%** (from 102.7% y/y); attritional CR 88.5% | [Bernews](https://bernews.com/2026/05/everest-group-reports-q1-2026-results/) |
+| Q1 2026 operating ROE (annualized) | **16.7%** | [Investing.com Q1'26 slides](https://uk.investing.com/news/company-news/everest-q1-2026-slides-strategic-reset-drives-167-operating-roe-93CH-4641507) |
+
+> **Disclaimer:** Research support only, **not** personal financial advice. Live prices/multiples are from the Robinhood market-data connector on the dates noted; all other figures are sourced inline with URLs and as-of dates. Do your own due diligence.
+
+**One-paragraph thesis.** Everest is a scaled, well-capitalized global reinsurer/insurer trading *below* book value (~0.93x) and at ~7x trailing / ~6.8x forward earnings — a clear statistical discount to P&C peers (which trade ~1.3x–2.7x book and are *all* above 1.0x). The discount exists for a concrete reason: in 2024 Everest took **$1.7B of US-casualty reserve strengthening** on social-inflation-driven prior-year development, culminating in a Q4 2024 net loss, the departure of its prior CEO, and a credibility hit. Under CEO Jim Williamson, the company secured a **$1.2B adverse-development cover (ADC)** (effective Oct 1, 2025, covering accident years 2024 and prior), refocused on profitability over volume (exiting commercial retail insurance), and printed a **91.2% combined ratio, $16.21 EPS, and 16.7% operating ROE in Q1 2026**. The mispricing question is whether the reserve problem is now ring-fenced — in which case a sub-book, mid-teens-ROE reinsurer is too cheap — or whether further casualty creep keeps the discount permanent.
+
+---
+
+## Update Log
+
+- 2026-06-26: Initial deep-dive created. Price $343.02 (2026-06-25 close). Trailing P/E ~6.99x, P/B ~0.89x. Thesis: sub-book reinsurer with reserve-credibility discount post-2024 $1.7B casualty charge; ADC + new-CEO clean-up + Q1'26 91.2% CR support a re-rate toward 1.1–1.2x book. Intrinsic ~$430–470 (~1.1–1.2x normalized book), ~20–30% discount. Key catalyst: a full year with no new casualty charge. Verdict: medium-sized, monitor-the-reserves position.
+- 2026-06-28: **Price up to $355.51 (2026-06-26 close, +3.6% vs the $343.02 used in the prior note).** Multiples ticked up accordingly — trailing P/E ~7.24x, P/B ~0.925x (still below book but the sub-book cushion narrowed from ~11% to ~7.5%). Underlying fundamentals **unchanged** (no new quarter; Q1'26 figures stand, Q2 reports ~7/28/2026). **Thesis intact.** New/confirmed data points since prior version: (1) Q1'26 **operating ROE confirmed at 16.7%**; (2) forward EPS consensus ~**$52** (2026E) / ~$59–60 (2027E), putting forward P/E at ~6.8x; (3) **analyst targets repositioning up** — Raymond James to $400 (Outperform), KBW to $411 (Outperform, lifting 2027 EPS to $63.25), Citi to $395 (Neutral); consensus avg ~$378–388 ([Investing.com](https://www.investing.com/news/analyst-ratings/raymond-james-raises-everest-group-stock-price-target-on-capital-returns-93CH-4679565), [Benzinga](https://www.benzinga.com/quote/EG/analyst-ratings)); (4) GuruFocus GF Value $401.40 vs price ([GuruFocus](https://www.gurufocus.com/news/8934982/a-look-at-everest-group-ltd-eg-after-36-gain-gf-value-40140-vs-price-35552)); (5) confirmed strategic catalyst: **exit of commercial retail insurance** to unlock capital for returns. Expanded peer set to 7 names (added CB, MKL, TRV, WRB) — EG remains the *only* sub-book name. Intrinsic estimate maintained at **~$430–470**; with price up, discount narrows to **~18–25%**. No new reserve charge or adverse news; value-trap watch (reserve credibility) remains the governing risk.
+
+---
+
+## 1. Buy-Side Mispricing Analysis
+
+*Acting as an experienced buy-side analyst specializing in mispriced/undervalued companies.*
+
+**Current valuation context:** ~0.93x book and ~7.2x trailing / ~6.8x forward earnings vs P&C-(re)insurance peers at ~1.3x–2.7x book and 5–15x earnings.
+
+**1. Business-model clarity — is this genuinely hard to model?**
+Everest is not conceptually complex — it underwrites reinsurance (~65% of premium) and primary insurance (~35%), and earns an investment-income spread on float. What makes it *hard to trust* is **reserve adequacy in long-tail US casualty**. Casualty losses (general liability, commercial auto, professional lines) develop over many years; an insurer books a best-estimate reserve today and the truth emerges over a decade. "Social inflation" — rising jury verdicts, litigation funding, broader liability theories — has repeatedly forced the whole industry to top up old reserves. So the analyst's difficulty is not the business; it is **the believability of one number on the balance sheet** (loss reserves) that, if wrong, flows straight through book value. That single point of opacity is exactly why the market applies a below-book multiple.
+
+**2. Earnings quality — fair reflection of economic reality?**
+Q1 2026 earnings look *high-quality and arguably understated*: the 91.2% combined ratio was helped by light catastrophe losses (~$130M vs $472M a year earlier) but was *also* supported by an **88.5% attritional combined ratio** (i.e., excluding cats), which is the cleaner read on underlying underwriting — that is genuinely good, and the **16.7% operating ROE** ([Investing.com](https://uk.investing.com/news/company-news/everest-q1-2026-slides-strategic-reset-drives-167-operating-roe-93CH-4641507)) is a respectable cross-cycle figure. Investment income is now a large, durable earnings engine as the high-quality fixed-income book reinvests at elevated yields. The honest caveat: a single benign-cat quarter is not a trend, and the *trailing* P/E sits on earnings still partly depressed by 2024–25 reserve noise. Consensus normalized earnings power is ~$52 (2026E) rising to ~$59–60 (2027E) ([stockanalysis.com](https://stockanalysis.com/stocks/eg/forecast/)), implying a forward P/E of only ~6.8x and ~5.9x on 2027 — cheap if the reserves hold.
+
+**3. Hidden assets / optionality.**
+- **Below-book trading itself is the optionality**: every dollar of buyback below book value is *accretive to book value per share*. Everest has a **$4.74B repurchase authorization** and bought back **$331M in Q1 2026**; management has guided to roughly ~$1B of buybacks in 2026, with book value expected to cross **$400/share** ([Simply Wall St](https://simplywall.st/stocks/us/insurance/nyse-eg/everest-group/news/will-everests-reinsurance-pivot-and-us474-billion-buyback-ch)).
+- **The $1.2B adverse-development cover (ADC)** (effective Oct 1, 2025; Longtail Re / Stone Ridge; covers substantially all North American insurance accident years 2024 & prior) caps a chunk of the legacy casualty tail — third-party validation that reduces left-tail reserve risk ([Business Wire](https://www.businesswire.com/news/home/20251027214775/en/Everest-Secures-$1.2-Billion-Adverse-Development-Cover)).
+- **Exit of commercial retail insurance** simplifies the portfolio and frees capital for return ([Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/everest-group-eg-investment-narrative-161420843.html)).
+- A large, high-quality fixed-income portfolio re-investing at elevated yields gives a multi-year tailwind to net investment income that consensus tends to under-model.
+
+**4. Recent sentiment — temporary or structural repricing?**
+The de-rating was event-driven: the stock fell sharply on the 2024 reserve announcements plus a CEO change ([Reinsurance News](https://www.reinsurancene.ws/everest-reports-total-reserve-strengthening-of-1-7bn-for-2024/)). That is the signature of a **confidence shock**, not a demonstrated collapse in earning power — the franchise, ratings, and capital base remained intact, and Q1 2026 (+210% net income y/y, 91.2% CR, 16.7% operating ROE) is the first clear data point that the "new Everest" underwrites profitably. The market is repricing *slowly* — and the recent move (+3.6% on 2026-06-26, plus analyst targets stepping up to $395–411) suggests sentiment is beginning to turn, but the multiple is still sub-book, so the re-rate is far from complete.
+
+**5. Who is selling, and why?**
+- **Burned momentum / growth holders** who owned EG as a "compounding book value" story exited when book-value-per-share growth stalled and reserve credibility broke.
+- **Insurance-dedicated funds** rotated toward peers with cleaner reserve track records (ACGL, RNR) — a relative-value trade that mechanically pressures EG regardless of absolute value.
+- **Tax-loss and index-rebalance flows** after the 2024–25 drawdown. None of these sellers are necessarily acting on a *fundamental* re-underwriting of the business — they are reacting to a reserve headline and a leadership change, the classic setup for a forced/incentivized seller leaving value behind. As the clean-quarter evidence accumulates, this selling pressure should fade.
+
+**A note on EV/EBITDA.** It is **not meaningful for insurers** and is not used here. EBITDA strips out interest and ignores the structure of an insurance balance sheet, but for a (re)insurer (a) "debt" and investment leverage are intrinsic to the model (float is the funding source for the investment portfolio), (b) net investment income — a core earnings driver — is exactly what EBITDA-style metrics mishandle, and (c) enterprise value double-counts the investment portfolio. Insurers are properly valued on **price/book** (against ROE) and **P/E** — which is what this analysis uses.
+
+**What the market must believe to justify ~0.93x book — and is it reasonable?**
+The sub-book price implies the market believes **Everest's stated reserves are still inadequate** — i.e., more casualty charges are coming that will erode book value — *and/or* that normalized ROE will sit below cost of equity. For that to be the right call, 2024's $1.7B strengthening plus the 2025 ADC must have *failed* to clean the book. That is possible — casualty reserving is genuinely uncertain — but the weight of evidence (ADC purchase, conservative new-CEO posture, 16.7% operating ROE, 88.5% attritional CR, retail-insurance exit) argues the reserves are now adequate-to-conservative and the franchise earns well above cost of equity. If so, a scaled reinsurer earning mid-teens ROE should trade at/above book, not below it. **The required belief (further material reserve deterioration) is plausible but, on current evidence, looks too pessimistic — which is the mispricing.**
+
+---
+
+## 2. Comparable Company Analysis
+
+*Acting as a valuation analyst building a comp set for an investment committee.*
+
+**Current multiple:** **0.925x book value** (and ~7.24x trailing P/E). **Sector:** Global P&C reinsurance + specialty insurance.
+
+**Step 1 — The peer group.** Bermuda/global reinsurers and large specialty / diversified P&C (re)insurers:
+
+| Peer | P/B | Trailing P/E | Why it belongs | Source |
+|------|-----|--------------|----------------|--------|
+| **Everest (EG)** | **0.925x** | **7.24x** | Subject — reinsurance-heavy + specialty insurance | Robinhood, 2026-06-26 |
+| **Arch Capital (ACGL)** | 1.47x | 7.49x | Bermuda specialty insurance + reinsurance + mortgage; "quality" benchmark | Robinhood, 2026-06-26 |
+| **RenaissanceRe (RNR)** | 1.28x | 5.33x | Pure-play global reinsurer, heavy property-cat — closest reinsurance-mix comp | Robinhood, 2026-06-26 |
+| **AXIS Capital (AXS)** | 1.38x | 7.99x | Bermuda specialty insurance + reinsurance, similar scale tier | Robinhood, 2026-06-26 |
+| **Chubb (CB)** | 1.80x | 12.06x | Large diversified global P&C — premium "blue-chip" comp | Robinhood, 2026-06-26 |
+| **Markel (MKL)** | 1.33x | 13.90x | Specialty insurance + investing/Ventures; book-value compounder | Robinhood, 2026-06-26 |
+| **Travelers (TRV)** | 2.18x | 9.74x | Large US commercial/personal P&C — trusted-reserve benchmark | Robinhood, 2026-06-26 |
+| **W.R. Berkley (WRB)** | 2.73x | 15.13x | Specialty/E&S underwriter; highest-multiple in set | Robinhood, 2026-06-26 |
+| **Peer average (7, ex-EG)** | **~1.74x** | **~10.2x** | — | — |
+| **Peer median (7, ex-EG)** | **~1.47x** | **~9.74x** | — | — |
+
+*Poor comps to avoid:* primary US personal-lines carriers (Progressive, Allstate) — different risk, no reinsurance mix, momentum-priced; pure life/health insurers; and Lloyd's-only specialists.
+
+**Step 2 — Quantify the gap.** On the metric that matters most for an insurer, **price/book**:
+- Peer median P/B ≈ **1.47x**; average ≈ **1.74x** (skewed up by TRV/WRB/CB). Everest ≈ **0.925x**.
+- Everest trades at roughly a **37% discount to the peer median** and **~47% below the average** on book value — and is the **only name in the group below 1.0x book**. Even against the *cheapest* peer (RNR at 1.28x), EG is ~28% lower.
+- On trailing P/E the gap is *also* large now (EG ~7.2x vs peer median ~9.7x), but the cleaner story is still **price/book**: a reserve-credibility discount shows up as the market marking down the *reliability of book*, not just current earnings.
+
+**Step 3 — Explain the gap.** Decomposing the ~37% book discount vs the median:
+- **Reserve credibility (the dominant factor):** the $1.7B 2024 casualty charge plus prior 2021/2023 top-ups gave Everest the *worst recent reserve track record* in the peer set. ACGL, RNR, TRV, WRB have not had charges of that magnitude — hence their book is "trusted" at 1.3x–2.7x.
+- **ROE / mix:** Everest's reinsurance-heavy, cat-exposed book is more volatile than Arch's diversified machine (high-ROE mortgage segment), WRB's specialty engine, or Chubb's diversified franchise — justifying *some* discount to those specifically.
+- **Leadership/strategy uncertainty:** new CEO, "profitability over volume" pivot, retail-insurance exit, and shrinking top line create execution uncertainty the market hasn't fully rewarded.
+- *Not* explained by leverage or capital weakness — Everest is well-capitalized and actively buying back stock below book, so this is **not** a balance-sheet-distress discount.
+
+**Step 4 — What would close the gap?** To re-rate from 0.93x toward even the *low end* of the peer range (~1.1–1.3x book):
+1. **Two-to-three more quarters of flat-to-favorable casualty reserve development** — the single biggest lever; it directly rebuilds the trust the 2024 charge destroyed.
+2. **Sustained sub-92% attritional combined ratios** (Q1's 88.5% is a strong start) and mid-teens operating ROE (16.7% in Q1).
+3. **Book-value-per-share growth across $400** (management-guided) plus continued below-book buybacks, which compound per-share book.
+4. **No new shock** — simply *not* announcing another casualty charge through 2026 would itself drive a meaningful re-rating.
+
+A re-rate to even **1.1–1.2x book on a ~$390–400 book** implies a **~$430–480 price (≈ 20–35% upside from $355.51)**; merely closing to 1.0x book is ~$390 (~10%). Analyst targets are converging on this view (Raymond James $400, KBW $411, consensus avg ~$378–388; GuruFocus GF Value $401). The risk/reward is asymmetric *if* the reserves hold.
+
+---
+
+## 3. Catalyst & Value-Trap Analysis
+
+*Acting as a value-oriented PM deciding whether EG earns a slot in a concentrated book.*
+
+**Thesis:** Everest is a scaled, well-capitalized global reinsurer trading below book and ~7x earnings because a 2024 US-casualty reserve charge broke market confidence. A new CEO, a $1.2B adverse-development cover, profitability-over-volume underwriting (incl. exiting commercial retail), a 91.2% Q1'26 combined ratio with 16.7% operating ROE, and a $4.74B buyback (accretive below book) suggest the reserve problem is being ring-fenced and the franchise can re-earn a 1.1x+ book multiple.
+
+**My rough intrinsic value:** **~$430–470** (~1.1–1.2x normalized book of ~$390–400, consistent with mid-teens ROE and a sub-10x P/E on ~$52–60 normalized EPS). **Approx. discount to intrinsic at $355.51: ~18–25%.**
+
+**Catalyst analysis**
+
+1. **Specific re-rating events / milestones:**
+   - **Clean reserve quarters** (Q2 2026 reports ~7/28/2026; then Q3/Q4) with flat-to-favorable prior-year development — the core trust-rebuild.
+   - **Book value crossing $400/share** (management-guided) plus visible per-share accretion from below-book buybacks.
+   - **Continued sub-92% attritional combined ratios / mid-teens operating ROE** through the softening reinsurance cycle.
+   - **Capital-return escalation / retail-exit capital release** signaling management's confidence in reserve adequacy and excess capital.
+2. **Likelihood / timeframe:** Clean reserve development is the *base case* now that the ADC is in place and 2024 actions were large — **moderately high probability over 12–24 months**, but punctuated by event risk every quarterly disclosure. Book > $400 is **high probability within 12 months** given current earnings + buyback math.
+3. **Biggest-impact catalyst:** **A full year (2026) with no new casualty charge.** That single absence would do more to re-rate the stock than any positive announcement, because the entire discount is a reserve-distrust discount.
+4. **Near-term catalysts that could work *against* the thesis even if the long-term view is right:**
+   - The **reinsurance pricing cycle is softening** — property-cat rates fell sharply at the 1/1/2026 renewal (biggest drop in years) ([Artemis](https://www.artemis.bm/news/january-reinsurance-renewal-accelerated-softening-drives-double-digit-declines-guy-carpenter/)). That pressures future top line/margins, and Everest is deliberately *shrinking* into it — optically weak premium growth could spook momentum investors.
+   - A heavy **2026 Atlantic hurricane / cat season** would hit a cat-exposed reinsurer hard and reset the combined ratio, masking the underlying improvement for a quarter or two.
+
+**Value-trap check**
+
+5. **Three common reasons stocks like this never re-rate, and which apply:**
+   - **(a) The reserve charge was the first of several, not the last** — *this is the live risk.* Social inflation has repeatedly forced *serial* casualty top-ups across the industry (Everest itself charged in 2021, 2023, and 2024). If 2024 + the ADC did not fully clean the book, the sub-book multiple is *correct*, and the stock is a value trap. **This is the single most important thing to monitor**; the ADC (accident years 2024 & prior) materially de-risks but does not eliminate it.
+   - **(b) Soft-market margin compression** — re-rating requires improving returns, but a softening reinsurance cycle can erode ROE faster than reserves heal, capping the multiple. Partially applies.
+   - **(c) Permanent "show-me" discount** — some serial-charge insurers carry a structural discount for years even after fixing the book. Applies to a degree; the re-rate may be slower than the fundamentals justify (though analyst targets stepping up is an encouraging sign that the show-me period may be shortening).
+6. **Management / governance / capital-allocation issues:** A *relative strength*. The new CEO inherited the problem, took a large kitchen-sink reserve action plus an ADC (the credible playbook), is exiting unprofitable lines, and is returning capital aggressively via below-book buybacks (the most value-accretive use of cash at this price). No controlling shareholder, no dual-class structure, shareholder-friendly capital allocation. The governance risk is mainly *execution* (will the team underwrite as disciplined as promised through a soft market), not misalignment.
+
+**Risk/reward verdict.** The discount is real and the catalyst (the *absence* of further casualty charges) is concrete, measurable each quarter, and supported by the ADC and conservative new-management posture. You are paid to wait via a ~2.25% dividend plus per-share book accretion from below-book buybacks, with downside cushioned by trading *below* book. The dominant risk — further reserve deterioration — is genuine and not fully knowable from outside, so this is a **medium-sized, monitor-the-reserves position, not a max-conviction one.** At ~0.93x book with mid-teens ROE and a credible clean-up underway, the risk/reward of waiting 12–24 months for the re-rate is attractive *provided* each quarterly reserve disclosure stays clean — and the thesis should be cut quickly if a new casualty charge appears. The +3.6% pop on 2026-06-26 and rising analyst targets ($395–411) suggest the re-rate may be starting; entry is modestly less attractive than at the $343 prior-note level but the gap to intrinsic is still ~18–25%.
+
+---
+
+### Sources
+- Q1 2026 results (net income, combined ratio, book value, buybacks, 16.7% operating ROE): [Bernews](https://bernews.com/2026/05/everest-group-reports-q1-2026-results/), [StockTitan](https://www.stocktitan.net/news/EG/everest-reports-first-quarter-2026-do0uhymguwqc.html), [Motley Fool transcript](https://www.fool.com/earnings/call-transcripts/2026/04/30/everest-group-eg-q1-2026-earnings-transcript/), [Investing.com Q1'26 slides](https://uk.investing.com/news/company-news/everest-q1-2026-slides-strategic-reset-drives-167-operating-roe-93CH-4641507)
+- 2024 reserve strengthening ($1.7B; 2021/2023 history; stock reaction): [Reinsurance News](https://www.reinsurancene.ws/everest-reports-total-reserve-strengthening-of-1-7bn-for-2024/)
+- $1.2B adverse-development cover (Oct 1, 2025; Longtail Re; AY2024 & prior): [Business Wire](https://www.businesswire.com/news/home/20251027214775/en/Everest-Secures-$1.2-Billion-Adverse-Development-Cover)
+- $4.74B buyback / capital return / book > $400 / reinsurance pivot: [Simply Wall St](https://simplywall.st/stocks/us/insurance/nyse-eg/everest-group/news/will-everests-reinsurance-pivot-and-us474-billion-buyback-ch)
+- Retail-insurance exit / narrative shift: [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/everest-group-eg-investment-narrative-161420843.html)
+- Forward EPS / forward P/E / price targets: [stockanalysis.com](https://stockanalysis.com/stocks/eg/forecast/), [Investing.com — Raymond James](https://www.investing.com/news/analyst-ratings/raymond-james-raises-everest-group-stock-price-target-on-capital-returns-93CH-4679565), [Investing.com — BMO](https://www.investing.com/news/analyst-ratings/bmo-raises-everest-group-stock-price-target-on-abating-eps-revisions-93CH-4688607), [Benzinga](https://www.benzinga.com/quote/EG/analyst-ratings), [GuruFocus GF Value](https://www.gurufocus.com/news/8934982/a-look-at-everest-group-ltd-eg-after-36-gain-gf-value-40140-vs-price-35552)
+- 2026 reinsurance softening (1/1 renewals): [Artemis](https://www.artemis.bm/news/january-reinsurance-renewal-accelerated-softening-drives-double-digit-declines-guy-carpenter/)
+- Live price / multiples / peer P/B & P/E (EG, ACGL, RNR, AXS, CB, MKL, TRV, WRB): Robinhood market-data connector, as of 2026-06-26 close
+```
+
+*Note on FCF: insurer "free cash flow" (operating cash flow) is dominated by premium/loss timing and is not a clean valuation metric for (re)insurers; reported figures (e.g., 2024 OCF ~$5B per [Macrotrends](https://www.macrotrends.net/stocks/charts/EG/everest-group/free-cash-flow)) are shown for completeness but the thesis rests on book value, ROE, and P/E.*

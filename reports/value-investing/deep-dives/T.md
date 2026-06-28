@@ -1,0 +1,101 @@
+# AT&T Inc. (T)
+
+**First created:** 2026-06-23 · **Last updated:** 2026-06-28
+
+**Current price & key multiples:**
+- Price: **$22.70** (Robinhood, as of 2026-06-26 close; prev close 2026-06-25 $22.42)
+- Trailing P/E: **7.62** (Robinhood, as of 2026-06-26 close) · Forward P/E: **~9.7x** on guided 2026 adj EPS $2.25–2.35 (stockanalysis.com, accessed 2026-06-28: 9.66; AT&T 1Q26 guidance) · Price/Book: **1.44** (Robinhood, as of 2026-06-26 close)
+- Market cap: **~$157.7B** · Shares out: **~6.95B** (Robinhood, as of 2026-06-26 close)
+- Dividend yield: **~4.89%** (Robinhood, as of 2026-06-26 close)
+- EV/EBITDA: **~6.9x** (stockanalysis.com, accessed 2026-06-28: 6.88) · Enterprise value ~$305.7B, net debt ~$147.8B (stockanalysis.com, accessed 2026-06-28)
+- Trailing FCF: **~$17.4B** → FCF yield **~11.0%** (stockanalysis.com, accessed 2026-06-28: $17.35B TTM, 10.99%); 2026 FCF guidance **>$18B** (AT&T 1Q26 release)
+- 52-wk range: **$21.99 (2026-06-18) – $29.79 (2025-09-05)** (Robinhood, as of 2026-06-26 close) — stock sits ~3% above its 52-week low.
+
+> **Disclaimer:** Research support only — not personal financial advice. Live prices/multiples are from the Robinhood market-data connector as of the date noted; all other figures are sourced inline with URLs/as-of dates. Do your own due diligence.
+
+---
+
+## Update Log
+
+- 2026-06-23: Initial deep dive created. Thesis: "New AT&T" is a focused wireless+fiber connectivity utility generating >$18B FCF (guided to >$21B by 2028) at ~11–12% FCF yield, ~6.4x EV/EBITDA and ~9.6x guided earnings, with improving subscriber KPIs (Q1 584K internet net adds = 292K fiber + 292K FWA) and a credible deleveraging path. Market still pricing the discredited "old AT&T" (serial acquirer, stretched balance sheet) and over-discounting a temporary EchoStar-driven leverage peak (~3.2x). Price $22.10 (Robinhood 2026-06-22 close). Intrinsic estimate ~$26–28; ~18–22% discount. Preferred catalyst: proof of deleveraging + FCF growth together. Preferred expression of the telecom value discount over VZ (better growth/deleveraging trajectory); VZ the income-first alternative.
+
+- 2026-06-28: **Thesis intact; minor multiple housekeeping; stock drifted lower toward the 52-wk low — assessed as sentiment/macro, not fundamental deterioration.** Price $22.70 (Robinhood 2026-06-26 close) vs. $22.10 on 2026-06-23 — roughly flat, still ~3% above the $21.99 52-wk low (2026-06-18). Refreshed multiples: trailing P/E 7.62 (was 7.4), P/B 1.44 (was 1.40), div yield ~4.89% (was ~5.0%), market cap ~$157.7B (was ~$153.5B). **EV/EBITDA revised up to ~6.9x** (stockanalysis.com 6.88, accessed 2026-06-28) vs. the ~6.2–6.6x cited on 2026-06-23 — the prior figure was a GuruFocus/NTM read; the current trailing measure is ~6.9x, so the "T is the cheapest of the three on EV/EBITDA" claim is now narrower (T ~6.9x vs VZ ~7.1x NTM) but still holds modestly. Trailing FCF now pinned at ~$17.4B / ~11.0% FCF yield (stockanalysis.com). **New confirmations:** (1) buyback — board approved a **new $10B repurchase authorization** after completing the prior $10B program; ~$8B of buybacks expected in 2026 (mlq.ai, accessed 2026-06-28) — the equity-return catalyst flagged on 2026-06-23 is now active. (2) Q1 dividend FCF payout ~79.7% (financecharts.com), confirming coverage with room. (3) Leverage path reiterated: ~3.2x post-EchoStar → ~3.0x by end-2026 → ~2.5x target within ~3 yrs (AT&T guidance, sahmcapital/SEC). **Why near the 52-wk low (honest read):** the de-rate is driven by (a) a California **copper-retirement regulatory dispute** (CPUC urging FCC/courts to block copper discontinuance; ~$1B/yr legacy cost overhang) and legacy revenue down 25.3% YoY in Q1; (b) **Starlink/SpaceX + cable** broadband-competition fears pressuring the fiber/FWA growth narrative; (c) high-yield "bond proxy" rate sensitivity; (d) the EchoStar leverage-peak optics. These are sentiment/regulatory/macro overhangs on a business whose core KPIs are still improving (Q1: 294K postpaid phone net adds, 584K internet net adds, wireless service revenue +1.7% YoY, advanced home internet revenue +27.3% YoY, FCF $2.5B at the high end of guide). **Verdict: value, not (yet) deterioration** — but Starlink/cable broadband competition and the copper-cost regulatory tail are the items to watch; Q2 earnings on 2026-07-22 is the next confirmation point. Intrinsic estimate held at **~$26–28 (~15–20% discount at $22.70)**; analyst median target ~$30.5–31.0 (stockanalysis.com / Insider Monkey, accessed 2026-06-28) sits above my range.
+
+---
+
+## 1. Buy-Side Mispricing Analysis
+
+**Valuation context:** ~7.6x trailing / ~9.7x guided-2026 adjusted earnings, ~6.9x EV/EBITDA, and a ~11% trailing free-cash-flow yield (~$17.4B TTM FCF; >$18B guided 2026).
+
+**1. Business model clarity.** Post-divestitures (DirecTV, WarnerMedia), AT&T is genuinely simpler than its reputation: a **wireless** carrier (#2/#3 by postpaid share) plus a growing **fiber** broadband network, with a declining legacy copper/wireline tail. Remaining modeling friction: (a) legacy runoff that masks growth in the good segments — legacy revenue fell **25.3% YoY in Q1 2026** (ts2.tech, accessed 2026-06-28); (b) heavy fiber capex plus the ~$23B EchoStar spectrum acquisition lifting near-term leverage (AT&T, about.att.com/story/2025/echostar.html); (c) skepticism baked in from a decade of value-destructive M&A. Most of the confusion is *historical baggage*, not present-day complexity.
+
+**2. Earnings quality.** The **7.62x trailing GAAP P/E** (Robinhood, as of 2026-06-26) is flattered by non-cash/one-time items, which is why the *adjusted* forward multiple (~9.7x on guided $2.25–2.35; stockanalysis.com 9.66) is the honest earnings number. The higher-quality lens is cash: AT&T guides **>$18B FCF in 2026, >$19B in 2027, >$21B in 2028** (AT&T 1Q26 release, about.att.com/story/2026/1q-earnings.html), against ~$17.4B trailing (stockanalysis.com). That FCF covers the ~$8B dividend with room — Q1 dividend FCF payout ~**79.7%** (financecharts.com/stocks/VZ comparison set, accessed 2026-06-28; AT&T Q1 figure) — plus the now-active buyback. Cash earnings, not GAAP EPS, are the right basis, and they are improving.
+
+**3. Hidden assets / optionality.** (i) **Fiber build optionality** — expansion toward 60M+ locations; each passing is a long-duration, high-margin annuity consensus discounts heavily; advanced home internet revenue grew **+27.3% YoY in Q1** (Yahoo/BigGo, accessed 2026-06-28). (ii) **Convergence** — bundling wireless + home internet lowers churn and raises ARPU/household, an undermodeled moat. (iii) **Spectrum depth** (augmented by EchoStar) supports capacity without a later capex spike. (iv) **Deleveraging-driven equity value transfer** — as net debt (~$147.8B; stockanalysis.com) falls, enterprise value accrues to equity even at flat EV.
+
+**4. Recent sentiment.** The stock sits ~3% above its 52-week low ($21.99, 2026-06-18) vs. a $29.79 high (2025-09-05), a ~24% drawdown (Robinhood, as of 2026-06-26). The de-rate reflects (a) a **California copper-retirement regulatory dispute** — CPUC urging FCC/courts to block copper discontinuance, with ~$1B/yr legacy maintenance overhang (ts2.tech, accessed 2026-06-28); (b) **Starlink/SpaceX + cable broadband competition** fears denting the fiber/FWA growth story (insidermonkey, accessed 2026-06-28); (c) net-leverage optics (~3.2x peak post-EchoStar); (d) rate sensitivity of a high-yield "bond proxy." These are largely *regulatory/sentiment/macro* drivers layered on a business whose operating KPIs (Q1: 294K postpaid phone net adds, 584K internet net adds = 292K fiber + 292K FWA, wireless service revenue +1.7% YoY) are improving (AT&T 1Q26 release; Yahoo, accessed 2026-06-28).
+
+**5. Who is likely selling.** (a) **Income/yield investors** rotating to risk-free yields or spooked by the leverage uptick and the memory of the 2022 dividend cut; (b) **rate-driven sellers** treating T as a bond proxy; (c) **broadband-disruption sellers** extrapolating Starlink/cable share loss; (d) **index/tax-loss/sentiment** sellers pushing it toward 52-week lows. Little is driven by deterioration in the core wireless+fiber economics — it is balance-sheet optics, a regulatory headline, and macro positioning.
+
+**What the market must believe — and is it reasonable?** For ~9.7x guided earnings / ~6.9x EV/EBITDA / ~11% FCF yield to be *fair*, the market must believe FCF stalls near $18B (no growth to the guided >$21B by 2028), that EchoStar leverage proves un-deleverable, that Starlink/cable structurally caps the broadband growth leg, and that the California copper fight materially impairs cash. Against management's multi-year FCF *growth* guide, an improving subscriber trajectory, a mechanical deleveraging path, and a copper exposure that is a contained ~$1B/yr cost (not an existential threat), that pessimism looks overdone. The most likely market error remains extrapolating "old AT&T" onto "new AT&T" — now compounded by an over-weighting of the Starlink narrative against a fiber business that is still adding subscribers and growing home-internet revenue at ~27%.
+
+---
+
+## 2. Comparable Company Analysis
+
+**Subject:** T at ~9.7x forward (guided) earnings / ~6.9x EV/EBITDA / ~11% FCF yield. Sector: U.S. wireless + fiber/cable broadband.
+
+**Peer group.**
+- **Verizon (VZ)** — closest comp: wireless-led, similar maturity and dividend-yield profile, also building FWA/fiber.
+- **T-Mobile (TMUS)** — wireless pure-play, the growth/quality leader; the premium benchmark, a poor "value" comp (flagged as a growth comp).
+- **Comcast (CMCSA)** / **Charter (CHTR)** — cable broadband + wireless MVNO; comps for the *broadband* leg and the convergence dynamic, not wireless economics. (CHTR pays no dividend; CMCSA's headline ~11% yield reflects a depressed price.)
+
+**The valuation gap** (T multiples: stockanalysis.com accessed 2026-06-28 & Robinhood as of 2026-06-26; peers from stockanalysis.com / financecharts.com / Yahoo, accessed 2026-06-28):
+
+| Company | Fwd P/E | EV/EBITDA | Div yield | FCF yield (approx) |
+|---|---|---|---|---|
+| **T** | **~9.7** | **~6.9** | **~4.9%** | **~11%** |
+| VZ | ~9.5 | ~7.1 (NTM) | ~6.1% | ~9–10% |
+| TMUS (growth comp) | ~15.9 | ~9.3 | ~2.3% | ~5–6% |
+| CMCSA | n/a (low) | ~4.9 (NTM) | ~11.0% | high (depressed price) |
+| CHTR | ~7.3 | n/a | none | high (buyback-funded) |
+
+**Averages/medians (the three wireless comps T/VZ/TMUS):** mean fwd P/E ~11.7x, median ~9.7x (T is *at* the median, dragged up by TMUS); mean EV/EBITDA ~7.8x, median ~7.1x — **T (~6.9x) sits below both the mean and median.** Across the broader five-name set, the cable names distort yields (CMCSA's ~11% and CHTR's zero are both price/policy artifacts), so the wireless trio is the cleanest read.
+
+**T's discount/premium.** On forward P/E, T (~9.7x) and VZ (~9.5x) are near-identical, both at a steep discount to TMUS (~15.9x). On **EV/EBITDA, T (~6.9x) is marginally cheaper than VZ (~7.1x)** and far below TMUS (~9.3x); note this gap narrowed since 2026-06-23 (prior T read ~6.2–6.6x was an NTM figure). CMCSA's ~4.9x EV/EBITDA is *cheaper* than T, but on a different (cable, MVNO) asset base with its own broadband-disruption discount.
+
+**Explaining the gap.** vs. TMUS — the ~2.4-turn EV/EBITDA premium is *earned*: faster postpaid growth, ~40%+ expanding margins, lower capex intensity, superior FCF conversion. T should not trade at TMUS's multiple today. vs. VZ — T carries higher net leverage (peaking ~3.2x post-EchoStar) and a credibility discount from past M&A; VZ's higher yield (~6.1%) makes it the income substitute. T's slightly cheaper EV/EBITDA plus better fiber-build/FCF-growth trajectory makes its residual discount a mild mispricing rather than a fully justified one. vs. CMCSA/CHTR — the cable names price in broadband-share loss (the same Starlink/fiber fear now hitting T), so their low multiples are a *warning*, not a clean bull signal.
+
+**What closes the gap.** T re-rates if it (a) demonstrably **deleverages** toward ~2.5x after the EchoStar peak (guided ~3.0x by end-2026; sahmcapital, accessed 2026-06-28); (b) delivers the guided **FCF ramp to >$21B by 2028**; (c) sustains fiber + convergence momentum, defusing the Starlink narrative; (d) executes the new **$10B buyback** (~$8B in 2026; mlq.ai, accessed 2026-06-28). Closing even half the EV/EBITDA gap to VZ plus FCF growth supports a high-$20s share price. Achievability: **reasonable-to-good** — deleveraging math and FCF ramp are management-guided and KPIs point the right way; main risk is wireless/broadband price competition compressing the EBITDA base.
+
+---
+
+## 3. Catalyst & Value-Trap Analysis
+
+**Thesis.** "New AT&T" is a focused wireless+fiber connectivity utility generating ~$17.4B trailing FCF (guided >$18B 2026 → >$21B 2028) at ~11% FCF yield, ~6.9x EV/EBITDA and ~9.7x guided earnings, with improving subscriber KPIs and a credible deleveraging path. The market is still pricing the discredited "old AT&T" and now over-weighting a Starlink/cable broadband-disruption narrative and a contained California copper-cost overhang.
+
+**Approx. discount to my intrinsic estimate.** Anchoring on a sustainable ~7–8% FCF yield on ~$18B FCF (≈$225–260B equity value) plus a modest EV/EBITDA re-rate toward VZ, and cross-checking against the ~$30.5–31.0 analyst median (stockanalysis.com / Insider Monkey, accessed 2026-06-28), I hold my own rough intrinsic value at **~$26–28**. At $22.70 (Robinhood, as of 2026-06-26) that is a **~15–20% discount** (analyst consensus implies more). I keep my estimate conservative, *below* consensus, to reflect the broadband-competition and regulatory uncertainties.
+
+**Catalyst analysis.**
+1. **Re-rating triggers:** (a) the now-active **$10B buyback** / ~$8B 2026 repurchases at ~$22 (mlq.ai, accessed 2026-06-28) — management signaling equity is cheap; (b) visible **deleveraging** (guided ~3.0x by end-2026 → ~2.5x within ~3 yrs; sahmcapital/SEC, accessed 2026-06-28); (c) delivery of the **FCF ramp** (>$18B → >$21B); (d) continued strong fiber + FWA net adds and convergence attach, defusing Starlink fears; (e) a benign resolution of the California copper dispute.
+2. **Likelihood/timeframe:** FCF delivery and dividend coverage are high-probability and continuous (12–24 mo). Deleveraging is mechanical post-EchoStar peak (12–36 mo). The buyback is now authorized — a near-term, observable catalyst. Q2 earnings **2026-07-22** is the next concrete checkpoint.
+3. **Biggest-impact catalyst:** proof of **deleveraging + FCF growth together**, which retires the "stretched balance sheet" narrative that anchors the multiple and is what moves T from ~6.9x toward VZ-plus EV/EBITDA. The active buyback is the most *immediate* signal.
+4. **Working against the thesis (near term):** the EchoStar leverage peak (~3.2x) could spook income holders; intensifying **Starlink/cable broadband competition**; the **California copper-retirement** regulatory fight and its ~$1B/yr cost tail; a rate-driven sell-off in high-yield bond proxies.
+
+**Value-trap check (telecom is a classic value-trap sector — be rigorous).**
+5. **Three common reasons cheap telecoms never re-rate, and applicability:** (i) *capital-intensity eats all the cash* — **partially applicable, the swing risk**: fiber capex pressured Q1 FCF to $2.5B, but management guides FCF *grows* as the build matures; execution must prove it. (ii) *secular decline outruns growth* — applicable to the legacy tail (legacy revenue −25.3% YoY), but the growth segments are now larger and expanding (home internet +27.3%, wireless service +1.7%); the *new* twist is Starlink/cable potentially capping the broadband growth leg — watch fiber/FWA net adds closely. (iii) *balance sheet caps the multiple* — applicable near-term (EchoStar peak) but explicitly transitional and management-guided downward. The cable comps (CMCSA ~4.9x, CHTR no dividend) are a live reminder that broadband-disruption fear can keep a multiple depressed for years — the dominant trap risk here is broadband competition, not (as in 2026-06-23) pure capital intensity.
+6. **Governance/capital allocation:** **mixed, improving.** The history (DirecTV, WarnerMedia, 2022 dividend cut) is a genuine black mark and the core credibility discount. Current management has refocused on connectivity, set a sustainable dividend, prioritized deleveraging, and *now* paired it with a disciplined $10B buyback rather than fresh large M&A — a materially better posture. The thesis partly depends on this discipline persisting; backsliding into big M&A would break it.
+
+**Risk/reward verdict.** Attractive as a cash-return + deleveraging value idea, with the caveat that the new overhang (Starlink/cable broadband competition + California copper regulation) is a genuine, watch-closely risk rather than pure sentiment. You collect a well-covered ~4.9% dividend while waiting, the ~11% FCF yield provides a hard valuation floor, the re-rate catalysts (active buyback, guided deleveraging + FCF growth) are observable, and the stock is ~3% off its 52-week low — which on current KPIs reads as **value rather than fundamental deterioration**, though Q2 (2026-07-22) is the next proof point. The principal risks — capex intensity, a wireless/broadband price war, and copper regulation — are real *operating/regulatory* risks against a bounded downside, not existential. At a ~15–20% discount to a deliberately conservative intrinsic estimate (and a wider gap to consensus), with income paid to wait, holding through the EchoStar leverage peak looks favorable. T remains the preferred expression of the telecom value discount over VZ (better growth/deleveraging trajectory); VZ (higher ~6.1% yield) is the income-first alternative.
+
+---
+
+### Sources
+- Robinhood market-data connector — T price/multiples (price $22.70, P/E 7.62, P/B 1.44, mkt cap ~$157.7B, shares ~6.95B, div yield ~4.89%, 52-wk $21.99–$29.79), as of 2026-06-26 close.
+- AT&T 1Q 2026 results & guidance (Q1: adj EPS $0.57 +~12% YoY, FCF $2.5B, 294K postpaid phone net adds, 584K internet net adds = 292K fiber + 292K FWA, wireless service revenue +1.7% YoY, advanced home internet revenue +27.3% YoY; FY guidance: adj EPS $2.25–2.35, FCF >$18B 2026 / >$19B 2027 / >$21B 2028; >$45B shareholder returns 2026–2028; leverage ~3.2x post-EchoStar → ~3.0x end-2026 → ~2.5x within ~3 yrs): AT&T newsroom, https://about.att.com/story/2026/1q-earnings.html ; reiteration via sahmcapital, https://www.sahmcapital.com/news/content/att-reiterates-2026-and-multi-year-financial-guidance-2026-03-03 (accessed 2026-06-28).
+- EchoStar spectrum acquisition (~$23B): AT&T, https://about.att.com/story/2025/echostar.html (accessed 2026-06-28).
+- T valuation metrics (trailing P/E 7.59, fwd P/E 9.66, EV/EBITDA 6.88, TTM FCF $17.35B, FCF yield 10.99%, net debt $147.79B, EV $305.65B): stockanalysis.com, https://stockanalysis.com/stocks/t/statistics/ (accessed 2026-06-28).
+- Buyback (new $10B authorization, ~$8B 2026 repurchases) & dividend coverage (~79.7% Q1 FCF payout): mlq.ai, https://mlq.ai/news/att-launches-10-billion-share-repurchase-program-after-solid-earnings/ ; financecharts.com (accessed 2026-06-28).
+- Peer multiples: VZ (fwd P/E ~9.5, EV/EBITDA ~7.1 NTM, yield ~6.1%) & TMUS (fwd P/E 15.91, EV/EBITDA 9.30, yield ~2.3%): stockanalysis.com, https://stockanalysis.com/stocks/vz/statistics/ and https://stockanalysis.com/stocks/tmus/statistics/ ; CMCSA (EV/EBITDA ~4.9 NTM, yield ~11.0%) Yahoo Finance, https://finance.yahoo.com/quote/CMCSA/key-statistics/ ; CHTR (fwd P/E ~7.3, no dividend) Finimize, https://finimize.com/content/chtr-asset-snapshot (accessed 2026-06-28).
+- 52-week-low context / Starlink & California copper dispute / Q2 earnings 2026-07-22: ts2.tech, https://ts2.tech/en/att-nyset-near-52-week-low-with-california-copper-dispute-and-july-earnings-ahead/ ; Insider Monkey, https://www.insidermonkey.com/blog/att-t-trades-near-its-52-week-low-but-analysts-remain-bullish-1788854/ (accessed 2026-06-28).
+- Analyst targets (median ~$30.5–31.0, ~60% Buy): stockanalysis.com, https://stockanalysis.com/stocks/t/forecast/ ; Insider Monkey (as above), accessed 2026-06-28.

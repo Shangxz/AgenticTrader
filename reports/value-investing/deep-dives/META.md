@@ -1,0 +1,108 @@
+# Deep Dive — Meta Platforms, Inc. (META)
+
+**First created:** 2026-06-25 · **Last updated:** 2026-06-28
+
+**Current price:** **$549.43** (Robinhood, as of 2026-06-26 close; prev close 2026-06-25 $542.87)
+
+**Key valuation snapshot:**
+| Metric | Value | Source |
+|--------|-------|--------|
+| Price | $549.43 | Robinhood, as of 2026-06-26 close |
+| Trailing P/E | 20.00 | Robinhood, as of 2026-06-26 close |
+| Forward P/E | ~17x | [GuruFocus 17.11 (2026-06-23)](https://www.gurufocus.com/term/forward-pe-ratio/META), [stockanalysis.com ~17.0](https://stockanalysis.com/stocks/meta/statistics/) |
+| EV/EBITDA | ~12.9x | [Simply Wall St / search context (Jun 2026)](https://simplywall.st/stocks/us/media/nasdaq-meta/meta-platforms) |
+| Price / Book | 5.73 | Robinhood, as of 2026-06-26 close |
+| Dividend yield | ~0.38% | Robinhood, as of 2026-06-26 close |
+| Market cap | ~$1.395T (~2.54B sh out) | Robinhood, as of 2026-06-26 close |
+| 52-wk range | $520.26 (2026-03-27) – $796.25 (2025-08-15); ~31% below high | Robinhood, as of 2026-06-26 close |
+| FY2026 consensus EPS | ~$32.81 (raised from ~$29.65) | [Simply Wall St (Jun 2026)](https://simplywall.st/stocks/us/media/nasdaq-meta/meta-platforms/future) |
+| TTM free cash flow | ~$46–51B (down ~38% YoY) | [MacroTrends (Jun 2026)](https://www.macrotrends.net/stocks/charts/META/meta-platforms/free-cash-flow), [Investing.com](https://www.investing.com/analysis/meta-faces-margin-pressure-as-capex-surges-but-free-cash-flow-holds-up-200675340) |
+| FCF yield | ~3.45% | [GuruFocus (2026-06-27)](https://www.gurufocus.com/term/fcf-yield/META) |
+| 2026 capex guidance | $125–145B (raised from $115–135B) | [Fortune](https://fortune.com/2026/04/29/meta-zuckerberg-145-billion-ai-spending-roi/), [Yahoo Finance](https://finance.yahoo.com/sectors/technology/article/meta-stock-sinks-after-q1-earnings-as-company-raises-2026-ai-spending-forecast-to-125-billion-145-billion-160136308.html) |
+
+> **Disclaimer:** Research support only — **not** personal financial advice. Live price/multiples are from the Robinhood market-data connector as of the 2026-06-26 close; all other figures carry an inline source URL and as-of date. Figures may be revised; verify before acting. Do your own due diligence.
+
+**Why it is on the list:** Meta trades at ~20x trailing / ~17x forward earnings — *below* its own five-year average (~23x) and below mega-cap-platform peers — despite Q1 2026 revenue +33% and EPS +62%. The ~31% drawdown from its $796 high is **almost entirely an AI-capex story**: 2026 capex guided to $125–145B compressed near-term free cash flow and spooked investors who see Meta (unlike its cloud-owning peers) monetizing AI only indirectly through advertising. The investment question is the cleanest possible version of the framework: **is this a genuine deterioration in free-cash-flow economics, or a market misunderstanding of a dominant, cash-generative advertising franchise temporarily out-spending its visible ROI?** This is *quality-led value* — a high-quality compounder cheaper on earnings than it has been in years — **not** a statistically cheap deep-value stock, and it carries a real, not imaginary, capex/FCF risk. The discipline here is distinguishing genuine value from a falling knife.
+
+---
+
+## Update Log
+
+- 2026-06-25 (initial deep dive): Established thesis at $557.67 (Robinhood 2026-06-24 close), trailing P/E 20.44, forward P/E ~19.4x, P/B 5.86, mkt cap ~$1.42T. Core call: quality-led value; ~30% drawdown is a capex/FCF de-rating, not an earnings miss. Q1 2026 revenue +33% YoY, EPS $10.44 (+62%), 2026 capex raised to $125–145B. Q1 FCF ~$12.4B; ~$107B multi-year infra commitments signed in the quarter. Reality Labs cumulative losses >$83B ($4B in Q1). Central intrinsic value ~$700–760; ~20–25% discount. Verdict: starter-to-medium, watch-the-capex position; conviction moderate, capped by Zuckerberg dual-class control / capex risk.
+- 2026-06-28: **Thesis intact; modestly more attractive on price and forward multiple.** Price $549.43 (Robinhood 2026-06-26 close), down ~1.5% from the prior $557.67; trailing P/E 20.00, P/B 5.73, mkt cap ~$1.395T — still ~31% below the $796.25 high. **Key change: the forward multiple has compressed to ~17x** ([GuruFocus 17.11, 2026-06-23](https://www.gurufocus.com/term/forward-pe-ratio/META)) from ~19.4x, because **FY2026 consensus EPS was raised to ~$32.81 from ~$29.65** ([Simply Wall St](https://simplywall.st/stocks/us/media/nasdaq-meta/meta-platforms/future)) — i.e., the stock got cheaper on forward earnings even as price was roughly flat, a genuine improvement in the value case. **Reality Labs cumulative losses now exceed ~$90B** (vs ~$83B prior; Q1 RL loss $4.03B on $402M revenue, [stocktitan/CNBC](https://www.cnbc.com/2026/04/29/meta-q1-earnings-report-2026.html)). New datum: Meta announced **~8,000 layoffs (~10% of workforce)** alongside Q1 — a cost-discipline signal that partly offsets capex anxiety ([Fortune](https://fortune.com/2026/04/29/meta-zuckerberg-145-billion-ai-spending-roi/)). TTM FCF now pegged ~$46–51B (down ~38% YoY) with FCF yield ~3.45% ([GuruFocus 2026-06-27](https://www.gurufocus.com/term/fcf-yield/META)); EV/EBITDA ~12.9x. Capex guidance unchanged ($125–145B). Sell-side consensus PT ~$839 ([MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/META/forecast/)). I **raise my central intrinsic value modestly to ~$720–780** on the higher forward EPS, implying **~25–30% discount**; verdict and position-size discipline unchanged (starter-to-medium, capex-watch, capped by dual-class control).
+
+---
+
+## 1. Buy-Side Mispricing Analysis
+
+*Acting as a buy-side analyst assessing whether META's valuation reflects a genuine business problem or a market misunderstanding.*
+
+**1. Business-model clarity.** The *core* business is crystal clear and exceptional: Meta derives almost all revenue from advertising across Facebook, Instagram, WhatsApp and Messenger — a scaled, high-margin, network-effected platform (Q1 2026 operating margin ~41%, [Investing.com](https://www.investing.com/analysis/meta-faces-margin-pressure-as-capex-surges-but-free-cash-flow-holds-up-200675340)). What genuinely *confuses* analysts is the **capital-allocation overlay**: $125–145B of 2026 AI/data-center capex with, in Zuckerberg's own words on the Q1 call, no "very precise plan" for how each AI product will scale ([Fortune](https://fortune.com/2026/04/29/meta-zuckerberg-145-billion-ai-spending-roi/)). Capex-to-revenue is expected to reach ~53% in FY2026 — well above hyperscaler peers — with capex growth approaching ~100% YoY over the next three quarters ([Simply Wall St](https://simplywall.st/stocks/us/media/nasdaq-meta/meta-platforms)). The difficulty is not modeling the ad business — it is modeling the *return* on an enormous, partly-speculative infrastructure build whose payoff is indirect (better ad targeting, AI features) rather than a directly-billed cloud product.
+
+**2. Earnings quality.** High on the income statement, *compressed* on the cash-flow statement. Q1 2026 EPS of $10.44 (+62%) and revenue +33% are real and ad-driven — though Q1 net income was flattered by an **$8.03B tax benefit** from updated US R&D-capitalization guidance ([CNBC](https://www.cnbc.com/2026/04/29/meta-q1-earnings-report-2026.html)), so the headline EPS *overstates* clean operating earnings power somewhat. Q1 capex was **$19.8B**, and **free cash flow was ~$12.4B** ([Global Data Center Hub](https://www.globaldatacenterhub.com/p/meta-q1-2026-the-145b-reset-and-the)). TTM FCF has fallen ~38% YoY to ~$46–51B ([MacroTrends](https://www.macrotrends.net/stocks/charts/META/meta-platforms/free-cash-flow)), and FCF yield sits at just ~3.45% ([GuruFocus](https://www.gurufocus.com/term/fcf-yield/META)) — thin for a "value" name and likely to fall further as H2 capex accelerates. So reported *earnings* arguably *overstate* current *free*-cash generation because capex (and future depreciation) is running far ahead of the visible revenue it supports. The bull case is that today's capex is tomorrow's earnings; the bear case is that FCF stays structurally compressed.
+
+**3. Hidden assets / optionality.** (a) **AI monetization optionality** — better ad ranking/recommendations, business-messaging/AI agents, Reels monetization, and emerging AI-subscription plans are largely *unpriced* at ~17x forward (analysts note the multiple "prices in near-zero credit for the AI monetization story" — [stockanalysis context](https://stockanalysis.com/stocks/meta/statistics/)). (b) **WhatsApp/Messenger monetization** runway. (c) **Reality Labs** is *negative* optionality today — cumulative operating losses now exceed **~$90B**, with a $4.03B loss in Q1 2026 on just $402M revenue ([CNBC](https://www.cnbc.com/2026/04/29/meta-q1-earnings-report-2026.html)) — but the loss is roughly flat YoY (vs $4.21B a year ago), and management is shifting spend from VR toward wearables, capping (not eliminating) the bleed.
+
+**4. Recent sentiment.** The repricing is **event-driven and specific**: the stock fell ~7–10% after Q1 2026 when capex guidance was *raised* to $125–145B, despite an earnings/revenue beat (consensus EPS was $6.66; actual $10.44, [Yahoo Finance](https://finance.yahoo.com/sectors/technology/article/meta-stock-sinks-after-q1-earnings-as-company-raises-2026-ai-spending-forecast-to-125-billion-145-billion-160136308.html)). It is now ~31% below its August-2025 high and ~13% YTD. The decline is a **multiple de-rating on capex/FCF anxiety**, not an earnings disappointment — the textbook profile of a potentially disproportionate, temporary repricing *if* the spend proves productive. Notably, forward EPS estimates have *risen* (~$29.65 → ~$32.81) even as the stock fell — the kind of price-down/estimates-up divergence value investors look for.
+
+**5. Who is selling and why.** (a) **"FCF/quant" funds** whose models penalize the collapsed free-cash-flow line (FCF yield ~3.45% and falling) as capex approaches operating cash flow; (b) **momentum funds** exiting after the ~31% drawdown broke the trend; (c) **"AI-loser" narrative sellers** who note Meta lacks a cloud business to directly monetize AI demand, unlike MSFT/AMZN/GOOGL. This is partly fundamental (FCF *is* compressed) and partly narrative — and the narrative ("Meta is the AI loser") is exactly what could be mispriced given its data, distribution, and ad-targeting advantages.
+
+**What the market must believe for ~$549 to be *fair*, and is it reasonable?** The market must believe Meta's AI capex destroys value — that $125–145B/year (capex/revenue ~53%, growing ~100% YoY) does *not* produce enough incremental ad efficiency/revenue to justify the depreciation and cash outlay, leaving FCF permanently compressed — *and* that ad-revenue growth (still +33%) decelerates sharply. **Is that reasonable?** Partially defensible on capex risk — the FCF compression is real, the payback is genuinely unproven, and capex/revenue at 53% is extreme. But it sits awkwardly against +33% revenue, *rising* forward EPS estimates, ~41% operating margins, the ~8,000-person cost-cut signal, and a sub-historical ~17x forward multiple. The market is extending near-zero credit to AI monetization while a dominant ad franchise compounds. The asymmetry favors buyers *who can underwrite the capex discipline*; the risk is genuine but appears over-discounted. This is the crux of "value vs falling knife" — and the evidence leans value, conditional on capex not running away further.
+
+---
+
+## 2. Comparable Company Analysis
+
+*Building a comp set for the investment committee. META trades at ~17x forward earnings (~20x trailing).*
+
+**Step 1 — Peer group (mega-cap internet / platform).**
+
+| Company | Forward P/E | EV/EBITDA | Notes / source |
+|---------|------------|-----------|----------------|
+| **Meta (META)** | **~17x** | **~12.9x** | Closest to value end; no cloud, RL drag. [GuruFocus](https://www.gurufocus.com/term/forward-pe-ratio/META) |
+| **Alphabet (GOOGL)** | ~29x | — | Best single comp: scaled ad + heavy AI capex, *but has Google Cloud* (direct AI monetization). [fullratio/financecharts](https://www.financecharts.com/compare/GOOGL,AMZN,MSFT/value/pe-ratio) |
+| **Amazon (AMZN)** | ~28x | — | AI-capex mega-cap, cloud-led (AWS). [financecharts](https://www.financecharts.com/compare/GOOGL,AMZN,MSFT/value/pe-ratio) |
+| **Microsoft (MSFT)** | ~28x | — | AI-capex mega-cap, cloud-led (Azure). [financecharts](https://www.financecharts.com/compare/MSFT,GOOGL,AMZN/value/pe-ratio) |
+| **Netflix (NFLX)** | ~19–23x | — | Scaled consumer-internet quality comp on engagement; subscription, not ad-led. [GuruFocus 20.60](https://www.gurufocus.com/term/forward-pe-ratio/NFLX), [Yahoo 22.99](https://finance.yahoo.com/quote/NFLX/key-statistics/) |
+| Pinterest / Snap / Reddit | varies (mostly higher / loss-making) | — | Pure ad platforms but far smaller, lower-margin, weaker moats — poor quality comps that would *understate* Meta's quality. |
+
+*Best single comp: GOOGL* (scaled ad + AI capex), with the caveat that Google Cloud gives Alphabet a direct AI-revenue line Meta lacks — the crux of the "Meta is the AI loser" discount.
+
+**Step 2 — The gap.** Peer-group average/median forward P/E (GOOGL ~29x, AMZN ~28x, MSFT ~28x, NFLX ~20–23x) is roughly **~26–27x average / ~28x median**. META at **~17x** trades at a **~35–40% discount to the mega-cap-platform cohort**, below NFLX, and **below its own five-year average of ~23x** ([stockanalysis context](https://stockanalysis.com/stocks/meta/statistics/)). On EV/EBITDA (~12.9x) it is similarly the cheapest of the cohort. Despite faster revenue growth (+33% Q1) than most peers, Meta carries its lowest relative multiple in years.
+
+**Step 3 — Explaining the gap.** The discount to GOOGL/peers is *partly justified*: (a) **no cloud business** — Meta monetizes AI only indirectly via ads, so its capex has a longer, less-visible payback, while AMZN/MSFT/GOOGL recoup AI spend through directly-billed cloud revenue; (b) **FCF compression** is more acute because ~100% of the spend lands against an ad P&L with no offsetting cloud revenue (capex/revenue ~53%); (c) **Reality Labs drag** (~$90B+ cumulative losses) is a Meta-specific value leak peers don't carry. The discount to *its own history* is harder to justify on fundamentals (growth is faster, margins ~41%, estimates rising) and looks sentiment/capex-anxiety driven — the candidate mispricing.
+
+**Step 4 — What closes the gap.** META re-rates toward its ~23–25x history (a full re-rate to the ~28x peer median is unlikely while it lacks cloud) if it shows: (a) **AI capex translating into ad-revenue/efficiency gains** (improved ranking, recommendations, Reels/monetization-per-user) — the single most important proof point; (b) **capex *growth* decelerating / FCF recovering** as the build plateaus; (c) **Reality Labs loss containment** (VR→wearables shift holding RL losses flat-to-down); (d) continued ad-revenue durability + the cost discipline signaled by the ~8,000 layoffs. On recent trajectory (+33% revenue, EPS estimates rising), the *revenue/earnings* engine is delivering; the unproven variable is whether capex stays disciplined and productive. Consensus PT ~$839 ("Buy", [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/META/forecast/)) implies analysts expect the gap to close — but that is an input to scrutinize, not accept.
+
+---
+
+## 3. Catalyst & Value-Trap Analysis
+
+*As a value PM deciding whether META earns a concentrated-portfolio slot.*
+
+**Thesis:** Meta is a dominant, high-margin (~41% op margin) advertising franchise growing revenue ~30%+ and with *rising* forward EPS, trading at ~17x forward earnings — well below its own history and ~35–40% below mega-cap-platform peers — because a $125–145B AI-capex build (capex/revenue ~53%) has compressed near-term free cash flow (FCF yield ~3.45%, TTM FCF down ~38%) and triggered an "AI loser" narrative. If even a fraction of that spend converts to ad efficiency/AI monetization and capex growth plateaus, FCF recovers and the multiple re-rates. **Approx. discount to my central intrinsic-value estimate (~$720–780): ~25–30%.** *(I anchor well below the ~$839 sell-side consensus, haircutting heavily for capex/FCF risk; consensus is a cross-check, not my number. My estimate ≈ ~22–24x a capex-/tax-normalized forward EPS in the low-$30s.)*
+
+**Catalysts (12–36 months):**
+1. **Evidence AI capex lifts ad revenue/efficiency** (monetization-per-user, ranking/recommendation gains, Reels, AI-agent/business-messaging revenue, new AI-subscription plans). *Likelihood: moderate-high the tech helps ads; harder to cleanly attribute; 12–24 months.* **Highest-impact catalyst.**
+2. **Capex growth deceleration / FCF inflection** as the infrastructure build plateaus and depreciation is absorbed. *Likelihood: moderate; 12–36 months.*
+3. **Cost discipline delivering** — the ~8,000-person layoff (~10% of staff) plus held expense guidance ($162–169B) supporting operating income growth. *Likelihood: high near-term; ongoing.*
+4. **Reality Labs loss containment** (VR→wearables shift; RL losses flat-to-down). *Likelihood: moderate; ongoing.*
+5. **Multiple re-rating toward ~23–25x history** once the FCF/capex overhang clears, plus continued buybacks supporting per-share value. *Likelihood: moderate; 12–36 months.*
+
+**Near-term catalysts *against* the thesis:** another capex *guidance raise* (the exact trigger of the Q1 selloff), ad-cycle softening / decelerating revenue growth, a regulatory or antitrust adverse event, and headline Reality Labs losses. Any could re-pressure the stock even if the long-run ad franchise is intact.
+
+**Value-trap check.** Three reasons a stock in this situation never re-rates: (1) **the spend is genuinely value-destructive** — AI capex at ~53% of revenue earns sub-cost-of-capital returns and FCF stays permanently compressed (*the central, real risk here, and the reason this could be a falling knife rather than value*); (2) **secular ad-demand erosion** or competitive share loss (TikTok/others) — *lower probability given Meta's engagement and targeting, but non-trivial*; (3) **governance/capital-allocation that ignores shareholders** — Mark Zuckerberg's **dual-class voting control** means outside shareholders cannot force capex discipline or curb Reality Labs; the capital-allocation check is Zuckerberg's judgment, not the market's. That governance feature is the single biggest *structural* reason the gap could persist — there is no activist remedy available.
+
+**Risk/reward verdict.** META is **quality-led value with a sharp, identifiable overhang — a high-quality compounder, not a statistically cheap stock.** You are buying a dominant, fast-growing ad franchise at ~17x forward / ~13x EV/EBITDA, well below history and peers; the upside is a capex/FCF re-rating, and the downside is that founder-controlled, hard-to-restrain AI/Reality Labs spending earns poor returns and keeps FCF depressed. The value case actually *improved* this quarter — forward EPS rose while the price was flat — which argues against the pure falling-knife reading. But the risk is *real and not diversifiable by an outside holder* (dual-class control, capex/revenue at an extreme 53%), which is why this is a **starter-to-medium, watch-the-capex position** rather than a max-conviction slot. The ~25–30% discount to a capex-haircut intrinsic value, on a business compounding revenue 30%+ with rising estimates, is attractive *for investors willing to underwrite Zuckerberg's capital allocation*. Conviction: moderate — compelling valuation, but the governance/capex risk caps position size. The disciplined entry is to scale in and **let the H2 capex/FCF prints confirm the spend is productive before sizing up.**
+
+---
+
+### Sources
+- Robinhood market-data connector — price, P/E, P/B, dividend, market cap, shares out, 52-week range (as of 2026-06-26 close)
+- Meta Q1 2026 earnings (revenue +33%, EPS $10.44, $8.03B tax benefit, ~8,000 layoffs, RL loss): https://www.cnbc.com/2026/04/29/meta-q1-earnings-report-2026.html and https://finance.yahoo.com/sectors/technology/article/meta-stock-sinks-after-q1-earnings-as-company-raises-2026-ai-spending-forecast-to-125-billion-145-billion-160136308.html
+- Capex $125–145B / capex/rev ~53% / Zuckerberg "no precise plan": https://fortune.com/2026/04/29/meta-zuckerberg-145-billion-ai-spending-roi/ and https://simplywall.st/stocks/us/media/nasdaq-meta/meta-platforms
+- FCF / FCF yield (Q1 ~$12.4B, TTM ~$46–51B down ~38%, yield ~3.45%, op margin ~41%): https://www.globaldatacenterhub.com/p/meta-q1-2026-the-145b-reset-and-the , https://www.macrotrends.net/stocks/charts/META/meta-platforms/free-cash-flow , https://www.gurufocus.com/term/fcf-yield/META , https://www.investing.com/analysis/meta-faces-margin-pressure-as-capex-surges-but-free-cash-flow-holds-up-200675340
+- Reality Labs cumulative losses >$90B ($4.03B Q1 on $402M rev): https://www.cnbc.com/2026/04/29/meta-q1-earnings-report-2026.html
+- Forward P/E ~17x, EV/EBITDA ~12.9x, FY2026 EPS ~$32.81 (raised from ~$29.65): https://www.gurufocus.com/term/forward-pe-ratio/META , https://stockanalysis.com/stocks/meta/statistics/ , https://simplywall.st/stocks/us/media/nasdaq-meta/meta-platforms/future
+- Peer multiples (GOOGL ~29x, AMZN ~28x, MSFT ~28x, NFLX ~20–23x): https://www.financecharts.com/compare/GOOGL,AMZN,MSFT/value/pe-ratio , https://www.gurufocus.com/term/forward-pe-ratio/NFLX , https://finance.yahoo.com/quote/NFLX/key-statistics/
+- Analyst price target ~$839 "Buy": https://www.marketbeat.com/stocks/NASDAQ/META/forecast/ and https://247wallst.com/investing/2026/06/26/meta-stock-price-prediction-the-case-for-nearly-50-upside/
