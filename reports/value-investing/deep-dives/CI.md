@@ -1,6 +1,6 @@
 # The Cigna Group (CI)
 
-**First created:** 2026-06-23 · **Last updated:** 2026-06-28
+**First created:** 2026-06-23 · **Last updated:** 2026-06-29
 
 **Current price & key multiples:**
 - Price: **$282.39** (Robinhood, as of 2026-06-26 close; prev close 2026-06-25 $281.87)
@@ -18,6 +18,7 @@
 
 - 2026-06-23 (file created): First full three-prompt deep dive. CI had no prior deep-dive file; previously discussed only in the weekly report (`../2026-26.md`) and noted (not deep-dived) in the 2026-06-22 daily log. Thesis established: CI cheap at ~9.3x guided 2026 EPS / ~11.8x trailing on a sector-wide PBM/regulatory discount; cleaner insurance book than peers (pre-emptively shed riskiest MA risk), scaled Express Scripts PBM, ~$7.66B TTM FCF, FY2026 adj EPS guided up to ≥$30.35. Intrinsic estimate ~$330–360 (~11–12x guided EPS), ~15–22% discount. Single biggest catalyst: regulatory de-risking on PBM reform. Price referenced: $282.08 (Robinhood, 2026-06-22 close).
 - 2026-06-28: **Thesis unchanged; mild positive drift in price, fundamentals confirmed.** Price $282.39 (Robinhood, 2026-06-26 close) vs $282.08 prior — essentially flat (+0.1%). Trailing P/E 11.98x (vs 11.8x), forward P/E ~9.16x on the unchanged ≥$30.35 guide, EV/EBITDA tightened to ~7.3x (StockAnalysis, as-of 2026-06-28). TTM FCF re-confirmed ~$7.66B / ~10.2% FCF yield. **Key item elevated this revision:** the **FTC–Express Scripts settlement (announced Feb 2026)** is now the concrete shape of the "PBM reform" overhang — Cigna agreed to end rebate guarantees and spread pricing, delink formulary placement from list price, and base member out-of-pocket on net (not list) cost, "as soon as commercially feasible but no later than Jan 1, 2028," with a formal monitor (Pharmaceutical Commerce / Drug Channels, Feb 2026; see Sources). This converts an open-ended legislative fear into a **bounded, scheduled, largely-known cost** — it overlaps heavily with the rebate-free **Signature** model Cigna was already rolling out, so it is mostly margin-mix optics rather than a new profit-pool hit. Net read: the single largest source of multiple compression is now more *defined* than in the prior version, which modestly *reduces* (does not eliminate) value-trap risk. Peer multiples refreshed (see §2): UNH now ~32.3x, ELV ~16.8x — CI's relative discount is intact/slightly wider. Analyst consensus 12-mo targets cluster ~$340–362 (range $290–400), above my intrinsic estimate. Intrinsic estimate held at **~$330–360**, implying **~17–22% discount** at $282.39. No change to thesis or conviction.
+- 2026-06-29: **No-change refresh; thesis intact.** Weekend closure → the **2026-06-26 close** carries forward ($282.39; trailing P/E 11.98x, **~9.2x guided FY26 adj EPS ≥$30.35**, ~10% FCF yield, P/B 1.77x; Robinhood 2026-06-26 close + StockAnalysis). Monday pre-open firm (~$285.56 — Robinhood quote, 2026-06-29). FY26 adjusted-EPS guide of **≥$30.35 reaffirmed**; no new regulatory headlines over the weekend — the Feb-2026 FTC–Express Scripts settlement remains the bounding event for the PBM overhang. Intrinsic **~$330–360**, **~17–22% discount**; remains **top pick #3**.
 
 ---
 

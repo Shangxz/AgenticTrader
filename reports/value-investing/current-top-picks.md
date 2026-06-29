@@ -1,6 +1,6 @@
 # Current Top Value Picks
 
-**Last updated:** 2026-06-28 (data as of the 2026-06-26 market close — 2026-06-27/28 is a weekend)
+**Last updated:** 2026-06-29 (prices/multiples are the **2026-06-26 market close** carried forward — 2026-06-27/28 was a weekend and this run executed Monday 2026-06-29 pre-market, before the US open)
 
 > **Disclaimer:** Research support only — **not** personal financial advice. Live prices/multiples are from the Robinhood market-data connector as of the **2026-06-26 close**; all other figures (FCF, EV/EBITDA, forward multiples, peers, intrinsic value) are sourced inline with URLs and as-of dates inside each linked deep-dive file. Do your own due diligence.
 
@@ -8,8 +8,8 @@ This is the canonical, continuously-maintained list of the names with genuine co
 
 ## Ranked list
 
-| # | Ticker | Company | Price (2026-06-26) | Headline multiple | Approx. discount to my IV | One-line thesis | Deep dive |
-|---|--------|---------|-------------------:|-------------------|--------------------------:|-----------------|-----------|
+| # | Ticker | Company | Price (2026-06-26 close) | Headline multiple | Approx. discount to my IV | One-line thesis | Deep dive |
+|---|--------|---------|-------------------------:|-------------------|--------------------------:|-----------------|-----------|
 | 1 | **ACGL** | Arch Capital Group | $97.53 | P/E 7.49, P/B 1.47 (Robinhood, 2026-06-26) | ~13–18% | Three-engine (specialty insurance / reinsurance / mortgage) mid-teens-ROE compounder mispriced as a pure top-of-cycle P&C play. | [deep-dives/ACGL.md](deep-dives/ACGL.md) |
 | 2 | **EG** | Everest Group | $355.51 | P/E 7.24, **P/B 0.93 (below book)** (Robinhood, 2026-06-26) | ~18–25% | Scaled mid-teens-ROE global reinsurer trading below book purely on a reserve-credibility discount that is now ring-fenced. | [deep-dives/EG.md](deep-dives/EG.md) |
 | 3 | **CI** | The Cigna Group | $282.39 | P/E 11.98 trailing / **~9.2x guided FY26 EPS** (Robinhood, 2026-06-26 + guidance) | ~17–22% | ~$7.7B-FCF managed-care/PBM franchise priced for an open-ended regulatory fear that is now being bounded by a defined FTC settlement. | [deep-dives/CI.md](deep-dives/CI.md) |
@@ -20,13 +20,15 @@ This is the canonical, continuously-maintained list of the names with genuine co
 
 **Conviction note.** ACGL and EG are the two highest-margin-of-safety names (both ~7x earnings; EG uniquely below book) and give the list a P&C-insurance tilt — held deliberately because each is cheap for a *specific, contestable* reason rather than structural decline, with the reserve/cyclicality risks flagged honestly in each file. CI, WFC, GILD are quality franchises at clear earnings/FCF discounts. T is a high-yield deleveraging story (classic value-trap sector — held with eyes open). META is the one quality-*compounder*-at-a-reasonable-price entry, not a statistically cheap stock.
 
+**Membership unchanged from 2026-06-28.** Markets were closed over the weekend; no thesis-changing news surfaced for any pick. Pre-open Monday color (Robinhood, 2026-06-29): META firm (~$561, +~2%) and CI/GILD firm; ACGL/EG/T modestly soft on thin pre-open liquidity. All seven theses, intrinsic ranges and discounts are intact.
+
 ## Watchlist (genuine value attributes but below today's conviction bar)
 
 - **TMO** ($513.20, P/E 28.2) — high-quality life-science tools at a depressed-cycle price, but the multiple leaves little margin of safety. *Has a (dated) deep dive.*
 - **BRK.B** ($497.30, P/E 14.8, P/B 1.48) — fortress conglomerate at a fair multiple, but only ~4% off its high and rarely *dramatically* mispriced.
 - **GIS** ($36.00, P/E 8.85, 6.78% yield) — very cheap staples with a fat yield, but volume declines/secular pressure keep value-trap risk elevated. *Has a (dated) deep dive.*
 - **PYPL** ($44.30, P/E 8.31) — cheap on earnings, but competitive/execution questions on branded checkout. *Has a (dated) deep dive.*
-- **CMCSA** ($23.15, P/E 4.56 [gain-distorted], 5.70% yield) — statistically the cheapest name screened, but cable/broadband secular decline is a live value-trap risk. *Has a (dated) deep dive.*
+- **CMCSA** ($23.15, P/E 4.56 [gain-distorted], 5.70% yield) — statistically the cheapest name screened, but cable/broadband secular decline is a live value-trap risk; sits at a fresh 52-wk low ($22.13, 2026-06-22). *Has a (dated) deep dive.*
 - **MDT** ($80.96, P/E 21.7), **PEP** ($141, P/E 22.2), **MDLZ** ($60.7, P/E 30.1) — quality but not at a clear discount today. *MDT/PEP/MDLZ have (dated) deep dives.*
 
-_See `daily/2026-06-28.md` for today's full screen, selections, and change log._
+_See `daily/2026-06-29.md` for today's full screen, selections, and change log._
