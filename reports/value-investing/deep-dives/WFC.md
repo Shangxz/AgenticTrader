@@ -1,17 +1,17 @@
 # Wells Fargo & Company (WFC)
 
-**First created:** 2026-06-22 · **Last updated:** 2026-06-29
+**First created:** 2026-06-22 · **Last updated:** 2026-06-30
 
-**Current price:** $83.86 (Robinhood, as of 2026-06-26 close; prev close 2026-06-25 $84.74)
+**Current price:** $83.51 (Robinhood, as of 2026-06-29 close; prev ref 2026-06-26 close $83.86)
 
 **Key valuation metrics:**
-- Trailing P/E: **12.95** (Robinhood, as of 2026-06-26 close)
+- Trailing P/E: **12.95** (Robinhood, as of 2026-06-29 close)
 - Forward P/E: **~11.6x** on ~$7.07 FY2026 consensus EPS (StockAnalysis / Public.com analyst consensus, as of 2026-06: https://stockanalysis.com/stocks/wfc/forecast/ ; https://public.com/stocks/wfc/forecast-price-target)
-- Price / book: **1.58** (Robinhood, as of 2026-06-26 close)
-- Price / tangible book: **~1.86x** ($83.86 / TBVPS $45.02; TBVPS from Wells Fargo Q1 2026 release, as of 2026-04-14: https://www.sec.gov/Archives/edgar/data/72971/000007297126000213/wfc1qer04-14x26ex991xrelea.htm)
-- Dividend yield: **~2.15%** ($0.45/qtr; Robinhood, as of 2026-06-26 close) — Board intends to raise to $0.50/qtr in Q3 2026 (Wells Fargo, 2026-06-24: https://newsroom.wf.com/news-releases/news-details/2026/Wells-Fargo-Completes-2026-Stress-Test-and-Intends-to-Raise-Dividend-by-11-to-0-50/default.aspx)
-- Market cap: **~$256.6B** · Shares out **~3.06B** (Robinhood, as of 2026-06-26 close)
-- 52-week range: $72.78 (2026-05-15) – $97.76 (2026-01-05) (Robinhood, as of 2026-06-26 close)
+- Price / book: **1.58** (Robinhood, as of 2026-06-29 close)
+- Price / tangible book: **~1.86x** ($83.51 / TBVPS $45.02; TBVPS from Wells Fargo Q1 2026 release, as of 2026-04-14: https://www.sec.gov/Archives/edgar/data/72971/000007297126000213/wfc1qer04-14x26ex991xrelea.htm)
+- Dividend yield: **~2.15%** ($0.45/qtr; Robinhood, as of 2026-06-29 close) — Board intends to raise to $0.50/qtr in Q3 2026 (Wells Fargo, 2026-06-24: https://newsroom.wf.com/news-releases/news-details/2026/Wells-Fargo-Completes-2026-Stress-Test-and-Intends-to-Raise-Dividend-by-11-to-0-50/default.aspx)
+- Market cap: **~$255.5B** · Shares out **~3.06B** (Robinhood, as of 2026-06-29 close)
+- 52-week range: $72.78 (2026-05-15) – $97.76 (2026-01-05) (Robinhood, as of 2026-06-29 close)
 - Q1 2026 ROTCE: **14.5%**; ROE 12.2%; FY2025 ROTCE ~15.0%; medium-term target **17–18%** (Wells Fargo Q1 2026 release/earnings coverage, as of 2026-04-14: https://www.sec.gov/Archives/edgar/data/72971/000007297126000213/wfc1qer04-14x26ex991xrelea.htm ; https://www.tikr.com/blog/wells-fargo-stock-posts-15-eps-growth-and-1-trillion-loan-book-in-q1-2026)
 - CEO: Charles Scharf · Sector: Finance / Major Banks · HQ: San Francisco
 
@@ -24,6 +24,7 @@
 - 2026-06-22: Initial deep dive created. Thesis: WFC is a healed, high-return U.S. money-center bank still carrying a reputation/consent-order discount. Fed asset cap lifted (mid-2025); FY2025 ROTCE ~15% with a 17–18% medium-term target; ~6%/yr share-count reduction. Trading ~12.7x trailing / ~11.3x fwd and ~1.78x TBV vs. JPM ~15.6x / 2.87x TBV and a major-banks group of ~13–16x. Intrinsic estimate ~$100–110, ~20–25% discount. Catalysts: post-cap balance-sheet/NII growth, consent-order closures, CCAR-driven capital return, hitting 17–18% ROTCE. Risk/reward judged attractive; highest-conviction name in the screen. Price at creation $83.86 (Robinhood, 2026-06-22).
 - 2026-06-28: **Refresh. Thesis intact and modestly strengthened by a new, concrete capital-return catalyst.** Price essentially unchanged at $83.86 (Robinhood, as of 2026-06-26 close) vs. $83.86 on 2026-06-22 — flat over the period; stock still ~14% off its Jan-2026 high. Trailing P/E ticked to 12.95 (vs. 12.69) on Robinhood's updated trailing earnings; P/B 1.58 (vs. 1.54). **New since prior version:** (1) On 2026-06-24 Wells completed the Fed's 2026 stress test with its stress capital buffer **held at the 2.5% floor**, and the Board signalled intent to **raise the quarterly dividend ~11% to $0.50** (from $0.45) in Q3 2026 (Wells Fargo, 2026-06-24). (2) A **$40B share-repurchase authorization** has been confirmed alongside asset-cap relief (Yahoo Finance, 2026: https://finance.yahoo.com/news/fed-asset-cap-relief-40-180840325.html). **Data corrections vs. prior file:** Q1 2026 ROTCE is **14.5%** (the prior file's "15.0%" was the FY2025 figure, not Q1); TBVPS is **~$45.02** (was previously estimated indirectly), putting P/TBV at **~1.86x** at the current price (prior file cited ~1.78x from a stale GuruFocus snapshot); Q1 2026 **efficiency ratio rose to 67%** (from 64% in Q4 2025) — a watch item flagged below. FY2026 consensus EPS ~$7.07; consensus PT ~$95–96 (Buy). Intrinsic estimate refined to **~$98–108**, ~**17–23% discount** at $83.86.
 - 2026-06-29: **No-change refresh; thesis intact.** Weekend closure → the **2026-06-26 close** carries forward ($83.86; trailing P/E 12.95x, P/B 1.58x, P/TBV ~1.86x; Robinhood 2026-06-26 close). Monday pre-open flat (~$83.90 — Robinhood quote, 2026-06-29). The clean 2026 stress test (SCB held at the 2.5% floor), the planned ~11% dividend hike to $0.50/qtr (Q3 2026) and the $40B buyback authorization all stand; **Q2 2026 earnings are scheduled for 2026-07-14** (next catalyst). The Q1 efficiency ratio (~67%) remains the one genuine watch item. Intrinsic **~$98–108**, **~17–23% discount**; remains **top pick #4**.
+- 2026-06-30: **No-change refresh; thesis intact.** New canonical close 2026-06-29: **$83.51** (−0.4% vs the 06-26 $83.86 ref); trailing P/E 12.95x, P/B 1.58x, 2.15% yield (Robinhood, as of 2026-06-29 close). Multiples essentially unchanged. The post-stress-test capital-return story ($0.50 Q3 dividend, $40B buyback) and the lifted asset cap remain the core re-rating drivers. Intrinsic **~$98–108**, discount **~17–23%** intact. Remains **top pick #4**. Next catalyst: Q2 2026 earnings 2026-07-14.
 
 ---
 
@@ -31,7 +32,7 @@
 
 *Acting as an experienced buy-side analyst specialising in mispriced, undervalued companies.*
 
-**Valuation context:** WFC trades at **12.95x trailing** / **~11.6x forward** earnings and **~1.86x tangible book** (Robinhood, as of 2026-06-26 close; P/TBV computed off Q1 2026 TBVPS $45.02), versus JPMorgan at **15.76x P/E / 2.56x P/B** and a major-banks peer set generally in the 13–16x P/E band (Robinhood peer fundamentals, as of 2026-06-26 close). For a bank now earning a mid-teens ROTCE with a credible path to 17–18%, that remains a discount to the highest-quality peer.
+**Valuation context:** WFC trades at **12.95x trailing** / **~11.6x forward** earnings and **~1.86x tangible book** (Robinhood, as of 2026-06-29 close; P/TBV computed off Q1 2026 TBVPS $45.02), versus JPMorgan at **15.76x P/E / 2.56x P/B** and a major-banks peer set generally in the 13–16x P/E band (Robinhood peer fundamentals, as of 2026-06-29 close). For a bank now earning a mid-teens ROTCE with a credible path to 17–18%, that remains a discount to the highest-quality peer.
 
 **1. Business model clarity.** Wells is *not* genuinely hard to understand — it is a deposit-funded, U.S.-centric retail and commercial bank with a smaller trading book than JPM or Citi (segments: Consumer Banking & Lending, Commercial Banking, Corporate & Investment Banking, Wealth & Investment Management; Robinhood company profile). What confused the market for seven years was the *normalization path*: from 2018 the company operated under a Federal Reserve asset cap (~$1.95T) imposed after the 2016 fake-accounts scandal, which suppressed balance-sheet growth and made historical financials a poor guide to earning power. The Fed lifted the cap in mid-2025 (Federal Reserve, enforcement termination 2026-03-05: https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260305a.htm ; Banking Dive: https://www.bankingdive.com/news/fed-lifts-wells-fargo-asset-cap/749736/). The remaining modelling question is how fast Wells redeploys into higher-returning assets now that it can grow again.
 
@@ -39,7 +40,7 @@
 
 **3. Hidden assets / optionality.** The principal hidden asset is the *removed constraint itself* — incremental balance-sheet capacity peers always had and Wells did not. Optionality sits in (a) rebuilding the corporate & investment bank / markets franchise that was starved of balance sheet, (b) deposit-gathering it previously had to turn away, and (c) continued consent-order closures, each lowering regulatory cost and freeing capital. A fresh, concrete piece of optionality crystallized: the **$40B buyback authorization** plus a clean 2026 stress test (SCB held at the 2.5% floor) gives outsized, regulator-blessed capacity to shrink the share count against a ~$256B cap (Yahoo Finance, 2026: https://finance.yahoo.com/news/fed-asset-cap-relief-40-180840325.html ; Wells Fargo, 2026-06-24).
 
-**4. Recent sentiment.** The stock is ~14% off its January-2026 high of $97.76 and well above its May low of $72.78 (Robinhood, as of 2026-06-26 close), and has been roughly **flat over the past week** despite the favorable stress-test/dividend news. The drawdown tracks broad rate-cut/NII uncertainty and a spring-2026 soft patch in bank sentiment, plus the Q1 efficiency-ratio miss — not a franchise blow-up. The repricing looks macro- and cost-driven, potentially temporary.
+**4. Recent sentiment.** The stock is ~14% off its January-2026 high of $97.76 and well above its May low of $72.78 (Robinhood, as of 2026-06-29 close), and has been roughly **flat over the past week** despite the favorable stress-test/dividend news. The drawdown tracks broad rate-cut/NII uncertainty and a spring-2026 soft patch in bank sentiment, plus the Q1 efficiency-ratio miss — not a franchise blow-up. The repricing looks macro- and cost-driven, potentially temporary.
 
 **5. Who is likely selling and why.** Macro/rate-driven rotation out of banks by allocators worried about net-interest-margin compression in a cutting cycle; index/factor flows; some lingering "scandal discount" holders who never re-rated Wells to peer quality; and, near-term, cost-watchers reacting to the 67% efficiency print. None of these sellers are reacting to deteriorating credit or capital.
 
@@ -64,7 +65,7 @@
 
 *Poor comps to flag:* pure trust/custody banks (BK, STT) and standalone investment banks (GS, MS) have different revenue mixes and balance sheets; regional Truist (TFC) trades near book for return reasons that don't apply to Wells.
 
-**Step 2 — The valuation gap (Robinhood, as of 2026-06-26 close; P/TBV from GuruFocus 2026 where noted):**
+**Step 2 — The valuation gap (Robinhood, as of 2026-06-29 close; P/TBV from GuruFocus 2026 where noted):**
 
 | Bank | Trailing P/E | P/Book | P/TBV |
 |------|-------------|--------|-------|
@@ -73,9 +74,10 @@
 | C | 17.57 | 1.26 | ~1.35 (financecharts, 2026: https://www.financecharts.com/stocks/C/value/price-to-book-value) |
 | USB | 12.76 | 1.61 | — |
 | PNC | 14.22 | 1.71 | — |
+| TFC | 12.52 | 1.06 | — |
 | **WFC** | **12.95** | **1.58** | **~1.86** (TBVPS $45.02, Q1 2026 release) |
 
-Peer P/E average (JPM/BAC/C/USB/PNC) ≈ **14.9x**, median ≈ **14.4x**. WFC at 12.95x trailing / ~11.6x forward sits **~10–13% below** the peer median and **~18% below** JPM. On P/TBV, WFC (~1.86x) is roughly in line with BAC (~1.89x) and far below JPM (~2.87x), despite a comparable/improving return profile.
+Peer P/E average (ex-WFC) ≈ **14.5x**, median ≈ **14.3x**; peer P/Book average ≈ **1.62x**. WFC at 12.95x trailing / ~11.6x forward sits **~10–13% below** the peer median and **~18% below** JPM. On P/TBV, WFC (~1.86x) is roughly in line with BAC (~1.89x) and far below JPM (~2.87x), despite a comparable/improving return profile.
 
 **Step 3 — Explaining the gap.** The discount is *not* explained by inferior returns: WFC's ~14.5% Q1 ROTCE (FY2025 ~15%) is competitive, and its 17–18% target would rival or exceed BAC. The gap reflects (a) residual reputation/consent-order overhang from the 2016 scandal; (b) historically capped growth that made WFC look structurally slower; (c) a markets/IB franchise still smaller than JPM's, so less high-multiple capital-markets earnings; and (d) the fresh, Q1-specific **efficiency-ratio uptick to 67%** that gives multiple-skeptics a near-term cost story. Citi's *lower* P/TBV (~1.35x) is the cautionary mirror image — a low multiple reflecting genuinely lower returns — which is *not* Wells's situation.
 
@@ -89,7 +91,7 @@ Peer P/E average (JPM/BAC/C/USB/PNC) ≈ **14.9x**, median ≈ **14.4x**. WFC at
 
 **Thesis:** Wells Fargo is a healed, high-return U.S. bank the market still values at a reputation discount. With the Fed asset cap removed (2025), a mid-teens ROTCE rising toward a 17–18% target, a clean 2026 stress test, a $40B buyback, and a planned ~11% dividend hike, it should re-rate from ~1.86x toward ~2.0–2.3x tangible book.
 
-**My rough intrinsic value:** Two cross-checks. (1) *Earnings:* ~$7.07 FY2026 consensus EPS at a peer-median ~14x = **~$99**; at a still-conservative 13.5x = ~$95. (2) *Tangible book:* TBVPS ~$45.02 × a ~2.2x multiple justified by mid-teens-to-17% ROTCE = **~$99**, and × 2.4x ≈ $108. Blending these gives an intrinsic range of **~$98–108**, midpoint ~$103. Against $83.86, that is roughly a **17–23% discount** (midpoint ~19%). This aligns with the ~$95–96 sell-side consensus PT (Buy) while my upper end leans on full target-ROTCE delivery (StockAnalysis / WallStreetZen, 2026: https://stockanalysis.com/stocks/wfc/forecast/ ; https://www.wallstreetzen.com/stocks/us/nyse/wfc/stock-forecast).
+**My rough intrinsic value:** Two cross-checks. (1) *Earnings:* ~$7.07 FY2026 consensus EPS at a peer-median ~14x = **~$99**; at a still-conservative 13.5x = ~$95. (2) *Tangible book:* TBVPS ~$45.02 × a ~2.2x multiple justified by mid-teens-to-17% ROTCE = **~$99**, and × 2.4x ≈ $108. Blending these gives an intrinsic range of **~$98–108**, midpoint ~$103. Against $83.51, that is roughly a **17–23% discount** (midpoint ~19%). This aligns with the ~$95–96 sell-side consensus PT (Buy) while my upper end leans on full target-ROTCE delivery (StockAnalysis / WallStreetZen, 2026: https://stockanalysis.com/stocks/wfc/forecast/ ; https://www.wallstreetzen.com/stocks/us/nyse/wfc/stock-forecast).
 
 **Catalyst analysis:**
 1. **Specific repricing events:** (a) The just-completed **2026 stress test with SCB held at 2.5%** and a **planned ~11% dividend hike to $0.50** in Q3 2026 (Wells Fargo, 2026-06-24); (b) execution of the **$40B buyback**; (c) quarterly proof of post-cap balance-sheet/NII growth; (d) closure of remaining consent orders; (e) hitting the 17–18% ROTCE target in reported results.
@@ -105,4 +107,4 @@ Peer P/E average (JPM/BAC/C/USB/PNC) ≈ **14.9x**, median ≈ **14.4x**. WFC at
 
 ---
 
-*Sources are cited inline with as-of dates. Live prices/multiples are from the Robinhood market-data connector (as of 2026-06-26 close); other figures carry their own URLs and dates. Research support only — not personal financial advice.*
+*Sources are cited inline with as-of dates. Live prices/multiples are from the Robinhood market-data connector (as of 2026-06-29 close); other figures carry their own URLs and dates. Research support only — not personal financial advice.*

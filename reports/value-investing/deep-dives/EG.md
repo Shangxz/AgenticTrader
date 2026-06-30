@@ -1,6 +1,6 @@
 # Everest Group, Ltd. (NYSE: EG)
 
-**First created:** 2026-06-26 · **Last updated:** 2026-06-29 · Research support only — not personal financial advice.
+**First created:** 2026-06-26 · **Last updated:** 2026-06-30 · Research support only — not personal financial advice.
 
 Global property & casualty reinsurance and insurance, domiciled in Bermuda (Hamilton). Sector: Finance / Property & Casualty (Re)insurance. CEO: James (Jim) Williamson.
 
@@ -8,15 +8,15 @@ Global property & casualty reinsurance and insurance, domiciled in Bermuda (Hami
 
 | Metric | Value | Source |
 |--------|-------|--------|
-| Price (last trade) | **$355.51** (2026-06-26 close; prev close 2026-06-25 $343.02, +3.6%) | Robinhood, as of 2026-06-26 close |
-| Trailing P/E | **7.24x** | Robinhood, as of 2026-06-26 close |
-| Price/Book | **0.925x** (trades ~7.5% *below* book) | Robinhood, as of 2026-06-26 close |
+| Price (last trade) | **$360.79** (2026-06-29 close; prev ref 2026-06-26 close $355.51, +1.5%) | Robinhood, as of 2026-06-29 close |
+| Trailing P/E | **7.24x** | Robinhood, as of 2026-06-29 close |
+| Price/Book | **0.93x** (still below book) | Robinhood, as of 2026-06-29 close |
 | Forward P/E (2026E) | **~6.8x** on ~$52 consensus EPS | [stockanalysis.com](https://stockanalysis.com/stocks/eg/forecast/) |
 | Book value/share | **$383.75** ($393.02 ex-unrealized fixed-maturity losses), Q1 2026 | [Bernews / Q1'26 release](https://bernews.com/2026/05/everest-group-reports-q1-2026-results/) |
-| Market cap | **~$14.1B** | Robinhood, as of 2026-06-26 close |
-| Shares out | **~39.6M** | Robinhood, as of 2026-06-26 close |
-| 52-week range | $302.44 (2025-10-28) – $368.29 (2025-10-08); ~3% off high | Robinhood, as of 2026-06-26 close |
-| Dividend | $8.00/yr, **~2.25% yield** | Robinhood, as of 2026-06-26 close |
+| Market cap | **~$14.29B** | Robinhood, as of 2026-06-29 close |
+| Shares out | **~39.57M** | Robinhood, as of 2026-06-29 close |
+| 52-week range | $302.44 (2025-10-28) – $368.29 (2025-10-08); ~2% off high | Robinhood, as of 2026-06-29 close |
+| Dividend | $8.00/yr, **~2.25% yield** | Robinhood, as of 2026-06-29 close |
 | Q1 2026 net income | **$653M / $16.21 dil. EPS** (vs $210M / $4.90 y/y) | [StockTitan](https://www.stocktitan.net/news/EG/everest-reports-first-quarter-2026-do0uhymguwqc.html) |
 | Q1 2026 combined ratio | **91.2%** (from 102.7% y/y); attritional CR 88.5% | [Bernews](https://bernews.com/2026/05/everest-group-reports-q1-2026-results/) |
 | Q1 2026 operating ROE (annualized) | **16.7%** | [Investing.com Q1'26 slides](https://uk.investing.com/news/company-news/everest-q1-2026-slides-strategic-reset-drives-167-operating-roe-93CH-4641507) |
@@ -32,6 +32,7 @@ Global property & casualty reinsurance and insurance, domiciled in Bermuda (Hami
 - 2026-06-26: Initial deep-dive created. Price $343.02 (2026-06-25 close). Trailing P/E ~6.99x, P/B ~0.89x. Thesis: sub-book reinsurer with reserve-credibility discount post-2024 $1.7B casualty charge; ADC + new-CEO clean-up + Q1'26 91.2% CR support a re-rate toward 1.1–1.2x book. Intrinsic ~$430–470 (~1.1–1.2x normalized book), ~20–30% discount. Key catalyst: a full year with no new casualty charge. Verdict: medium-sized, monitor-the-reserves position.
 - 2026-06-28: **Price up to $355.51 (2026-06-26 close, +3.6% vs the $343.02 used in the prior note).** Multiples ticked up accordingly — trailing P/E ~7.24x, P/B ~0.925x (still below book but the sub-book cushion narrowed from ~11% to ~7.5%). Underlying fundamentals **unchanged** (no new quarter; Q1'26 figures stand, Q2 reports ~7/28/2026). **Thesis intact.** New/confirmed data points since prior version: (1) Q1'26 **operating ROE confirmed at 16.7%**; (2) forward EPS consensus ~**$52** (2026E) / ~$59–60 (2027E), putting forward P/E at ~6.8x; (3) **analyst targets repositioning up** — Raymond James to $400 (Outperform), KBW to $411 (Outperform, lifting 2027 EPS to $63.25), Citi to $395 (Neutral); consensus avg ~$378–388 ([Investing.com](https://www.investing.com/news/analyst-ratings/raymond-james-raises-everest-group-stock-price-target-on-capital-returns-93CH-4679565), [Benzinga](https://www.benzinga.com/quote/EG/analyst-ratings)); (4) GuruFocus GF Value $401.40 vs price ([GuruFocus](https://www.gurufocus.com/news/8934982/a-look-at-everest-group-ltd-eg-after-36-gain-gf-value-40140-vs-price-35552)); (5) confirmed strategic catalyst: **exit of commercial retail insurance** to unlock capital for returns. Expanded peer set to 7 names (added CB, MKL, TRV, WRB) — EG remains the *only* sub-book name. Intrinsic estimate maintained at **~$430–470**; with price up, discount narrows to **~18–25%**. No new reserve charge or adverse news; value-trap watch (reserve credibility) remains the governing risk.
 - 2026-06-29: **No-change refresh; thesis intact.** Weekend closure → the **2026-06-26 close** carries forward unchanged ($355.51; trailing P/E 7.24x, **P/B 0.925x — still below book**, ~2.25% yield; Robinhood, as of 2026-06-26 close). Monday pre-open is soft on thin liquidity (~$346.97 last pre-mkt print; pre-open bid ~$340.59 — Robinhood quote, 2026-06-29), typical of the wide pre-open spread in a ~$14B-cap reinsurer rather than news-driven. No company-specific developments over the weekend. Sub-book status, ~16.7% Q1 operating ROE and the now-ring-fenced reserve story all unchanged. Intrinsic **~$430–470**, **~18–25% discount**; remains **top pick #2** (the only sub-book name on the list). Next test: Q2 results ~2026-07-28.
+- 2026-06-30: **No-change refresh; thesis intact.** New canonical close 2026-06-29: **$360.79** (+1.5% vs the 06-26 $355.51 ref); P/E 7.24x, **P/B 0.925x — still the only sub-book name on the list** (Robinhood, as of 2026-06-29 close). Stock is now ~2% below its 52-wk high ($368.29); the below-book discount has narrowed but not closed. Pre-open 06-30 quote is thin/wide (bid/ask ~$340.59/$381.02 — not a reliable mark). No new company-specific news. Intrinsic **~$430–470**, discount **~19–25%** (slightly narrower as price rose). Remains **top pick #2**. Next test: Q2 2026 results ~2026-07-28.
 
 ---
 
@@ -78,14 +79,14 @@ The sub-book price implies the market believes **Everest's stated reserves are s
 
 | Peer | P/B | Trailing P/E | Why it belongs | Source |
 |------|-----|--------------|----------------|--------|
-| **Everest (EG)** | **0.925x** | **7.24x** | Subject — reinsurance-heavy + specialty insurance | Robinhood, 2026-06-26 |
-| **Arch Capital (ACGL)** | 1.47x | 7.49x | Bermuda specialty insurance + reinsurance + mortgage; "quality" benchmark | Robinhood, 2026-06-26 |
-| **RenaissanceRe (RNR)** | 1.28x | 5.33x | Pure-play global reinsurer, heavy property-cat — closest reinsurance-mix comp | Robinhood, 2026-06-26 |
-| **AXIS Capital (AXS)** | 1.38x | 7.99x | Bermuda specialty insurance + reinsurance, similar scale tier | Robinhood, 2026-06-26 |
-| **Chubb (CB)** | 1.80x | 12.06x | Large diversified global P&C — premium "blue-chip" comp | Robinhood, 2026-06-26 |
-| **Markel (MKL)** | 1.33x | 13.90x | Specialty insurance + investing/Ventures; book-value compounder | Robinhood, 2026-06-26 |
-| **Travelers (TRV)** | 2.18x | 9.74x | Large US commercial/personal P&C — trusted-reserve benchmark | Robinhood, 2026-06-26 |
-| **W.R. Berkley (WRB)** | 2.73x | 15.13x | Specialty/E&S underwriter; highest-multiple in set | Robinhood, 2026-06-26 |
+| **Everest (EG)** | **0.93x** | **7.24x** | Subject — reinsurance-heavy + specialty insurance | Robinhood, 2026-06-29 |
+| **Arch Capital (ACGL)** | 1.47x | 7.49x | Bermuda specialty insurance + reinsurance + mortgage; "quality" benchmark | Robinhood, 2026-06-29 |
+| **RenaissanceRe (RNR)** | 1.29x | 5.39x | Pure-play global reinsurer, heavy property-cat — closest reinsurance-mix comp | Robinhood, 2026-06-29 |
+| **AXIS Capital (AXS)** | 1.38x | 8.00x | Bermuda specialty insurance + reinsurance, similar scale tier | Robinhood, 2026-06-29 |
+| **Chubb (CB)** | 1.80x | 12.06x | Large diversified global P&C — premium "blue-chip" comp | Robinhood, 2026-06-29 |
+| **Markel (MKL)** | 1.33x | 13.90x | Specialty insurance + investing/Ventures; book-value compounder | Robinhood, 2026-06-29 |
+| **Travelers (TRV)** | 2.18x | 9.74x | Large US commercial/personal P&C — trusted-reserve benchmark | Robinhood, 2026-06-29 |
+| **W.R. Berkley (WRB)** | 2.73x | 15.13x | Specialty/E&S underwriter; highest-multiple in set | Robinhood, 2026-06-29 |
 | **Peer average (7, ex-EG)** | **~1.74x** | **~10.2x** | — | — |
 | **Peer median (7, ex-EG)** | **~1.47x** | **~9.74x** | — | — |
 
@@ -108,7 +109,7 @@ The sub-book price implies the market believes **Everest's stated reserves are s
 3. **Book-value-per-share growth across $400** (management-guided) plus continued below-book buybacks, which compound per-share book.
 4. **No new shock** — simply *not* announcing another casualty charge through 2026 would itself drive a meaningful re-rating.
 
-A re-rate to even **1.1–1.2x book on a ~$390–400 book** implies a **~$430–480 price (≈ 20–35% upside from $355.51)**; merely closing to 1.0x book is ~$390 (~10%). Analyst targets are converging on this view (Raymond James $400, KBW $411, consensus avg ~$378–388; GuruFocus GF Value $401). The risk/reward is asymmetric *if* the reserves hold.
+A re-rate to even **1.1–1.2x book on a ~$390–400 book** implies a **~$430–480 price (≈ 19–33% upside from $360.79)**; merely closing to 1.0x book is ~$390 (~8%). Analyst targets are converging on this view (Raymond James $400, KBW $411, consensus avg ~$378–388; GuruFocus GF Value $401). The risk/reward is asymmetric *if* the reserves hold.
 
 ---
 
@@ -118,7 +119,7 @@ A re-rate to even **1.1–1.2x book on a ~$390–400 book** implies a **~$430–
 
 **Thesis:** Everest is a scaled, well-capitalized global reinsurer trading below book and ~7x earnings because a 2024 US-casualty reserve charge broke market confidence. A new CEO, a $1.2B adverse-development cover, profitability-over-volume underwriting (incl. exiting commercial retail), a 91.2% Q1'26 combined ratio with 16.7% operating ROE, and a $4.74B buyback (accretive below book) suggest the reserve problem is being ring-fenced and the franchise can re-earn a 1.1x+ book multiple.
 
-**My rough intrinsic value:** **~$430–470** (~1.1–1.2x normalized book of ~$390–400, consistent with mid-teens ROE and a sub-10x P/E on ~$52–60 normalized EPS). **Approx. discount to intrinsic at $355.51: ~18–25%.**
+**My rough intrinsic value:** **~$430–470** (~1.1–1.2x normalized book of ~$390–400, consistent with mid-teens ROE and a sub-10x P/E on ~$52–60 normalized EPS). **Approx. discount to intrinsic at $360.79: ~19–25%.**
 
 **Catalyst analysis**
 
@@ -141,7 +142,7 @@ A re-rate to even **1.1–1.2x book on a ~$390–400 book** implies a **~$430–
    - **(c) Permanent "show-me" discount** — some serial-charge insurers carry a structural discount for years even after fixing the book. Applies to a degree; the re-rate may be slower than the fundamentals justify (though analyst targets stepping up is an encouraging sign that the show-me period may be shortening).
 6. **Management / governance / capital-allocation issues:** A *relative strength*. The new CEO inherited the problem, took a large kitchen-sink reserve action plus an ADC (the credible playbook), is exiting unprofitable lines, and is returning capital aggressively via below-book buybacks (the most value-accretive use of cash at this price). No controlling shareholder, no dual-class structure, shareholder-friendly capital allocation. The governance risk is mainly *execution* (will the team underwrite as disciplined as promised through a soft market), not misalignment.
 
-**Risk/reward verdict.** The discount is real and the catalyst (the *absence* of further casualty charges) is concrete, measurable each quarter, and supported by the ADC and conservative new-management posture. You are paid to wait via a ~2.25% dividend plus per-share book accretion from below-book buybacks, with downside cushioned by trading *below* book. The dominant risk — further reserve deterioration — is genuine and not fully knowable from outside, so this is a **medium-sized, monitor-the-reserves position, not a max-conviction one.** At ~0.93x book with mid-teens ROE and a credible clean-up underway, the risk/reward of waiting 12–24 months for the re-rate is attractive *provided* each quarterly reserve disclosure stays clean — and the thesis should be cut quickly if a new casualty charge appears. The +3.6% pop on 2026-06-26 and rising analyst targets ($395–411) suggest the re-rate may be starting; entry is modestly less attractive than at the $343 prior-note level but the gap to intrinsic is still ~18–25%.
+**Risk/reward verdict.** The discount is real and the catalyst (the *absence* of further casualty charges) is concrete, measurable each quarter, and supported by the ADC and conservative new-management posture. You are paid to wait via a ~2.25% dividend plus per-share book accretion from below-book buybacks, with downside cushioned by trading *below* book. The dominant risk — further reserve deterioration — is genuine and not fully knowable from outside, so this is a **medium-sized, monitor-the-reserves position, not a max-conviction one.** At ~0.93x book with mid-teens ROE and a credible clean-up underway, the risk/reward of waiting 12–24 months for the re-rate is attractive *provided* each quarterly reserve disclosure stays clean — and the thesis should be cut quickly if a new casualty charge appears. The +3.6% pop on 2026-06-26 and rising analyst targets ($395–411) suggest the re-rate may be starting; entry is modestly less attractive than at the $343 prior-note level but the gap to intrinsic is still ~19–25%.
 
 ---
 
@@ -153,7 +154,7 @@ A re-rate to even **1.1–1.2x book on a ~$390–400 book** implies a **~$430–
 - Retail-insurance exit / narrative shift: [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/everest-group-eg-investment-narrative-161420843.html)
 - Forward EPS / forward P/E / price targets: [stockanalysis.com](https://stockanalysis.com/stocks/eg/forecast/), [Investing.com — Raymond James](https://www.investing.com/news/analyst-ratings/raymond-james-raises-everest-group-stock-price-target-on-capital-returns-93CH-4679565), [Investing.com — BMO](https://www.investing.com/news/analyst-ratings/bmo-raises-everest-group-stock-price-target-on-abating-eps-revisions-93CH-4688607), [Benzinga](https://www.benzinga.com/quote/EG/analyst-ratings), [GuruFocus GF Value](https://www.gurufocus.com/news/8934982/a-look-at-everest-group-ltd-eg-after-36-gain-gf-value-40140-vs-price-35552)
 - 2026 reinsurance softening (1/1 renewals): [Artemis](https://www.artemis.bm/news/january-reinsurance-renewal-accelerated-softening-drives-double-digit-declines-guy-carpenter/)
-- Live price / multiples / peer P/B & P/E (EG, ACGL, RNR, AXS, CB, MKL, TRV, WRB): Robinhood market-data connector, as of 2026-06-26 close
+- Live price / multiples / peer P/B & P/E (EG, ACGL, RNR, AXS, CB, MKL, TRV, WRB): Robinhood market-data connector, as of 2026-06-29 close
 ```
 
 *Note on FCF: insurer "free cash flow" (operating cash flow) is dominated by premium/loss timing and is not a clean valuation metric for (re)insurers; reported figures (e.g., 2024 OCF ~$5B per [Macrotrends](https://www.macrotrends.net/stocks/charts/EG/everest-group/free-cash-flow)) are shown for completeness but the thesis rests on book value, ROE, and P/E.*

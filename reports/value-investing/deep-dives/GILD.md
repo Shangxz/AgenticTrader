@@ -1,8 +1,8 @@
 # Gilead Sciences, Inc. (GILD)
 
-**First created:** 2026-06-26 · **Last updated:** 2026-06-29
+**First created:** 2026-06-26 · **Last updated:** 2026-06-30
 
-**Price:** $127.65 (Robinhood, as of 2026-06-26 close; prev close 2026-06-25 $123.84) · **Trailing P/E:** 17.40 (Robinhood, as of 2026-06-26) · **Forward P/E (clean, ex-charges):** ~14.8x on $8.45–8.85 underlying non-GAAP EPS ([StockTitan/Q1'26 8-K](https://www.stocktitan.net/sec-filings/GILD/8-k-gilead-sciences-inc-reports-material-event-f7e1576b7519.html)) — note reported GAAP/non-GAAP EPS guidance is a *loss* of $(1.05)–$(0.65) due to ~$9.50/sh acquisition charges · **P/B:** 6.75 (Robinhood, as of 2026-06-26) · **EV/EBITDA:** ~11.5x ([StockAnalysis](https://stockanalysis.com/stocks/gild/statistics/), as of 2026-06-28) · **FCF (TTM):** ~$10.23B / **FCF yield ~6.4%** ([StockAnalysis](https://stockanalysis.com/stocks/gild/statistics/), as of 2026-06-28) · **Market cap:** ~$158.5B · **Dividend yield:** ~2.49% · **52-wk range:** $106.84–$157.29 (~19% off high) (Robinhood, as of 2026-06-26)
+**Price:** $126.33 (Robinhood, as of 2026-06-29 close; prev ref 2026-06-26 close $127.65) · **Trailing P/E:** 17.40 (Robinhood, as of 2026-06-29 close) · **Forward P/E (clean, ex-charges):** ~14.8x on $8.45–8.85 underlying non-GAAP EPS ([StockTitan/Q1'26 8-K](https://www.stocktitan.net/sec-filings/GILD/8-k-gilead-sciences-inc-reports-material-event-f7e1576b7519.html)) — note reported GAAP/non-GAAP EPS guidance is a *loss* of $(1.05)–$(0.65) due to ~$9.50/sh acquisition charges · **P/B:** 6.75 (Robinhood, as of 2026-06-29 close) · **EV/EBITDA:** ~11.5x ([StockAnalysis](https://stockanalysis.com/stocks/gild/statistics/), as of 2026-06-28) · **FCF (TTM):** ~$10.23B / **FCF yield ~6.4%** ([StockAnalysis](https://stockanalysis.com/stocks/gild/statistics/), as of 2026-06-28) · **Market cap:** ~$156.8B · **Shares out:** ~1.24B · **Dividend yield:** 2.49% · **52-wk range:** $107.75 (2025-07-21) – $157.29 (2026-02-11) (Robinhood, as of 2026-06-29 close)
 
 > **Disclaimer:** Research support only — not personal financial advice. Live prices/multiples are from the Robinhood market-data connector on the dates noted; all other figures are sourced inline with URLs and as-of dates. Do your own due diligence.
 
@@ -15,6 +15,7 @@
 - 2026-06-26: Initial deep dive created. Price $123.84 (2026-06-25 close). Thesis: dominant HIV cash machine at ~17x trailing / ~13.9x EV/EBITDA / ~5.5–5.9% FCF yield, ~21% off high, despite Q1'26 beat + guidance raise. Intrinsic value ~$150–160, ~20–25% discount. Catalysts: Aug 2026 BIC/LEN FDA decision, Yeztugo/PrEP ramp ($1B 2026 guide), FCF +33% in 2026. Patent cliff (Biktarvy 2033, settled to 2036) flagged as core value-trap risk but viewed as over-discounted. Peer P/E set: ABBV (charge-distorted), AMGN 24.4, BMY 15.4, MRK 33.9, REGN 15.2, VRTX 28.2, BIIB 21.4, PFE 18.4; clean median ~19–21x; GILD ~10–20% below.
 - 2026-06-28: **Refresh — thesis intact, two material clarifications + small mark-to-market.** (1) Price rose to **$127.65** (2026-06-26 close, +3.1% vs prior $123.84); still ~19% off the $157.29 high. (2) **TTM FCF improved to ~$10.23B (FCF yield ~6.4%)** from ~$9.16B / ~5.5–5.9% — cash power confirmed; StockAnalysis now shows **EV/EBITDA ~11.5x** (vs ~13.9x prior; GuruFocus showed 14.86 as of Feb '26 — methodology variance, all point to a low-teens/double-digit multiple). (3) **CORRECTION:** BIC/LEN (bictegravir + lenacapavir, the Aug 27, 2026 PDUFA asset) is a **once-daily oral single-tablet regimen** for virologically-suppressed patients, *not* a long-acting injectable as the prior note implied; the **PDUFA date is confirmed as August 27, 2026** ([Gilead/businesswire](https://www.businesswire.com/news/home/20260427182040/en/), [StockTitan](https://www.stocktitan.net/news/GILD/u-s-fda-grants-priority-review-of-new-drug-application-for-gilead-s-f8z003ksxrpv.html)). (4) **EPS-guidance nuance confirmed:** FY2026 *reported* non-GAAP guidance is now a **loss of $(1.05)–$(0.65)/sh**, but this bakes in ~**$9.50/sh** of upfront/financing charges from the **Arcellx, Ouro and Tubulis** deals; **underlying operating non-GAAP EPS is unchanged at $8.45–$8.85** ([StockTitan 8-K](https://www.stocktitan.net/sec-filings/GILD/8-k-gilead-sciences-inc-reports-material-event-f7e1576b7519.html)) → *clean* forward P/E ~14.8x. The headline "EPS loss" is an optics artifact of M&A accounting, **not** operating deterioration — and is itself the kind of thing that scares non-fundamental sellers. (5) Patent cliff re-verified: Biktarvy US exclusivity ~2033, **settled with Lupin/Cipla/Laurus to block US generics until April 1, 2036** ([Fierce Pharma](https://www.fiercepharma.com/pharma/gilead-notches-settlements-three-generic-drugmakers-waylaying-us-biktarvy-copycats-until), Oct 2025). (6) Analyst consensus still bullish: median PT ~$160 (range $122–$189), Strong Buy/Buy ([MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/GILD/forecast/), [StockAnalysis](https://stockanalysis.com/stocks/gild/forecast/)). My intrinsic-value estimate **unchanged at ~$150–160 (~18–25% discount at $127.65)**.
 - 2026-06-29: **No-change refresh; thesis intact.** Weekend closure → the **2026-06-26 close** carries forward ($127.65; trailing P/E 17.40, ~14.8x clean fwd, ~11.5x EV/EBITDA, ~6.4% FCF yield; Robinhood 2026-06-26 close + StockAnalysis). Monday pre-open firm (~$128.60 — Robinhood quote, 2026-06-29); the **$0.82 quarterly dividend is payable today, 2026-06-29** (Robinhood). No new clinical/regulatory news over the weekend — BIC/LEN PDUFA still **2026-08-27**, and the settled Biktarvy cliff (no US generic before **2036-04-01**) unchanged. Intrinsic **~$150–160**, **~18–25% discount**; remains **top pick #5**.
+- 2026-06-30: **No-change refresh; thesis intact.** New canonical close 2026-06-29: **$126.33** (−1.0% vs the 06-26 $127.65 ref); trailing P/E 17.40x (~14.8x clean fwd), 2.49% yield (Robinhood, as of 2026-06-29 close). The $0.82 quarterly dividend was payable 2026-06-29. No new pipeline/regulatory news; the BIC/LEN (lenacapavir-for-PrEP) PDUFA on 2026-08-27 remains the key near-term catalyst. Intrinsic **~$150–160**, discount **~18–25%** (slightly wider as price dipped). Remains **top pick #5**.
 
 ---
 
@@ -60,21 +61,21 @@ The discounted multiple implies the market believes **HIV cash flows erode meani
 **Current multiple:** **~17.4x trailing earnings** (~14.8x clean forward; ~11.5x EV/EBITDA; ~6.4% FCF yield)
 **Sector:** Large-cap biopharma / biotechnology
 
-**Step 1 — The right peer group.** Comparable on cash-generative, franchise-concentrated large-cap biopharma facing identifiable LOEs (all P/E + dividend yield from Robinhood, as of 2026-06-26):
+**Step 1 — The right peer group.** Comparable on cash-generative, franchise-concentrated large-cap biopharma facing identifiable LOEs (all P/E + P/B from Robinhood, as of 2026-06-29 close). P/B is not very meaningful across biopharma due to differing intangibles/buyback histories — directional only:
 
-| Peer | Trailing P/E | Div yield | Why it belongs (or doesn't) |
-|------|--------------|-----------|------------------------------|
-| **AbbVie (ABBV)** | ~125x (P/B negative) | 2.66% | Best franchise-cliff analog (navigated the Humira cliff with Skyrizi/Rinvoq) — but GAAP P/E is **charge-distorted**; use cash/EV metrics, not P/E |
-| **Amgen (AMGN)** | 24.9x | 2.73% | Mature, cash-generative biotech with biosimilar/LOE exposure + big dividend — strong structural comp |
-| **Bristol-Myers (BMY)** | 16.1x | 4.35% | Concentrated biopharma with a *near-term, severe* patent cliff (Eliquis/Opdivo/Revlimid) — the "worse cliff" benchmark |
-| **Merck (MRK)** | 36.2x | 2.58% | Keytruda-concentrated; P/E elevated by trough/charge-affected earnings — directional comp only |
-| **Regeneron (REGN)** | 15.4x | 0.58% | Eylea-concentrated, facing biosimilar erosion + Dupixent growth — close concentration analog |
-| **Vertex (VRTX)** | 29.1x | — | CF-monopoly franchise, durable IP, premium multiple — the "what durable franchises earn" upper bound |
-| **Pfizer (PFE)** | 18.6x | 7.08% | Diversified pharma with its own patent cliff — low-multiple peer |
+| Peer | Trailing P/E | P/B | Why it belongs (or doesn't) |
+|------|--------------|-----|------------------------------|
+| **Gilead (GILD)** | 17.40x | 6.75 | Subject — dominant HIV franchise, ~2033 cliff settled to April 2036 |
+| **Amgen (AMGN)** | 24.92x | 21.04 | Mature, cash-generative biotech with biosimilar/LOE exposure + big dividend — strong structural comp |
+| **Bristol-Myers (BMY)** | 16.15x | 5.85 | Concentrated biopharma with a *near-term, severe* patent cliff (Eliquis/Opdivo/Revlimid) — the "worse cliff" benchmark |
+| **Merck (MRK)** | 36.21x | 6.93 | Keytruda-concentrated; trailing P/E **elevated by a one-off charge** — directional comp only |
+| **Biogen (BIIB)** | 23.18x | 1.71 | Neuro-franchise biotech with its own pipeline/LOE questions — concentration analog |
+| **Vertex (VRTX)** | 29.13x | 6.45 | CF-monopoly franchise, durable IP, premium multiple — the "what durable franchises earn" upper bound |
+| **Pfizer (PFE)** | 18.62x | 1.54 | Diversified pharma with its own patent cliff — low-multiple peer |
 
-*Poor comps to avoid:* pre-profit / clinical-stage biotech (no earnings, different drivers); diversified med-tech or tools names; pure generics. ABBV's headline P/E (~125x) and MRK's (~36x) are charge/trough-distorted — usable only on a cash/EV basis.
+*Poor comps to avoid:* pre-profit / clinical-stage biotech (no earnings, different drivers); diversified med-tech or tools names; pure generics. MRK's headline P/E (~36x) is **elevated by a one-off charge** — usable only on a cash/EV basis.
 
-**Step 2 — Quantify the gap.** Excluding the two distorted prints (ABBV ~125x, MRK ~36x), the cleaner large-cap peer P/Es cluster: REGN 15.4, BMY 16.1, **GILD 17.4**, PFE 18.6, AMGN 24.9, VRTX 29.1 → **peer median (clean set) ≈ 18.6x; mean ≈ 20.3x.** Gilead at **~17.4x sits modestly below the clean peer median**, and on **~11.5x EV/EBITDA** and **~6.4% FCF yield** it screens *cheaper* than peers with worse near-term cliffs (BMY) and similar concentration (REGN). On the **clean forward earnings** (~14.8x ex-charges), GILD is the cheapest profitable name in the group — the discount widens once you normalize the M&A accounting.
+**Step 2 — Quantify the gap.** Excluding the charge-distorted print (MRK ~36x), the cleaner large-cap peer P/Es cluster: BMY 16.2, **GILD 17.4**, PFE 18.6, BIIB 23.2, AMGN 24.9, VRTX 29.1 → **peer median (clean set) ≈ 20.9x; mean ≈ 22.5x.** Gilead at **~17.4x sits below the clean peer median**, and on **~11.5x EV/EBITDA** and **~6.4% FCF yield** it screens *cheaper* than peers with worse near-term cliffs (BMY). On the **clean forward earnings** (~14.8x ex-charges), GILD is the cheapest profitable name in the group — the discount widens once you normalize the M&A accounting.
 
 **Step 3 — Explain the gap.**
 - **Patent-cliff concentration (most of it):** ~two-thirds of revenue is HIV with Biktarvy as anchor — the market assigns a concentration/cliff discount. *But* GILD's cliff is **further out (~2033, settled to April 2036)** than BMY's (mid-/late-2020s) and arguably better-mitigated than REGN's Eylea biosimilar pressure, so on like-for-like cliff risk the discount is *too large*.
@@ -98,7 +99,7 @@ Re-rating from ~17.4x trailing toward ~19–20x on a ~$8.50 underlying earnings 
 
 **Company:** Gilead Sciences (GILD)
 **Thesis:** Dominant, durable HIV cash machine (Biktarvy >52% US share) trading at ~17.4x trailing / ~14.8x clean forward / ~6.4% FCF yield, ~19% off its high, *despite* beating Q1 2026 and raising HIV/sales guidance. The market over-discounts a ~2033 patent cliff that is far off, settled to **April 1, 2036**, and being actively pre-empted by the lenacapavir/Yeztugo PrEP franchise ($1B 2026 guide) and the BIC/LEN treatment combo — while a one-time M&A-charge "EPS loss" scares screen-driven sellers. Quality cash flow on sale.
-**My intrinsic-value estimate (~$150–160; ~19–20x normalized non-GAAP EPS of ~$8.50 + PrEP optionality):** **~18–25% discount at $127.65.**
+**My intrinsic-value estimate (~$150–160; ~19–20x normalized non-GAAP EPS of ~$8.50 + PrEP optionality):** **~18–25% discount at $126.33.**
 
 **Catalyst analysis**
 
@@ -136,4 +137,4 @@ Re-rating from ~17.4x trailing toward ~19–20x on a ~$8.50 underlying earnings 
 - Biktarvy US exclusivity ~2033 / US generics settled until April 1, 2036 (Lupin, Cipla, Laurus): [Fierce Pharma](https://www.fiercepharma.com/pharma/gilead-notches-settlements-three-generic-drugmakers-waylaying-us-biktarvy-copycats-until), [DrugPatentWatch](https://www.drugpatentwatch.com/p/tradename/BIKTARVY)
 - EV/EBITDA ~11.5x, FCF ~$10.23B, FCF yield ~6.4%, OCF $10.81B, capex $0.58B: [StockAnalysis](https://stockanalysis.com/stocks/gild/statistics/) (as of 2026-06-28)
 - Analyst price targets (median ~$160; range $122–$189; Strong Buy/Buy): [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/GILD/forecast/), [StockAnalysis](https://stockanalysis.com/stocks/gild/forecast/)
-- Live price / multiples / peer P/E + dividend yield (GILD + ABBV, AMGN, BMY, MRK, REGN, VRTX, PFE): Robinhood market-data connector, as of 2026-06-26
+- Live price / multiples / peer P/E + P/B (GILD + AMGN, BMY, MRK, BIIB, VRTX, PFE): Robinhood market-data connector, as of 2026-06-29 close
