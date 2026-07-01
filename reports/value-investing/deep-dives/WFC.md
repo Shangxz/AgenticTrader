@@ -1,17 +1,17 @@
 # Wells Fargo & Company (WFC)
 
-**First created:** 2026-06-22 · **Last updated:** 2026-06-30
+**First created:** 2026-06-22 · **Last updated:** 2026-07-01
 
-**Current price:** $83.51 (Robinhood, as of 2026-06-29 close; prev ref 2026-06-26 close $83.86)
+**Current price:** $85.94 (Robinhood, as of 2026-07-01 close; **+4.0% on the day** vs 06-30 close $82.64; prev ref 2026-06-29 close $83.51)
 
 **Key valuation metrics:**
-- Trailing P/E: **12.95** (Robinhood, as of 2026-06-29 close)
-- Forward P/E: **~11.6x** on ~$7.07 FY2026 consensus EPS (StockAnalysis / Public.com analyst consensus, as of 2026-06: https://stockanalysis.com/stocks/wfc/forecast/ ; https://public.com/stocks/wfc/forecast-price-target)
-- Price / book: **1.58** (Robinhood, as of 2026-06-29 close)
-- Price / tangible book: **~1.86x** ($83.51 / TBVPS $45.02; TBVPS from Wells Fargo Q1 2026 release, as of 2026-04-14: https://www.sec.gov/Archives/edgar/data/72971/000007297126000213/wfc1qer04-14x26ex991xrelea.htm)
-- Dividend yield: **~2.15%** ($0.45/qtr; Robinhood, as of 2026-06-29 close) — Board intends to raise to $0.50/qtr in Q3 2026 (Wells Fargo, 2026-06-24: https://newsroom.wf.com/news-releases/news-details/2026/Wells-Fargo-Completes-2026-Stress-Test-and-Intends-to-Raise-Dividend-by-11-to-0-50/default.aspx)
-- Market cap: **~$255.5B** · Shares out **~3.06B** (Robinhood, as of 2026-06-29 close)
-- 52-week range: $72.78 (2026-05-15) – $97.76 (2026-01-05) (Robinhood, as of 2026-06-29 close)
+- Trailing P/E: **12.76** (Robinhood, as of 2026-07-01 close)
+- Forward P/E: **~12.2x** on ~$7.07 FY2026 consensus EPS (StockAnalysis / Public.com analyst consensus, as of 2026-06: https://stockanalysis.com/stocks/wfc/forecast/ ; https://public.com/stocks/wfc/forecast-price-target)
+- Price / book: **1.55** (Robinhood, as of 2026-07-01 close)
+- Price / tangible book: **~1.91x** ($85.94 / TBVPS $45.02; TBVPS from Wells Fargo Q1 2026 release, as of 2026-04-14: https://www.sec.gov/Archives/edgar/data/72971/000007297126000213/wfc1qer04-14x26ex991xrelea.htm)
+- Dividend yield: **~2.18%** ($0.45/qtr; Robinhood, as of 2026-07-01 close) — Board intends to raise to $0.50/qtr in Q3 2026 (Wells Fargo, 2026-06-24: https://newsroom.wf.com/news-releases/news-details/2026/Wells-Fargo-Completes-2026-Stress-Test-and-Intends-to-Raise-Dividend-by-11-to-0-50/default.aspx)
+- Market cap: **~$263.0B** · Shares out **~3.06B** (Robinhood, as of 2026-07-01 close)
+- 52-week range: $72.78 (2026-05-15) – $97.76 (2026-01-05) (Robinhood, as of 2026-07-01 close)
 - Q1 2026 ROTCE: **14.5%**; ROE 12.2%; FY2025 ROTCE ~15.0%; medium-term target **17–18%** (Wells Fargo Q1 2026 release/earnings coverage, as of 2026-04-14: https://www.sec.gov/Archives/edgar/data/72971/000007297126000213/wfc1qer04-14x26ex991xrelea.htm ; https://www.tikr.com/blog/wells-fargo-stock-posts-15-eps-growth-and-1-trillion-loan-book-in-q1-2026)
 - CEO: Charles Scharf · Sector: Finance / Major Banks · HQ: San Francisco
 
@@ -25,6 +25,7 @@
 - 2026-06-28: **Refresh. Thesis intact and modestly strengthened by a new, concrete capital-return catalyst.** Price essentially unchanged at $83.86 (Robinhood, as of 2026-06-26 close) vs. $83.86 on 2026-06-22 — flat over the period; stock still ~14% off its Jan-2026 high. Trailing P/E ticked to 12.95 (vs. 12.69) on Robinhood's updated trailing earnings; P/B 1.58 (vs. 1.54). **New since prior version:** (1) On 2026-06-24 Wells completed the Fed's 2026 stress test with its stress capital buffer **held at the 2.5% floor**, and the Board signalled intent to **raise the quarterly dividend ~11% to $0.50** (from $0.45) in Q3 2026 (Wells Fargo, 2026-06-24). (2) A **$40B share-repurchase authorization** has been confirmed alongside asset-cap relief (Yahoo Finance, 2026: https://finance.yahoo.com/news/fed-asset-cap-relief-40-180840325.html). **Data corrections vs. prior file:** Q1 2026 ROTCE is **14.5%** (the prior file's "15.0%" was the FY2025 figure, not Q1); TBVPS is **~$45.02** (was previously estimated indirectly), putting P/TBV at **~1.86x** at the current price (prior file cited ~1.78x from a stale GuruFocus snapshot); Q1 2026 **efficiency ratio rose to 67%** (from 64% in Q4 2025) — a watch item flagged below. FY2026 consensus EPS ~$7.07; consensus PT ~$95–96 (Buy). Intrinsic estimate refined to **~$98–108**, ~**17–23% discount** at $83.86.
 - 2026-06-29: **No-change refresh; thesis intact.** Weekend closure → the **2026-06-26 close** carries forward ($83.86; trailing P/E 12.95x, P/B 1.58x, P/TBV ~1.86x; Robinhood 2026-06-26 close). Monday pre-open flat (~$83.90 — Robinhood quote, 2026-06-29). The clean 2026 stress test (SCB held at the 2.5% floor), the planned ~11% dividend hike to $0.50/qtr (Q3 2026) and the $40B buyback authorization all stand; **Q2 2026 earnings are scheduled for 2026-07-14** (next catalyst). The Q1 efficiency ratio (~67%) remains the one genuine watch item. Intrinsic **~$98–108**, **~17–23% discount**; remains **top pick #4**.
 - 2026-06-30: **No-change refresh; thesis intact.** New canonical close 2026-06-29: **$83.51** (−0.4% vs the 06-26 $83.86 ref); trailing P/E 12.95x, P/B 1.58x, 2.15% yield (Robinhood, as of 2026-06-29 close). Multiples essentially unchanged. The post-stress-test capital-return story ($0.50 Q3 dividend, $40B buyback) and the lifted asset cap remain the core re-rating drivers. Intrinsic **~$98–108**, discount **~17–23%** intact. Remains **top pick #4**. Next catalyst: Q2 2026 earnings 2026-07-14.
+- 2026-07-01: **Thesis intact; sharp bounce ahead of Q2 earnings.** After dipping to a 06-30 close of $82.64, WFC **rallied +4.0% to $85.94** on 2026-07-01 (Robinhood, as of 2026-07-01 close) — no company-specific news found; read as broad financials strength / positioning into the **Q2 2026 earnings on 2026-07-14** (the next catalyst) rather than a fundamental event. Refreshed multiples: trailing P/E **12.76x**, P/B **1.55x**, P/TBV **~1.91x**, ~2.18% yield. The clean 2026 stress test (SCB at the 2.5% floor), the planned ~11% dividend hike to $0.50/qtr (Q3), the $40B buyback and the lifted asset cap all stand. The rally modestly *narrows* the discount but the thesis is unchanged: intrinsic **~$98–108**, discount now **~14–21%** at $85.94. The Q1 efficiency ratio (~67%) remains the one genuine watch item into 07-14. Remains **top pick #4**.
 
 ---
 
