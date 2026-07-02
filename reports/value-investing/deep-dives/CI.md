@@ -1,6 +1,6 @@
 # The Cigna Group (CI)
 
-**First created:** 2026-06-23 · **Last updated:** 2026-07-01
+**First created:** 2026-06-23 · **Last updated:** 2026-07-02
 
 **Current price & key multiples:**
 - Price: **$277.18** (Robinhood, as of 2026-07-01 close; prev ref 2026-06-29 close $278.74 — roughly flat, −0.6%)
@@ -21,6 +21,7 @@
 - 2026-06-29: **No-change refresh; thesis intact.** Weekend closure → the **2026-06-26 close** carries forward ($282.39; trailing P/E 11.98x, **~9.2x guided FY26 adj EPS ≥$30.35**, ~10% FCF yield, P/B 1.77x; Robinhood 2026-06-26 close + StockAnalysis). Monday pre-open firm (~$285.56 — Robinhood quote, 2026-06-29). FY26 adjusted-EPS guide of **≥$30.35 reaffirmed**; no new regulatory headlines over the weekend — the Feb-2026 FTC–Express Scripts settlement remains the bounding event for the PBM overhang. Intrinsic **~$330–360**, **~17–22% discount**; remains **top pick #3**.
 - 2026-06-30: **Thesis intact; modestly cheaper.** New canonical close 2026-06-29: **$278.74** (−1.3% vs the 06-26 $282.39 ref); trailing P/E 11.98x, ~9.2x guided FY26 EPS, P/B 1.77x (Robinhood, as of 2026-06-29 close). The small pullback slightly WIDENS the discount. **Supportive sell-side action:** Mizuho raised its PT to **$340** (from $330, Outperform) and UBS to **$400** (from $375, Buy) — [Yahoo/TipRanks analyst roundup](https://finance.yahoo.com/news/cigna-ci-gains-analyst-attention-054131637.html); as of 2026-06. FY26 adj-EPS guide (≥$30.35) unchanged; the FTC PBM settlement remains the bounding catalyst. Intrinsic **~$330–360**, discount **~18–23%** (wider as price fell). Remains **top pick #3**.
 - 2026-07-01: **No-change refresh; thesis intact.** New canonical close **$277.18** (Robinhood, 2026-07-01 close; roughly flat, −0.6% vs the 06-29 $278.74 ref); trailing P/E **11.68x**, **~9.1x guided FY26 adj EPS ≥$30.35**, P/B 1.73x, ~10% FCF yield. No new regulatory headlines; the Feb-2026 FTC–Express Scripts settlement remains the bounding event for the PBM overhang, and the recent Mizuho ($340) / UBS ($400) target hikes still stand above my range. Intrinsic **~$330–360**, discount **~18–23%**. Remains **top pick #3** — a ~$7.7B-FCF managed-care/PBM franchise at ~9x guided earnings priced for a now-bounded regulatory fear. Next catalyst: Q2 2026 earnings (late July/early Aug) and any PBM-reform legislative movement.
+- 2026-07-02: **No-change refresh; thesis intact — no new completed session.** Run executed 2026-07-02 pre-market; the **2026-07-01 close carries forward** ($277.18; trailing P/E 11.68x, **~9.1x guided FY26 adj EPS ≥$30.35**, P/B 1.73x, ~10% FCF yield). Pre-market 07-02 roughly flat (~$277.07; Robinhood quote 2026-07-02). No new regulatory headlines; the Feb-2026 FTC–Express Scripts settlement remains the bounding event for the PBM overhang, and the Mizuho ($340) / UBS ($400) targets still stand above my range. Intrinsic **~$330–360**, discount **~18–23%**. Remains **top pick #3** — a ~$7.7B-FCF managed-care/PBM franchise at ~9x guided earnings priced for a now-bounded regulatory fear. Next catalyst: Q2 2026 earnings (late July/early Aug) and any PBM-reform legislative movement.
 
 ---
 

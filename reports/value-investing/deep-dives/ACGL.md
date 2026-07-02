@@ -1,6 +1,6 @@
 # Deep Dive — Arch Capital Group Ltd. (NASDAQ: ACGL)
 
-**First created:** 2026-06-23 · **Last updated:** 2026-07-01
+**First created:** 2026-06-23 · **Last updated:** 2026-07-02
 
 **Current price & key multiples:**
 - Price: **$98.56** (Robinhood, as of 2026-07-01 close; prev ref 2026-06-29 close $98.06)
@@ -22,6 +22,7 @@
 - 2026-06-29: **No-change refresh; thesis intact.** Markets were closed over the weekend, so the **2026-06-26 close** prices/multiples carry forward unchanged ($97.53; trailing P/E 7.49x, P/B 1.47x, ~$34.1B cap; Robinhood, as of 2026-06-26 close). Monday pre-open (~8:35 ET) reads modestly soft on thin volume — a thin overnight print ~$94.44 with pre-open bid/ask ~$96.57/$98.22 (Robinhood quote, 2026-06-29). No new company-specific news over the weekend. Intrinsic range **~$110–115** and **~13–18% discount** unchanged; remains **top pick #1**. Next catalyst unchanged: Q2 results 2026-07-28.
 - 2026-06-30: **No-change refresh; thesis intact.** New canonical close is the **2026-06-29** session: $98.06 (+0.5% vs the 06-26 $97.53 ref); trailing P/E 7.49x, P/B 1.47x, ~$34.26B cap (Robinhood, as of 2026-06-29 close). 52-wk range unchanged ($82.45–$103.39); stock sits in the upper half of the range. Pre-open 06-30 reads roughly flat (bid/ask ~$97.60/$98.84; Robinhood quote 2026-06-29 prev close). No new company-specific news. Intrinsic range **~$110–115** intact; remaining discount **~12–15%** (narrowed slightly as price ticked up). Remains **top pick #1**. Next catalyst: Q2 2026 results 2026-07-28.
 - 2026-07-01: **No-change refresh; thesis intact.** New canonical close **$98.56** (Robinhood, 2026-07-01 close; +0.5% vs the 06-29 $98.06 ref); trailing P/E **7.45x**, P/B **1.47x**, ~$34.43B cap. Still in the upper half of the 52-wk range ($82.45–$103.39); the sector-wide P&C strength (WFC and financials firm broadly today) did not add company-specific news. Intrinsic **~$110–115** intact; remaining discount **~12–15%**. Remains **top pick #1** — the highest-quality/lowest-drama name on the list (three uncorrelated engines, mid-teens ROE, ~7.5x earnings). Next catalyst: Q2 2026 results 2026-07-28.
+- 2026-07-02: **No-change refresh; thesis intact — no new completed session.** This run executed 2026-07-02 pre-market, so the **2026-07-01 close carries forward** as the last settled session ($98.56; trailing P/E 7.45x, P/B 1.47x, ~$34.43B cap). Pre-market 07-02 is thin and roughly flat-to-soft (bid/ask ~$96.01/$99.59; Robinhood quote 2026-07-02). No new company-specific news. Intrinsic **~$110–115**, discount **~12–15%**. Remains **top pick #1** — the highest-quality/lowest-drama name on the list (three uncorrelated engines, mid-teens ROE, ~7.5x earnings). Next catalyst: Q2 2026 results 2026-07-28.
 
 ---
 

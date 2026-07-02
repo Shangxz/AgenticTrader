@@ -1,6 +1,6 @@
 # Wells Fargo & Company (WFC)
 
-**First created:** 2026-06-22 · **Last updated:** 2026-07-01
+**First created:** 2026-06-22 · **Last updated:** 2026-07-02
 
 **Current price:** $85.94 (Robinhood, as of 2026-07-01 close; **+4.0% on the day** vs 06-30 close $82.64; prev ref 2026-06-29 close $83.51)
 
@@ -26,6 +26,7 @@
 - 2026-06-29: **No-change refresh; thesis intact.** Weekend closure → the **2026-06-26 close** carries forward ($83.86; trailing P/E 12.95x, P/B 1.58x, P/TBV ~1.86x; Robinhood 2026-06-26 close). Monday pre-open flat (~$83.90 — Robinhood quote, 2026-06-29). The clean 2026 stress test (SCB held at the 2.5% floor), the planned ~11% dividend hike to $0.50/qtr (Q3 2026) and the $40B buyback authorization all stand; **Q2 2026 earnings are scheduled for 2026-07-14** (next catalyst). The Q1 efficiency ratio (~67%) remains the one genuine watch item. Intrinsic **~$98–108**, **~17–23% discount**; remains **top pick #4**.
 - 2026-06-30: **No-change refresh; thesis intact.** New canonical close 2026-06-29: **$83.51** (−0.4% vs the 06-26 $83.86 ref); trailing P/E 12.95x, P/B 1.58x, 2.15% yield (Robinhood, as of 2026-06-29 close). Multiples essentially unchanged. The post-stress-test capital-return story ($0.50 Q3 dividend, $40B buyback) and the lifted asset cap remain the core re-rating drivers. Intrinsic **~$98–108**, discount **~17–23%** intact. Remains **top pick #4**. Next catalyst: Q2 2026 earnings 2026-07-14.
 - 2026-07-01: **Thesis intact; sharp bounce ahead of Q2 earnings.** After dipping to a 06-30 close of $82.64, WFC **rallied +4.0% to $85.94** on 2026-07-01 (Robinhood, as of 2026-07-01 close) — no company-specific news found; read as broad financials strength / positioning into the **Q2 2026 earnings on 2026-07-14** (the next catalyst) rather than a fundamental event. Refreshed multiples: trailing P/E **12.76x**, P/B **1.55x**, P/TBV **~1.91x**, ~2.18% yield. The clean 2026 stress test (SCB at the 2.5% floor), the planned ~11% dividend hike to $0.50/qtr (Q3), the $40B buyback and the lifted asset cap all stand. The rally modestly *narrows* the discount but the thesis is unchanged: intrinsic **~$98–108**, discount now **~14–21%** at $85.94. The Q1 efficiency ratio (~67%) remains the one genuine watch item into 07-14. Remains **top pick #4**.
+- 2026-07-02: **No-change refresh; thesis intact — no new completed session.** Run executed 2026-07-02 pre-market; the **2026-07-01 close carries forward** ($85.94; trailing P/E 12.76x, P/B 1.55x, P/TBV ~1.91x, ~2.18% yield). Pre-market 07-02 firm (~$86.59, ~+0.8%; Robinhood quote 2026-07-02) — continued positioning into **Q2 earnings 2026-07-14**. The clean 2026 stress test (SCB at the 2.5% floor), the planned ~11% dividend hike to $0.50/qtr (Q3) and the $40B buyback all stand. Intrinsic **~$98–108**, discount **~14–21%**. The Q1 efficiency ratio (~67%) remains the one genuine watch item into 07-14. Remains **top pick #4**.
 
 ---
 
