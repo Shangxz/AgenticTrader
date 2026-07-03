@@ -1,11 +1,11 @@
 # Deep Dive — Arch Capital Group Ltd. (NASDAQ: ACGL)
 
-**First created:** 2026-06-23 · **Last updated:** 2026-07-02
+**First created:** 2026-06-23 · **Last updated:** 2026-07-03
 
 **Current price & key multiples:**
-- Price: **$98.56** (Robinhood, as of 2026-07-01 close; prev ref 2026-06-29 close $98.06)
-- Trailing P/E: **7.45x** | Price/Book: **1.47x** | Market cap: **~$34.43B** | Shares out: **~349.4M** (Robinhood, as of 2026-07-01 close)
-- 52-week range: **$82.45 (2025-10-28) – $103.39 (2026-02-06)** (Robinhood, as of 2026-07-01 close)
+- Price: **$102.20** (Robinhood, as of 2026-07-02 close; **+3.7% vs the 2026-07-01 close $98.55** on the July-2 value/insurance/financials rotation — see Update Log)
+- Trailing P/E: **7.85x** | Price/Book: **1.54x** | Market cap: **~$35.71B** | Shares out: **~349.4M** (Robinhood, as of 2026-07-02 close)
+- 52-week range: **$82.45 (2025-10-28) – $103.39 (2026-02-06)** (Robinhood, as of 2026-07-02 close) — now within ~1% of the 52-wk high
 - Book value per share: **$66.19** at 3/31/2026, +1.7% vs 12/31/2025 ([Arch Q1 2026 8-K, sec.gov](https://www.sec.gov/Archives/edgar/data/0000947484/000094748426000051/ex-991release33126.htm); as of 2026-04-28)
 - Forward P/E: **~10.4x** on ~$9.58 consensus 2026 EPS ([stockanalysis.com/stocks/acgl](https://stockanalysis.com/stocks/acgl/); [public.com ACGL forecast](https://public.com/stocks/acgl/forecast-price-target); as of 2026-06-26)
 - No regular dividend; capital returned via buybacks (~$783M / 8.3M shares in Q1 2026; $3B authorization added in Q1 2026)
@@ -23,6 +23,7 @@
 - 2026-06-30: **No-change refresh; thesis intact.** New canonical close is the **2026-06-29** session: $98.06 (+0.5% vs the 06-26 $97.53 ref); trailing P/E 7.49x, P/B 1.47x, ~$34.26B cap (Robinhood, as of 2026-06-29 close). 52-wk range unchanged ($82.45–$103.39); stock sits in the upper half of the range. Pre-open 06-30 reads roughly flat (bid/ask ~$97.60/$98.84; Robinhood quote 2026-06-29 prev close). No new company-specific news. Intrinsic range **~$110–115** intact; remaining discount **~12–15%** (narrowed slightly as price ticked up). Remains **top pick #1**. Next catalyst: Q2 2026 results 2026-07-28.
 - 2026-07-01: **No-change refresh; thesis intact.** New canonical close **$98.56** (Robinhood, 2026-07-01 close; +0.5% vs the 06-29 $98.06 ref); trailing P/E **7.45x**, P/B **1.47x**, ~$34.43B cap. Still in the upper half of the 52-wk range ($82.45–$103.39); the sector-wide P&C strength (WFC and financials firm broadly today) did not add company-specific news. Intrinsic **~$110–115** intact; remaining discount **~12–15%**. Remains **top pick #1** — the highest-quality/lowest-drama name on the list (three uncorrelated engines, mid-teens ROE, ~7.5x earnings). Next catalyst: Q2 2026 results 2026-07-28.
 - 2026-07-02: **No-change refresh; thesis intact — no new completed session.** This run executed 2026-07-02 pre-market, so the **2026-07-01 close carries forward** as the last settled session ($98.56; trailing P/E 7.45x, P/B 1.47x, ~$34.43B cap). Pre-market 07-02 is thin and roughly flat-to-soft (bid/ask ~$96.01/$99.59; Robinhood quote 2026-07-02). No new company-specific news. Intrinsic **~$110–115**, discount **~12–15%**. Remains **top pick #1** — the highest-quality/lowest-drama name on the list (three uncorrelated engines, mid-teens ROE, ~7.5x earnings). Next catalyst: Q2 2026 results 2026-07-28.
+- 2026-07-03: **Refresh on the completed 07-02 close; thesis intact; discount narrowed on a sector-rotation pop.** New canonical close **$102.20** (Robinhood, 2026-07-02 close; **+3.7% vs $98.55**); trailing P/E **7.85x**, P/B **1.54x**, ~$35.71B cap. The move was **not company-specific** — July 2 saw a broad rotation OUT of tech/semis INTO value (financials, insurance, healthcare, staples), with the Dow closing at an all-time high ~52,900 while the Nasdaq-100 fell ~1.6% ([TheStreet, 2026-07-02](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-2-2026)); ACGL rode that flow to within ~1% of its 52-wk high ($103.39). *US markets are closed today (2026-07-03) for Independence Day observed*, so the 07-02 close is the last settled session. The pop *narrows* the margin of safety: intrinsic held at **~$110–115**, discount now **~8–12%** (from ~12–15%) — ACGL is now the smallest-discount of the cheap-insurer cohort but retains **top pick #1** on quality (three uncorrelated engines, mid-teens ROE, ~7.9x earnings), not on being the deepest bargain. Next catalyst: Q2 2026 results 2026-07-28.
 
 ---
 

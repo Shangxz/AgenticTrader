@@ -1,6 +1,6 @@
 # Everest Group, Ltd. (NYSE: EG)
 
-**First created:** 2026-06-26 · **Last updated:** 2026-07-02 · Research support only — not personal financial advice.
+**First created:** 2026-06-26 · **Last updated:** 2026-07-03 · Research support only — not personal financial advice.
 
 Global property & casualty reinsurance and insurance, domiciled in Bermuda (Hamilton). Sector: Finance / Property & Casualty (Re)insurance. CEO: James (Jim) Williamson.
 
@@ -8,15 +8,15 @@ Global property & casualty reinsurance and insurance, domiciled in Bermuda (Hami
 
 | Metric | Value | Source |
 |--------|-------|--------|
-| Price (last trade) | **$359.84** (2026-07-01 close; prev ref 2026-06-29 close $360.79, roughly flat) | Robinhood, as of 2026-07-01 close |
-| Trailing P/E | **7.28x** | Robinhood, as of 2026-07-01 close |
-| Price/Book | **0.93x** (still below book) | Robinhood, as of 2026-07-01 close |
-| Forward P/E (2026E) | **~6.9x** on ~$52 consensus EPS | [stockanalysis.com](https://stockanalysis.com/stocks/eg/forecast/) |
+| Price (last trade) | **$371.25** (2026-07-02 close; **+3.1% vs the 07-01 close $359.93**, on the July-2 value/insurance rotation) | Robinhood, as of 2026-07-02 close |
+| Trailing P/E | **7.33x** | Robinhood, as of 2026-07-02 close |
+| Price/Book | **0.94x** (still below book) | Robinhood, as of 2026-07-02 close |
+| Forward P/E (2026E) | **~7.1x** on ~$52 consensus EPS | [stockanalysis.com](https://stockanalysis.com/stocks/eg/forecast/) |
 | Book value/share | **$383.75** ($393.02 ex-unrealized fixed-maturity losses), Q1 2026 | [Bernews / Q1'26 release](https://bernews.com/2026/05/everest-group-reports-q1-2026-results/) |
-| Market cap | **~$14.24B** | Robinhood, as of 2026-07-01 close |
-| Shares out | **~39.57M** | Robinhood, as of 2026-07-01 close |
-| 52-week range | $302.44 (2025-10-28) – $368.29 (2025-10-08); ~2% off high | Robinhood, as of 2026-07-01 close |
-| Dividend | $8.00/yr, **~2.24% yield** | Robinhood, as of 2026-07-01 close |
+| Market cap | **~$14.69B** | Robinhood, as of 2026-07-02 close |
+| Shares out | **~39.57M** | Robinhood, as of 2026-07-02 close |
+| 52-week range | $302.44 (2025-10-28) – **$372.36 (2026-07-02, a fresh 52-wk high)**; ~0.3% off high | Robinhood, as of 2026-07-02 close |
+| Dividend | $8.00/yr, **~2.22% yield** | Robinhood, as of 2026-07-02 close |
 | Q1 2026 net income | **$653M / $16.21 dil. EPS** (vs $210M / $4.90 y/y) | [StockTitan](https://www.stocktitan.net/news/EG/everest-reports-first-quarter-2026-do0uhymguwqc.html) |
 | Q1 2026 combined ratio | **91.2%** (from 102.7% y/y); attritional CR 88.5% | [Bernews](https://bernews.com/2026/05/everest-group-reports-q1-2026-results/) |
 | Q1 2026 operating ROE (annualized) | **16.7%** | [Investing.com Q1'26 slides](https://uk.investing.com/news/company-news/everest-q1-2026-slides-strategic-reset-drives-167-operating-roe-93CH-4641507) |
@@ -35,6 +35,7 @@ Global property & casualty reinsurance and insurance, domiciled in Bermuda (Hami
 - 2026-06-30: **No-change refresh; thesis intact.** New canonical close 2026-06-29: **$360.79** (+1.5% vs the 06-26 $355.51 ref); P/E 7.24x, **P/B 0.925x — still the only sub-book name on the list** (Robinhood, as of 2026-06-29 close). Stock is now ~2% below its 52-wk high ($368.29); the below-book discount has narrowed but not closed. Pre-open 06-30 quote is thin/wide (bid/ask ~$340.59/$381.02 — not a reliable mark). No new company-specific news. Intrinsic **~$430–470**, discount **~19–25%** (slightly narrower as price rose). Remains **top pick #2**. Next test: Q2 2026 results ~2026-07-28.
 - 2026-07-01: **No-change refresh; thesis intact.** New canonical close **$359.84** (Robinhood, 2026-07-01 close; roughly flat, −0.3% vs the 06-29 $360.79 ref); trailing P/E **7.28x**, **P/B 0.93x — still the only sub-book name on the list**, ~$14.24B cap. Stock holds ~2% below its 52-wk high ($368.29); the sub-book discount persists. No new company-specific news (the $8.00/yr dividend went ex on 2026-06-12, payable 06-26). Intrinsic **~$430–470**, discount **~19–25%**. Remains **top pick #2** — the highest-margin-of-safety name on the list (below book, mid-teens ROE, reserve issue now ring-fenced by the $1.2B ADC). Next test: Q2 2026 results ~2026-07-28 (a clean quarter with no new casualty charge remains the key re-rating catalyst).
 - 2026-07-02: **No-change refresh; thesis intact — no new completed session.** Run executed 2026-07-02 pre-market; the **2026-07-01 close carries forward** ($359.84; trailing P/E 7.28x, **P/B 0.93x — still the only sub-book name on the list**, ~$14.24B cap). The pre-market 07-02 quote is thin/wide (bid/ask ~$340.59/$363.42 — not a reliable mark). No new company-specific news. Intrinsic **~$430–470**, discount **~19–25%**. Remains **top pick #2** — the highest-margin-of-safety name (below book, mid-teens ROE, reserve issue ring-fenced by the $1.2B ADC). Next test: Q2 2026 results ~2026-07-28 (a clean quarter with no new casualty charge remains the key re-rating catalyst).
+- 2026-07-03: **Refresh on the completed 07-02 close; thesis intact; still sub-book despite a fresh 52-wk high.** New canonical close **$371.25** (Robinhood, 2026-07-02 close; **+3.1% vs $359.93**), which printed a new **52-wk high of $372.36** intraday — yet EG *still trades below book* at **P/B 0.94x** (trailing P/E **7.33x**, ~$14.69B cap, ~2.22% yield). The move was **sector-driven, not company-specific**: July 2 rotated into financials/insurance/healthcare (Dow all-time high ~52,900; Nasdaq-100 −1.6%; [TheStreet, 2026-07-02](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-2-2026)). *US markets are closed today 2026-07-03 (Independence Day observed)*, so 07-02 is the last settled session. That a scaled, mid-teens-ROE reinsurer at a **fresh 52-wk high is still under 1.0x book** underscores how much reserve-credibility discount remains priced in. Intrinsic held at **~$430–470**, discount now **~15–23%** (narrower as price rose, but still wide). Remains **top pick #2** — the only sub-book name on the list and the highest-margin-of-safety idea. Next test: Q2 2026 results ~2026-07-28 (a clean quarter with no new casualty charge is the key re-rating catalyst).
 
 ---
 
