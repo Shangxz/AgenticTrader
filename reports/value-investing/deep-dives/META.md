@@ -1,26 +1,26 @@
 # Deep Dive — Meta Platforms, Inc. (META)
 
-**First created:** 2026-06-25 · **Last updated:** 2026-07-07
+**First created:** 2026-06-25 · **Last updated:** 2026-07-08
 
-**Current price:** **$600.29** (Robinhood, as of 2026-07-06 close; **+3.0% vs the prior 07-02 close $582.64** — META participated in the 07-06 mega-cap/AI-optimism rally; see Update Log)
+**Current price:** **$615.58** (Robinhood, as of 2026-07-07 close; **+2.5% vs the prior 07-06 close $600.29** — META rose *against* a falling tape (Nasdaq −1.16% on a chip selloff), as it is an AI beneficiary rather than a chipmaker; see Update Log)
 
 **Key valuation snapshot:**
 | Metric | Value | Source |
 |--------|-------|--------|
-| Price | $600.29 | Robinhood, as of 2026-07-06 close |
-| Trailing P/E | 21.19 | Robinhood, as of 2026-07-06 close |
-| Forward P/E | ~18.3x on FY26 EPS ~$32.81 | [Simply Wall St (Jun 2026)](https://simplywall.st/stocks/us/media/nasdaq-meta/meta-platforms/future); price ÷ EPS |
+| Price | $615.58 | Robinhood, as of 2026-07-07 close |
+| Trailing P/E | 22.38 | Robinhood, as of 2026-07-07 close |
+| Forward P/E | ~18.8x on FY26 EPS ~$32.81 | [Simply Wall St (Jun 2026)](https://simplywall.st/stocks/us/media/nasdaq-meta/meta-platforms/future); price ÷ EPS |
 | EV/EBITDA | ~13x | [Simply Wall St / search context (Jun 2026)](https://simplywall.st/stocks/us/media/nasdaq-meta/meta-platforms) |
-| Price / Book | 6.07 | Robinhood, as of 2026-07-06 close |
-| Dividend yield | ~0.36% | Robinhood, as of 2026-07-06 close |
-| Market cap | ~$1.52T (~2.54B sh out) | Robinhood, as of 2026-07-06 close |
-| 52-wk range | $520.26 (2026-03-27) – $796.25 (2025-08-15) | Robinhood, as of 2026-07-06 close |
+| Price / Book | 6.41 | Robinhood, as of 2026-07-07 close |
+| Dividend yield | ~0.34% | Robinhood, as of 2026-07-07 close |
+| Market cap | ~$1.56T (~2.54B sh out) | Robinhood, as of 2026-07-07 close |
+| 52-wk range | $520.26 (2026-03-27) – $796.25 (2025-08-15) | Robinhood, as of 2026-07-07 close |
 | FY2026 consensus EPS | ~$32.81 (raised from ~$29.65) | [Simply Wall St (Jun 2026)](https://simplywall.st/stocks/us/media/nasdaq-meta/meta-platforms/future) |
 | TTM free cash flow | ~$46–51B (down ~38% YoY) | [MacroTrends (Jun 2026)](https://www.macrotrends.net/stocks/charts/META/meta-platforms/free-cash-flow), [Investing.com](https://www.investing.com/analysis/meta-faces-margin-pressure-as-capex-surges-but-free-cash-flow-holds-up-200675340) |
 | FCF yield | ~3.1–3.5% | [GuruFocus (2026-06-27)](https://www.gurufocus.com/term/fcf-yield/META) + price adj. |
 | 2026 capex guidance | $125–145B (raised from $115–135B) | [Fortune](https://fortune.com/2026/04/29/meta-zuckerberg-145-billion-ai-spending-roi/), [Yahoo Finance](https://finance.yahoo.com/sectors/technology/article/meta-stock-sinks-after-q1-earnings-as-company-raises-2026-ai-spending-forecast-to-125-billion-145-billion-160136308.html) |
 
-> **Disclaimer:** Research support only — **not** personal financial advice. Live price/multiples are from the Robinhood market-data connector as of the 2026-07-06 close; all other figures carry an inline source URL and as-of date. Figures may be revised; verify before acting. Do your own due diligence.
+> **Disclaimer:** Research support only — **not** personal financial advice. Live price/multiples are from the Robinhood market-data connector as of the 2026-07-07 close; all other figures carry an inline source URL and as-of date. Figures may be revised; verify before acting. Do your own due diligence.
 
 **Why it is on the list:** Meta trades at ~20x trailing / ~17x forward earnings — *below* its own five-year average (~23x) and below mega-cap-platform peers — despite Q1 2026 revenue +33% and EPS +62%. The ~31% drawdown from its $796 high is **almost entirely an AI-capex story**: 2026 capex guided to $125–145B compressed near-term free cash flow and spooked investors who see Meta (unlike its cloud-owning peers) monetizing AI only indirectly through advertising. The investment question is the cleanest possible version of the framework: **is this a genuine deterioration in free-cash-flow economics, or a market misunderstanding of a dominant, cash-generative advertising franchise temporarily out-spending its visible ROI?** This is *quality-led value* — a high-quality compounder cheaper on earnings than it has been in years — **not** a statistically cheap deep-value stock, and it carries a real, not imaginary, capex/FCF risk. The discipline here is distinguishing genuine value from a falling knife.
 
@@ -39,6 +39,7 @@
 - 2026-07-05: **No-change refresh; thesis intact — markets closed (Sunday, holiday weekend), no new settled session (third consecutive closed day).** The **2026-07-02 close carries forward** ($582.64); live re-pull today: trailing P/E **21.19x**, forward **~17.8x** on FY26 EPS ~$32.81, P/B **6.07x**, ~$1.479T cap, ~27% below the $796 high (Robinhood, market_date 2026-07-02, pulled 2026-07-05). Trailing P/E and P/B eased (from 22.28x / 6.38x) on a data-provider TTM-earnings/book refresh with **price unchanged**; the forward multiple is the governing valuation and is unchanged. No new company-specific news over the holiday weekend; the AI-compute-rental report remains **company-unconfirmed** (Q2 guidance 2026-07-29 is the confirmation point). Intrinsic held at **~$720–780**, discount **~19–24%** — the lone high-multiple/founder-control name, held at **#7** with position discipline (starter-to-medium, dual-class-control cap) unchanged. Next test: **Q2 earnings 2026-07-29**; markets reopen 2026-07-06.
 - 2026-07-06: **Pre-open refresh on the first trading day back; thesis intact — 07-02 close still the last settled session.** Run executed 2026-07-06 pre-market; the **2026-07-02 close carries forward** ($582.64; trailing P/E 21.19x, forward ~17.8x on FY26 EPS ~$32.81, P/B 6.07x, ~$1.479T cap, ~27% below the $796 high; Robinhood, market_date 2026-07-02, re-confirmed today). Pre-open 07-06 firm (~$591.70, ~+1.6%; Robinhood quote 2026-07-06) as tech rebounds in early trade after two down sessions for AI-semis ([TheStreet, 2026-07-06](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-6-2026)). No new company-specific news; the AI-compute-rental report remains **company-unconfirmed** (Q2 guidance 2026-07-29 is the confirmation point). Intrinsic held at **~$720–780**, discount **~19–24%** — the lone high-multiple/founder-control name, held at **#7** with position discipline (starter-to-medium, dual-class-control cap) unchanged. Next test: **Q2 earnings 2026-07-29**.
 - 2026-07-07: **Refresh on the completed 07-06 close; stock rallied ~3% on the AI-optimism tape — discount narrowed but thesis intact.** New canonical close **$600.29** (+3.0% vs the 07-02 $582.64); trailing P/E **21.19x**, ~**18.3x** forward (FY26 EPS ~$32.81), P/B **6.07x**, ~$1.52T cap (Robinhood, as of 2026-07-06 close). First fresh settled session after the holiday weekend; META participated in the 07-06 mega-cap/AI rally (Nasdaq +1.1%). No new company-specific news; the AI-compute-rental report remains **company-unconfirmed** (watch the Q2 print). Thesis intact — high-quality ad compounder; the lone high-multiple / founder-control name on the list, held for quality rather than deep statistical cheapness. Intrinsic held at **~$720–780**, discount now **~17–23%** (narrower after the pop). Remains **top pick #7**; position discipline (starter-to-medium, dual-class-control cap) unchanged. Next catalyst: **Q2 2026 earnings 2026-07-29**.
+- 2026-07-08: **Refresh on the completed 07-07 close; META rose against a falling market; thesis intact.** New canonical close **$615.58** (**+2.5% vs the 07-06 $600.29**); trailing P/E **22.38x**, ~**18.8x** forward (FY26 EPS ~$32.81), P/B **6.41x**, ~$1.56T cap (Robinhood, as of 2026-07-07 close). Notably META gained while the broad tape *fell* (Nasdaq −1.16%, S&P −0.45% on a Samsung/DeepSeek-driven semiconductor selloff) — confirming the market treats META as an AI *beneficiary/ad-compounder* rather than a chip-cycle name. No new company-specific news; the AI-compute-rental report remains **company-unconfirmed** (watch the Q2 print). Thesis intact — high-quality ad compounder, the lone high-multiple / founder-control name, held for quality rather than deep statistical cheapness. Intrinsic held at **~$720–780**, discount now **~15–21%** (narrower after another up day). Remains **top pick #7**; position discipline (starter-to-medium, dual-class-control cap) unchanged. Next catalyst: **Q2 2026 earnings 2026-07-29**.
 
 ---
 
