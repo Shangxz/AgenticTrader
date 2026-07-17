@@ -1,6 +1,6 @@
 # Everest Group, Ltd. (NYSE: EG)
 
-**First created:** 2026-06-26 · **Last updated:** 2026-07-16 · Research support only — not personal financial advice.
+**First created:** 2026-06-26 · **Last updated:** 2026-07-17 · Research support only — not personal financial advice.
 
 Global property & casualty reinsurance and insurance, domiciled in Bermuda (Hamilton). Sector: Finance / Property & Casualty (Re)insurance. CEO: James (Jim) Williamson.
 
@@ -8,15 +8,15 @@ Global property & casualty reinsurance and insurance, domiciled in Bermuda (Hami
 
 | Metric | Value | Source |
 |--------|-------|--------|
-| Price (last trade) | **$364.13** (2026-07-15 close; **−2.08% vs the 07-14 close $371.85**; still below book) | Robinhood, as of 2026-07-15 close |
-| Trailing P/E | **7.57x** | Robinhood, as of 2026-07-15 close |
-| Price/Book | **0.968x** (still below book value) | Robinhood, as of 2026-07-15 close |
+| Price (last trade) | **$373.22** (2026-07-16 close; **+2.50% vs the 07-15 close $364.13** — ROSE on a value/insurer rotation; now only ~1.6% below the 52-wk high; still below book) | Robinhood, as of 2026-07-16 close |
+| Trailing P/E | **7.42x** | Robinhood, as of 2026-07-16 close |
+| Price/Book | **0.95x** (below book value) | Robinhood, as of 2026-07-16 close |
 | Forward P/E (2026E) | **~7.1x** on ~$52 consensus EPS | [stockanalysis.com](https://stockanalysis.com/stocks/eg/forecast/) |
 | Book value/share | **$383.75** ($393.02 ex-unrealized fixed-maturity losses), Q1 2026 | [Bernews / Q1'26 release](https://bernews.com/2026/05/everest-group-reports-q1-2026-results/) |
-| Market cap | **~$14.4B** | Robinhood, as of 2026-07-15 close |
-| Shares out | **~39.6M** | Robinhood, as of 2026-07-15 close |
-| 52-week range | $302.44 (2025-10-28) – **$379.22 (2026-07-07, fresh high)** — ~4.0% below the fresh 52-wk high | Robinhood, as of 2026-07-15 close |
-| Dividend | $8.00/yr, **~2.15% yield** ($2.00/qtr) | Robinhood, as of 2026-07-15 close |
+| Market cap | **~$14.77B** | Robinhood, as of 2026-07-16 close |
+| Shares out | **~39.6M** | Robinhood, as of 2026-07-16 close |
+| 52-week range | $302.44 (2025-10-28) – **$379.22 (2026-07-07, fresh high)** — ~1.6% below the 52-wk high | Robinhood, as of 2026-07-16 close |
+| Dividend | $8.00/yr, **~2.20% yield** ($2.00/qtr) | Robinhood, as of 2026-07-16 close |
 | Q1 2026 net income | **$653M / $16.21 dil. EPS** (vs $210M / $4.90 y/y) | [StockTitan](https://www.stocktitan.net/news/EG/everest-reports-first-quarter-2026-do0uhymguwqc.html) |
 | Q1 2026 combined ratio | **91.2%** (from 102.7% y/y); attritional CR 88.5% | [Bernews](https://bernews.com/2026/05/everest-group-reports-q1-2026-results/) |
 | Q1 2026 operating ROE (annualized) | **16.7%** | [Investing.com Q1'26 slides](https://uk.investing.com/news/company-news/everest-q1-2026-slides-strategic-reset-drives-167-operating-roe-93CH-4641507) |
@@ -49,6 +49,7 @@ Global property & casualty reinsurance and insurance, domiciled in Bermuda (Hami
 - 2026-07-14: **Refresh on the completed 07-13 close; thesis intact; rose ~2% to within a whisker of its 52-wk high — STILL below book.** New canonical close **$377.89** (Robinhood, 2026-07-13 close; **+2.00% vs the 07-10 $370.49**); trailing P/E **7.55x**, **P/B 0.96x — still the only sub-book name on the list**, ~$14.96B cap, ~2.16% yield. EG now sits just **~0.35% below its 07-07 fresh 52-wk high ($379.22)** — and that a scaled, mid-teens-operating-ROE reinsurer trades *below 1.0x book at a fresh 52-wk high* still captures the entire thesis: an enormous reserve-credibility discount remains embedded. The advance came on the risk-OFF 07-13 tape (S&P −0.79%, oil up on Iran tension) where insurers outperformed; no company-specific news. The move *narrows* the book-value gap but the discount to normalized value stays wide: intrinsic **~$430–470**, discount **~12–20%** — the deepest book-value bargain on the list. Remains **top pick #2**. Next catalyst: **Q2 2026 results 2026-07-29 after close** (call 07-30), consensus EPS ~$14.57 — a clean, no-new-casualty-charge quarter is the key re-rating trigger.
 - 2026-07-15: **Refresh on the completed 07-14 close; thesis intact; eased ~1.6% but STILL below book.** New canonical close **$371.85** (Robinhood, 2026-07-14 close; **−1.60% vs the 07-13 $377.89**); trailing P/E **7.70x**, **P/B 0.98x — still the only sub-book name on the list**, ~$14.72B cap, ~2.12% yield; now ~1.9% below the 07-07 fresh 52-wk high ($379.22). EG gave back a little with the insurer complex on a **risk-ON, CPI-relief tape** (June CPI 3.5% vs 3.8% est; S&P +0.38%, Nasdaq +0.9% on a semis rebound) — no company-specific news, and a scaled mid-teens-operating-ROE reinsurer trading *below 1.0x book* still captures the entire thesis. Intrinsic **~$430–470**, discount **~13–20%** — the deepest book-value bargain on the list. Remains **top pick #2**. Live 07-15 pre-market ~$372. Next catalyst: **Q2 2026 results 2026-07-29 after close** (call 07-30), consensus EPS ~$14.57.
 - 2026-07-16: **Refresh on the completed 07-15 close; thesis intact; eased ~2.1% but STILL below book.** New canonical close **$364.13** (Robinhood, 2026-07-15 close; **−2.08% vs the 07-14 $371.85**); trailing P/E **7.57x**, **P/B 0.968x — still the only sub-book name on the list**, ~$14.4B cap, ~2.15% yield; now ~4.0% below the 07-07 fresh 52-wk high ($379.22). EG gave back a little with the insurer complex on a **broad risk-ON tape** (cool June PPI −0.3% m/m headline / core +0.2%; S&P +0.38% to 7,572.40, Nasdaq +0.62%, Dow +0.29% to 52,658.64, megacap-tech-led — AAPL +4.0% record, GOOGL +3.2%, META +3.1%; [TheStreet, 2026-07-15](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-15-2026)) — no company-specific news, and a scaled mid-teens-operating-ROE reinsurer trading *below 1.0x book* still captures the entire thesis. Intrinsic **~$430–470**, discount **~15–22%** (WIDENED slightly as price fell) — the deepest book-value bargain on the list. Remains **top pick #2**. Live 07-16 pre-market thin/wide ~$364 (bid $357 / ask $369 — not a reliable mark). Next catalyst: **Q2 2026 results 2026-07-29 after close** (call 07-30), consensus EPS ~$14.57.
+- 2026-07-17: **Refresh on the completed 07-16 close; thesis intact; rose +2.5% on a value/insurer rotation — still below book.** New canonical close **$373.22** (Robinhood, 2026-07-16 close; **+2.50% vs the 07-15 $364.13**); trailing P/E **7.42x**, **P/B 0.95x (still below book)**, yield **2.20%**, ~$14.77B cap (~39.6M shares). The broad market fell on a semiconductor slide (TSMC capex guide up to $60–64B) and Alphabet −4%+ on a Gemini 3.5 Pro delay — S&P 500 −0.51% to 7,533.77, Nasdaq −1.47% ([TheStreet, 2026-07-16](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-16-2026)) — and EG benefited from the rotation into value/insurance. Now only ~1.6% below the 07-07 fresh 52-wk high ($379.22), yet a scaled mid-teens-ROE global reinsurer STILL trading below book (0.95x) purely on a now-ring-fenced reserve-credibility discount — the standout on book-value support. No company-specific news. Intrinsic **~$430–470**, discount **~13–20%** (a touch narrower after the up day). Live 07-17 pre-market illiquid/wide, ~flat. Remains **top pick #2** and the deepest book-value bargain on the list. Next catalyst: **Q2 2026 earnings 2026-07-29 (AMC)**.
 
 ---
 
@@ -56,7 +57,7 @@ Global property & casualty reinsurance and insurance, domiciled in Bermuda (Hami
 
 *Acting as an experienced buy-side analyst specializing in mispriced/undervalued companies.*
 
-**Current valuation context:** ~0.968x book and ~7.6x trailing / ~6.8x forward earnings vs P&C-(re)insurance peers at ~1.3x–2.7x book and 5–15x earnings.
+**Current valuation context:** ~0.95x book and ~7.42x trailing / ~6.8x forward earnings vs P&C-(re)insurance peers at ~1.3x–2.7x book and 5–15x earnings.
 
 **1. Business-model clarity — is this genuinely hard to model?**
 Everest is not conceptually complex — it underwrites reinsurance (~65% of premium) and primary insurance (~35%), and earns an investment-income spread on float. What makes it *hard to trust* is **reserve adequacy in long-tail US casualty**. Casualty losses (general liability, commercial auto, professional lines) develop over many years; an insurer books a best-estimate reserve today and the truth emerges over a decade. "Social inflation" — rising jury verdicts, litigation funding, broader liability theories — has repeatedly forced the whole industry to top up old reserves. So the analyst's difficulty is not the business; it is **the believability of one number on the balance sheet** (loss reserves) that, if wrong, flows straight through book value. That single point of opacity is exactly why the market applies a below-book multiple.
@@ -89,7 +90,7 @@ The sub-book price implies the market believes **Everest's stated reserves are s
 
 *Acting as a valuation analyst building a comp set for an investment committee.*
 
-**Current multiple:** **0.968x book value** (and ~7.57x trailing P/E). **Sector:** Global P&C reinsurance + specialty insurance.
+**Current multiple:** **0.95x book value** (and ~7.42x trailing P/E). **Sector:** Global P&C reinsurance + specialty insurance.
 
 **Step 1 — The peer group.** Bermuda/global reinsurers and large specialty / diversified P&C (re)insurers:
 
@@ -135,7 +136,7 @@ A re-rate to even **1.1–1.2x book on a ~$390–400 book** implies a **~$430–
 
 **Thesis:** Everest is a scaled, well-capitalized global reinsurer trading below book and ~7x earnings because a 2024 US-casualty reserve charge broke market confidence. A new CEO, a $1.2B adverse-development cover, profitability-over-volume underwriting (incl. exiting commercial retail), a 91.2% Q1'26 combined ratio with 16.7% operating ROE, and a $4.74B buyback (accretive below book) suggest the reserve problem is being ring-fenced and the franchise can re-earn a 1.1x+ book multiple.
 
-**My rough intrinsic value:** **~$430–470** (~1.1–1.2x normalized book of ~$390–400, consistent with mid-teens ROE and a sub-10x P/E on ~$52–60 normalized EPS). **Approx. discount to intrinsic at ~$364: ~15–22%.**
+**My rough intrinsic value:** **~$430–470** (~1.1–1.2x normalized book of ~$390–400, consistent with mid-teens ROE and a sub-10x P/E on ~$52–60 normalized EPS). **Approx. discount to intrinsic at ~$373: ~13–20%.**
 
 **Catalyst analysis**
 
