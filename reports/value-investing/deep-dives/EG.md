@@ -1,6 +1,6 @@
 # Everest Group, Ltd. (NYSE: EG)
 
-**First created:** 2026-06-26 · **Last updated:** 2026-07-20 · Research support only — not personal financial advice.
+**First created:** 2026-06-26 · **Last updated:** 2026-07-21 · Research support only — not personal financial advice.
 
 Global property & casualty reinsurance and insurance, domiciled in Bermuda (Hamilton). Sector: Finance / Property & Casualty (Re)insurance. CEO: James (Jim) Williamson.
 
@@ -8,9 +8,9 @@ Global property & casualty reinsurance and insurance, domiciled in Bermuda (Hami
 
 | Metric | Value | Source |
 |--------|-------|--------|
-| Price (last trade) | **$382.69** (2026-07-17 close; **+2.5% vs the 07-16 close $373.22** — ROSE to a FRESH 52-wk high on a value/insurer rotation; still below book; carried forward pre-market Mon 2026-07-20) | Robinhood, as of 2026-07-17 close |
-| Trailing P/E | **7.60x** | Robinhood, as of 2026-07-17 close |
-| Price/Book | **0.97x** (below book value) | Robinhood, as of 2026-07-17 close |
+| Price (last trade) | **$378.99** (2026-07-20 settled close; **−1.0% vs the 07-17 close $382.69** — eased slightly from last week's fresh 52-wk high but **still below book**) | Robinhood, as of 2026-07-20 close |
+| Trailing P/E | **7.60x** | Robinhood, as of 2026-07-20 close |
+| Price/Book | **0.97x** (below book value) | Robinhood, as of 2026-07-20 close |
 | Forward P/E (2026E) | **~7.1x** on ~$52 consensus EPS | [stockanalysis.com](https://stockanalysis.com/stocks/eg/forecast/) |
 | Book value/share | **$383.75** ($393.02 ex-unrealized fixed-maturity losses), Q1 2026 | [Bernews / Q1'26 release](https://bernews.com/2026/05/everest-group-reports-q1-2026-results/) |
 | Market cap | **~$15.1B** | Robinhood, as of 2026-07-17 close |
@@ -29,6 +29,7 @@ Global property & casualty reinsurance and insurance, domiciled in Bermuda (Hami
 
 ## Update Log
 
+- 2026-07-21: **Refresh on the first settled 07-20 (Monday) close; thesis intact.** New canonical close **$378.99** (Robinhood, as of 2026-07-20; **−1.0% vs the 07-17 $382.69**); trailing P/E **7.60x**, **P/B 0.97x — still below book**, ~$15.0B cap, ~2.11% yield — eased slightly from last week's fresh 52-wk high ($385.69, 07-17) but remains the only sub-book name on the list. Mildly risk-off 07-20 tape (S&P −0.19%); Tuesday 07-21 pre-market risk-on (Nasdaq-100 futures +1.3%; oil easing on a reported 10-day Iran-ceasefire push — [Yahoo Finance, 2026-07-21](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-21-dow-sp-500-nasdaq-084631499.html)). No new company-specific news. That a scaled mid-teens-ROE reinsurer still trades under 1.0x book captures the whole thesis; Mizuho PT $418 (Neutral, 07-09) reaffirms upside. Intrinsic **~$430–470**, discount **~13–21%** — the standout book-value bargain; holds **#2**. Next hard catalyst: **Q2 2026-07-29 (AMC)** — a clean, no-new-casualty-charge quarter is the key re-rating catalyst.
 - 2026-07-20: Monday pre-market refresh; 07-17 close ($382.69, P/E 7.60, P/B 0.97) carried forward. Still the standout book-value bargain — below book despite last week's fresh 52-wk high ($385.69, 07-17). Thesis intact; #2. Mizuho PT raised to $418 (Neutral, 07-09) reaffirms upside. Q2 07-29 (AMC). No weekend news. Risk-on tape (Nasdaq-100 futures +1%; chip recovery; Iran de-escalation) after last week's S&P −1.6% / Nasdaq −2.9% ([TheStreet, 2026-07-20](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-20-2026)).
 - 2026-06-26: Initial deep-dive created. Price $343.02 (2026-06-25 close). Trailing P/E ~6.99x, P/B ~0.89x. Thesis: sub-book reinsurer with reserve-credibility discount post-2024 $1.7B casualty charge; ADC + new-CEO clean-up + Q1'26 91.2% CR support a re-rate toward 1.1–1.2x book. Intrinsic ~$430–470 (~1.1–1.2x normalized book), ~20–30% discount. Key catalyst: a full year with no new casualty charge. Verdict: medium-sized, monitor-the-reserves position.
 - 2026-06-28: **Price up to $355.51 (2026-06-26 close, +3.6% vs the $343.02 used in the prior note).** Multiples ticked up accordingly — trailing P/E ~7.24x, P/B ~0.925x (still below book but the sub-book cushion narrowed from ~11% to ~7.5%). Underlying fundamentals **unchanged** (no new quarter; Q1'26 figures stand, Q2 reports ~7/28/2026). **Thesis intact.** New/confirmed data points since prior version: (1) Q1'26 **operating ROE confirmed at 16.7%**; (2) forward EPS consensus ~**$52** (2026E) / ~$59–60 (2027E), putting forward P/E at ~6.8x; (3) **analyst targets repositioning up** — Raymond James to $400 (Outperform), KBW to $411 (Outperform, lifting 2027 EPS to $63.25), Citi to $395 (Neutral); consensus avg ~$378–388 ([Investing.com](https://www.investing.com/news/analyst-ratings/raymond-james-raises-everest-group-stock-price-target-on-capital-returns-93CH-4679565), [Benzinga](https://www.benzinga.com/quote/EG/analyst-ratings)); (4) GuruFocus GF Value $401.40 vs price ([GuruFocus](https://www.gurufocus.com/news/8934982/a-look-at-everest-group-ltd-eg-after-36-gain-gf-value-40140-vs-price-35552)); (5) confirmed strategic catalyst: **exit of commercial retail insurance** to unlock capital for returns. Expanded peer set to 7 names (added CB, MKL, TRV, WRB) — EG remains the *only* sub-book name. Intrinsic estimate maintained at **~$430–470**; with price up, discount narrows to **~18–25%**. No new reserve charge or adverse news; value-trap watch (reserve credibility) remains the governing risk.
