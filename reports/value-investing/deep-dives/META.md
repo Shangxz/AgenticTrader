@@ -1,20 +1,20 @@
 # Deep Dive — Meta Platforms, Inc. (META)
 
-**First created:** 2026-06-25 · **Last updated:** 2026-07-21
+**First created:** 2026-06-25 · **Last updated:** 2026-07-22
 
-**Current price:** **$645.85** (Robinhood, as of 2026-07-20 settled close; trailing P/E 24.16 [~21x fwd], P/B 6.92 — essentially flat, −0.02% vs the 07-17 close $646.01; ~18.9% below the 52-wk high $796.25). The qualitative long-term thesis is unchanged: Meta's **"Meta Compute"** AI-cloud reveal + in-house **"Iris"** chip are concrete answers to the capex-ROI bear case — but a growing capex-ROI bear narrative is now a real risk to monitor, and this is the thinnest-cushion name on the list.
+**Current price:** **$643.81** (Robinhood, as of 2026-07-21 settled close; trailing P/E 24.16 [~21x fwd], P/B 6.92 — essentially flat, −0.3% vs the 07-20 close $645.85; ~19.1% below the 52-wk high $796.25). The qualitative long-term thesis is unchanged: Meta's **"Meta Compute"** AI-cloud reveal + in-house **"Iris"** chip are concrete answers to the capex-ROI bear case — but a growing capex-ROI bear narrative is now a real risk to monitor, and this is the thinnest-cushion name on the list. **Q2 print 2026-07-29 (AMC) is the referee.**
 
 **Key valuation snapshot:**
 | Metric | Value | Source |
 |--------|-------|--------|
-| Price | $646.01 | Robinhood, as of 2026-07-17 close |
-| Trailing P/E | 24.16 | Robinhood, as of 2026-07-17 close |
+| Price | $643.81 | Robinhood, as of 2026-07-21 close |
+| Trailing P/E | 24.16 | Robinhood, as of 2026-07-21 close |
 | Forward P/E | ~21x on FY26 EPS ~$32.81 | [Simply Wall St (Jun 2026)](https://simplywall.st/stocks/us/media/nasdaq-meta/meta-platforms/future); price ÷ EPS |
 | EV/EBITDA | ~13x | [Simply Wall St / search context (Jun 2026)](https://simplywall.st/stocks/us/media/nasdaq-meta/meta-platforms) |
-| Price / Book | 6.92 | Robinhood, as of 2026-07-17 close |
-| Dividend yield | ~0.32% | Robinhood, as of 2026-07-17 close |
-| Market cap | ~$1.64T (~2.54B sh out) | Robinhood, as of 2026-07-17 close |
-| 52-wk range | $520.26 (2026-03-27) – $796.25 (2025-08-15) | Robinhood, as of 2026-07-17 close |
+| Price / Book | 6.92 | Robinhood, as of 2026-07-21 close |
+| Dividend yield | ~0.32% | Robinhood, as of 2026-07-21 close |
+| Market cap | ~$1.63T (~2.54B sh out) | Robinhood, as of 2026-07-21 close |
+| 52-wk range | $520.26 (2026-03-27) – $796.25 (2025-08-15) | Robinhood, as of 2026-07-21 close |
 | FY2026 consensus EPS | ~$32.81 (raised from ~$29.65) | [Simply Wall St (Jun 2026)](https://simplywall.st/stocks/us/media/nasdaq-meta/meta-platforms/future) |
 | TTM free cash flow | ~$46–51B (down ~38% YoY) | [MacroTrends (Jun 2026)](https://www.macrotrends.net/stocks/charts/META/meta-platforms/free-cash-flow), [Investing.com](https://www.investing.com/analysis/meta-faces-margin-pressure-as-capex-surges-but-free-cash-flow-holds-up-200675340) |
 | FCF yield | ~3.1–3.5% | [GuruFocus (2026-06-27)](https://www.gurufocus.com/term/fcf-yield/META) + price adj. |
@@ -28,6 +28,7 @@
 
 ## Update Log
 
+- **2026-07-22:** **Refresh on the settled 07-21 close; thesis intact but pressured; Q2 one week out.** New canonical close **$643.81** (Robinhood, as of 2026-07-21; **−0.3% vs the 07-20 $645.85** — essentially flat); trailing P/E **24.16x** / ~21x fwd, P/B **6.92x**, ~$1.63T cap; ~19.1% below the $796.25 52-wk high. Quiet, mildly risk-off tape (S&P futures −0.39%, Nasdaq −1.0%); notably **GOOGL and TSLA report after today's close — the first two Mag-7 prints** and a read-through for the AI-capex complex ahead of META's own Q2 ([Yahoo Finance, 2026-07-22](https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-083644887.html)). Capex-ROI debate unchanged: **~14GW 2026–27 target** vs the raised **$125–145B 2026 capex**; the "Iris" chip is a **2027+ story** (not 2026 cost savings, per BofA); the new AI-cloud business is on-thesis but unproven; antitrust/age-verification overhang stands. Thinnest cushion; **#7** and the name most at risk of a valuation-driven move to the watchlist. Intrinsic **~$740–800**, discount **~11–17%**. **Q2 2026-07-29 (AMC) is the referee.**
 - **2026-07-21:** **Refresh on the first settled 07-20 (Monday) close; thesis intact but pressured.** New canonical close **$645.85** (Robinhood, as of 2026-07-20; **−0.02% vs the 07-17 $646.01** — essentially flat); trailing P/E **24.16x** / ~21x fwd, P/B **6.92x**, ~$1.64T cap; ~18.9% below the $796.25 52-wk high. Mildly risk-off 07-20 tape (S&P −0.19%, Nasdaq −0.05%); Tuesday 07-21 pre-market risk-on with chips reviving into Big-Tech earnings week (Nasdaq-100 futures +1.3% — [Yahoo Finance, 2026-07-21](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-21-dow-sp-500-nasdaq-084631499.html)) — a modest sentiment tailwind for the AI-capex complex. Capex-ROI debate unchanged: **~14GW 2026–27 target** vs the raised **$125–145B 2026 capex**; the "Iris" chip is a **2027+ story** (not 2026 cost savings, per BofA); the new AI-cloud business is on-thesis but unproven. Thinnest cushion; **#7** and the name most at risk of a valuation-driven move to the watchlist. Intrinsic **~$740–800**, discount **~11–17%**. **Q2 2026-07-29 (AMC) is the referee.**
 - **2026-07-20:** Monday pre-market refresh; 07-17 close ($646.01, ~24.2x trailing / ~21x fwd) carried forward (Robinhood `market_date` still 2026-07-17 — Monday not yet open), ~$647 pre-market on a risk-on AI/chip rebound (Nasdaq-100 futures +1%, SMH +2%, Micron +5%, AMD +3%; Iran de-escalation hopes — a modest tailwind for the AI-capex complex after last week's selloff) ([TheStreet, 2026-07-20](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-20-2026)). Thesis intact but pressured — thinnest cushion; **#7** and the name most at risk of a valuation-driven move to the watchlist. Capex-ROI debate unchanged: **~14GW 2026–27 target** vs the raised **$125–145B 2026 capex**; the "Iris" chip is a **2027+ story (not a 2026 cost-savings driver, per BofA)**; 07-17 −3% on AI-spend + antitrust/age-verification/privacy overhang. **Q2 07-29 (AMC) is the referee** — watch whether management formalizes an AI-compute-rental offering and whether the EU fine number firms up. No new weekend datapoint beyond the cloud-business narrative.
 - 2026-06-25 (initial deep dive): Established thesis at $557.67 (Robinhood 2026-06-24 close), trailing P/E 20.44, forward P/E ~19.4x, P/B 5.86, mkt cap ~$1.42T. Core call: quality-led value; ~30% drawdown is a capex/FCF de-rating, not an earnings miss. Q1 2026 revenue +33% YoY, EPS $10.44 (+62%), 2026 capex raised to $125–145B. Q1 FCF ~$12.4B; ~$107B multi-year infra commitments signed in the quarter. Reality Labs cumulative losses >$83B ($4B in Q1). Central intrinsic value ~$700–760; ~20–25% discount. Verdict: starter-to-medium, watch-the-capex position; conviction moderate, capped by Zuckerberg dual-class control / capex risk.
