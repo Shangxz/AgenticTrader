@@ -1,17 +1,17 @@
 # Wells Fargo & Company (WFC)
 
-**First created:** 2026-06-22 · **Last updated:** 2026-07-22
+**First created:** 2026-06-22 · **Last updated:** 2026-07-23
 
-**Current price:** $87.74 (Robinhood, as of 2026-07-21 settled close; **+1.6% vs the 07-20 close $86.33**) — trailing P/E 12.80x, P/B 1.62x. WFC recovered the 07-20 dip, holding well above the 07-15 post-earnings low; the capital-return engine ($40B buyback + intended ~11% Q3 dividend hike to $0.50) is untouched.
+**Current price:** $86.42 (Robinhood, as of 2026-07-22 settled close; **−1.5% vs the 07-21 close $87.74**) — trailing P/E 12.80x, P/B 1.62x. WFC gave back the 07-21 bounce on a risk-off tape, still holding well above the 07-15 post-earnings low; the capital-return engine ($40B buyback + intended ~11% Q3 dividend hike to $0.50) is untouched.
 
 **Key valuation metrics:**
-- Trailing P/E: **12.80x** (Robinhood, as of 2026-07-17 close)
+- Trailing P/E: **12.80x** (Robinhood, as of 2026-07-22 close)
 - Forward P/E: **~12.4x** on ~$7.07 FY2026 consensus EPS (StockAnalysis / Public.com analyst consensus, as of 2026-06: https://stockanalysis.com/stocks/wfc/forecast/ ; https://public.com/stocks/wfc/forecast-price-target)
-- Price / book: **1.62x** (Robinhood, as of 2026-07-17 close)
-- Price / tangible book: **~1.94x** ($87.53 / TBVPS $45.02; TBVPS from Wells Fargo Q1 2026 release, as of 2026-04-14: https://www.sec.gov/Archives/edgar/data/72971/000007297126000213/wfc1qer04-14x26ex991xrelea.htm)
-- Dividend yield: **2.04%** ($0.45/qtr; Robinhood, as of 2026-07-17 close) — Board intends to raise to $0.50/qtr in Q3 2026 (Wells Fargo, 2026-06-24: https://newsroom.wf.com/news-releases/news-details/2026/Wells-Fargo-Completes-2026-Stress-Test-and-Intends-to-Raise-Dividend-by-11-to-0-50/default.aspx)
-- Market cap: **~$268B** (Robinhood, as of 2026-07-17 close)
-- 52-week range: $72.78 (2026-05-15) – $97.76 (2026-01-05) (Robinhood, as of 2026-07-17)
+- Price / book: **1.62x** (Robinhood, as of 2026-07-22 close)
+- Price / tangible book: **~1.92x** ($86.42 / TBVPS $45.02; TBVPS from Wells Fargo Q1 2026 release, as of 2026-04-14: https://www.sec.gov/Archives/edgar/data/72971/000007297126000213/wfc1qer04-14x26ex991xrelea.htm)
+- Dividend yield: **2.04%** ($0.45/qtr; Robinhood, as of 2026-07-22 close) — Board intends to raise to $0.50/qtr in Q3 2026 (Wells Fargo, 2026-06-24: https://newsroom.wf.com/news-releases/news-details/2026/Wells-Fargo-Completes-2026-Stress-Test-and-Intends-to-Raise-Dividend-by-11-to-0-50/default.aspx)
+- Market cap: **~$265B** (~3.07B shares out; Robinhood, as of 2026-07-22 close)
+- 52-week range: $72.78 (2026-05-15) – $97.76 (2026-01-05) (Robinhood, as of 2026-07-22)
 - Q1 2026 ROTCE: **14.5%**; ROE 12.2%; FY2025 ROTCE ~15.0%; medium-term target **17–18%** (Wells Fargo Q1 2026 release/earnings coverage, as of 2026-04-14: https://www.sec.gov/Archives/edgar/data/72971/000007297126000213/wfc1qer04-14x26ex991xrelea.htm ; https://www.tikr.com/blog/wells-fargo-stock-posts-15-eps-growth-and-1-trillion-loan-book-in-q1-2026)
 - CEO: Charles Scharf · Sector: Finance / Major Banks · HQ: San Francisco
 
@@ -21,6 +21,7 @@
 
 ## Update Log
 
+- **2026-07-23:** Refresh on the settled **07-22 close $86.42** (Robinhood; −1.5% vs the 07-21 $87.74), giving back the 07-21 bounce on the risk-off tape (Nasdaq −0.57%; GOOGL/TSLA AI-capex fears). Trailing P/E **12.80x**, P/B **1.62x**, div yield 2.04%, ~$265B cap. No company-specific news; thesis intact — capital-return engine ($40B buyback + intended ~11% Q3 dividend hike to $0.50, SCB 2.5%) after the clean Q2 beat (NII +5% to $12.32B, FY26 NII guide ~$50B). Discount ~12–19%. Next print Q3 ~mid-Oct (~2026-10-14).
 - 2026-07-22: **Refresh on the settled 07-21 close; thesis intact; recovered the 07-20 dip.** New canonical close **$87.74** (Robinhood, as of 2026-07-21; **+1.6% vs the 07-20 $86.33**), back above the 07-15 post-earnings low; trailing P/E **12.80x**, P/B **1.62x**, P/TBV ~1.95x, ~2.04% yield, ~$268B cap. No new company-specific news. Standing capital-return engine untouched: clean Q2 beat (NII +5% to $12.32B, FY26 NII guide ~$50B), ~11% Q3 dividend hike to **$0.50**, SCB 2.5%, $40B buyback. NII/NIM (modest Q3 compression then Q4 stabilization) the watch item into the Q3 print (~mid-Oct). Intrinsic **~$98–108**, discount **~12–19%**. Remains **top pick #4**.
 - 2026-07-21: **Refresh on the first settled 07-20 (Monday) close; thesis intact.** New canonical close **$86.33** (Robinhood, as of 2026-07-20; **−1.4% vs the 07-17 $87.53**); trailing P/E **12.80x**, P/B **1.62x**, P/TBV ~1.92x, ~2.08% yield, ~$264B cap — WFC gave back toward $86 on a mildly risk-off tape (S&P −0.19%; no company-specific news), still well above the 07-15 post-earnings dip. Tuesday 07-21 pre-market risk-on ([Yahoo Finance, 2026-07-21](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-21-dow-sp-500-nasdaq-084631499.html)). Standing capital-return engine untouched: clean Q2 beat (NII +5% to $12.32B, FY26 NII guide ~$50B), ~11% Q3 dividend hike to **$0.50**, SCB 2.5%, $40B buyback. NII/NIM (modest Q3 compression then Q4 stabilization) the watch item into the Q3 print (~mid-Oct). Intrinsic **~$98–108**, discount **~12–20%**. Remains **top pick #4**.
 - 2026-07-20: Monday pre-market refresh; 07-17 close ($87.53, P/E 12.80, P/B 1.62, yield 2.04%) carried forward (Robinhood `market_date` 2026-07-17 — Monday not yet open), live pre-market ~$87.75 on a risk-on tape (Nasdaq-100 futures +1%, chip recovery, Iran de-escalation hopes; [TheStreet, 2026-07-20](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-20-2026)), recovered from the 07-15 post-earnings dip toward $85. Thesis intact; **#4**. Q2 beat; **NII +5% to $12.32B, FY26 NII guide maintained ~$50B, modest Q3 NIM compression then Q4 stabilization**; ~11% Q3 dividend hike to **$0.50** and **SCB 2.5%** confirm the capital-return engine. NII/NIM the watch item into Q3 (~10-13). No weekend company-specific news.
@@ -113,7 +114,7 @@ Peer P/E average (ex-WFC) ≈ **14.5x**, median ≈ **14.3x**; peer P/Book avera
 
 **Thesis:** Wells Fargo is a healed, high-return U.S. bank the market still values at a reputation discount. With the Fed asset cap removed (2025), a mid-teens ROTCE rising toward a 17–18% target, a clean 2026 stress test, a $40B buyback, and a planned ~11% dividend hike, it should re-rate from ~1.86x toward ~2.0–2.3x tangible book.
 
-**My rough intrinsic value:** Two cross-checks. (1) *Earnings:* ~$7.07 FY2026 consensus EPS at a peer-median ~14x = **~$99**; at a still-conservative 13.5x = ~$95. (2) *Tangible book:* TBVPS ~$45.02 × a ~2.2x multiple justified by mid-teens-to-17% ROTCE = **~$99**, and × 2.4x ≈ $108. Blending these gives an intrinsic range of **~$98–108**, midpoint ~$103. Against $87.53 (Robinhood, as of 2026-07-17 close), that is roughly a **11–19% discount** (midpoint ~15%). This aligns with the ~$95–96 sell-side consensus PT (Buy) while my upper end leans on full target-ROTCE delivery (StockAnalysis / WallStreetZen, 2026: https://stockanalysis.com/stocks/wfc/forecast/ ; https://www.wallstreetzen.com/stocks/us/nyse/wfc/stock-forecast).
+**My rough intrinsic value:** Two cross-checks. (1) *Earnings:* ~$7.07 FY2026 consensus EPS at a peer-median ~14x = **~$99**; at a still-conservative 13.5x = ~$95. (2) *Tangible book:* TBVPS ~$45.02 × a ~2.2x multiple justified by mid-teens-to-17% ROTCE = **~$99**, and × 2.4x ≈ $108. Blending these gives an intrinsic range of **~$98–108**, midpoint ~$103. Against $86.42 (Robinhood, as of 2026-07-22 close), that is roughly a **11–19% discount** (midpoint ~15%). This aligns with the ~$95–96 sell-side consensus PT (Buy) while my upper end leans on full target-ROTCE delivery (StockAnalysis / WallStreetZen, 2026: https://stockanalysis.com/stocks/wfc/forecast/ ; https://www.wallstreetzen.com/stocks/us/nyse/wfc/stock-forecast).
 
 **Catalyst analysis:**
 1. **Specific repricing events:** (a) The just-completed **2026 stress test with SCB held at 2.5%** and a **planned ~11% dividend hike to $0.50** in Q3 2026 (Wells Fargo, 2026-06-24); (b) execution of the **$40B buyback**; (c) quarterly proof of post-cap balance-sheet/NII growth; (d) closure of remaining consent orders; (e) hitting the 17–18% ROTCE target in reported results.
