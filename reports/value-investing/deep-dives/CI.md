@@ -1,11 +1,11 @@
 # The Cigna Group (CI)
 
-**First created:** 2026-06-23 · **Last updated:** 2026-07-23
+**First created:** 2026-06-23 · **Last updated:** 2026-07-24
 
 **Current price & key multiples:**
-- Price: **$284.85** (Robinhood, as of 2026-07-22 settled close; **−1.9% vs the 07-21 close $290.49**)
-- Trailing P/E: **~12.0x** (Robinhood 12.02, as of 2026-07-22) | **~9.4x guided FY26 EPS (guidance ≥$30.35)** | Price/Book: **1.78x** (Robinhood, as of 2026-07-22)
-- Dividend yield: **2.16%** | Market cap: **~$77.8B** (Robinhood, as of 2026-07-22)
+- Price: **$286.29** (Robinhood, 2026-07-23 close; **+0.51% vs the 07-22 close $284.85**)
+- Trailing P/E: **~12.0x** (Robinhood 12.02, as of 2026-07-23) | **~9.4x guided FY26 EPS (guidance ≥$30.35)** | Price/Book: **1.78x** (Robinhood, as of 2026-07-23)
+- Dividend yield: **2.16%** | Market cap: **~$76.6B** (Robinhood, as of 2026-07-23)
 - CEO: **Brian C. Evanko** (succeeded David Cordani, who moved to Executive Chair, effective 2026-07-01) (Robinhood profile, as of 2026-07-02)
 - TTM free cash flow: **~$7.66B**, FCF yield **~10%** (StockAnalysis, https://stockanalysis.com/stocks/ci/statistics/, as-of 2026-06-28)
 - EV/EBITDA: **~7.5x** (StockAnalysis, as-of 2026-06-28)
@@ -17,6 +17,7 @@
 
 ## Update Log
 
+- 2026-07-24: +0.5% to $286.29 (Robinhood 07-23 close), P/E ~12.0 / ~9.4x guided FY26 EPS; firmed on a down tape (S&P −1.2%) as value/defensives outperformed the AI-capex/oil-driven sell-off. Thesis intact (~13–19%); BofA top MCO pick. Q2 Thu 07-30 (BMO), consensus adj EPS ~$7.60, revenue ~$70.1B; FY26 guide ≥$30.35 intact.
 - **2026-07-23:** Refresh on the settled **07-22 close $284.85** (Robinhood; −1.9% vs the 07-21 $290.49), giving back the 07-21 managed-care bounce on the risk-off tape. Trailing P/E ~12.0 / **~9.4x guided FY26 EPS** (≥$30.35), P/B 1.78, div yield 2.16%, ~$77.8B cap. No company-specific news; the discount from the prior Russell-Growth index-removal flush stands; thesis intact (~13–19%); BofA top MCO pick, avg PT ~$342. **Q2 confirmed before open 2026-07-30** (Robinhood earnings calendar, verified); consensus adj EPS ~$7.57.
 - **2026-07-22:** **Refresh on the settled 07-21 close; thesis intact; CI popped with the managed-care group.** New canonical close **$290.49** (Robinhood, as of 2026-07-21; **+2.3% vs the 07-20 $283.94**, intraday high $290.51) — a solid up day as the managed-care complex bounced on softer medical cost-trend hopes ([QuiverQuant](https://www.quiverquant.com/news/Cigna+gains+as+managed-care+sentiment+improves+on+softer+cost-trend+hopes); BofA still flags CI as its top MCO pick — [Investing.com](https://www.investing.com/news/analyst-ratings/cigna-stock-named-top-managed-care-pick-by-bofa-amid-sector-uncertainty-93CH-4439090)). Trailing P/E **~12.0x** / **~9.6x guided FY26 adj EPS ≥$30.35**, P/B **1.78x**, ~2.16% yield, ~10% FCF yield (~$7.66B), ~$77.5B cap. The move narrows the discount modestly but the ~14–20% gap from the prior week's technical −4.7% Russell-Growth index-removal flush largely stands with no fresh negative catalyst; consensus "Strong Buy" (14 Buy / 3 Hold), avg PT ~$341.94. PBM-margin headwind (−$700–800M 2026, ~flat 2027) stays bounded by the Feb-2026 FTC–Express Scripts settlement; Brian Evanko CEO (since 07-01). Intrinsic **~$330–360**, discount **~13–19%**. Remains **top pick #3**, held with eyes open on PBM-margin timing. Next hard catalyst: **Q2 2026-07-30** (Street adj EPS ~$7.57).
 - **2026-07-21:** **Refresh on the first settled 07-20 (Monday) close; thesis intact.** New canonical close **$283.94** (Robinhood, as of 2026-07-20; **+0.9% vs the 07-17 $281.54**); trailing P/E **12.02x** / **~9.4x guided FY26 adj EPS ≥$30.35**, P/B **1.78x**, ~2.16% yield, ~9.9% FCF yield (~$7.66B), ~$75.1B cap. CI firmed as managed-care sentiment stayed constructive (softer cost-trend hopes; BofA top managed-care pick; avg PT ~$340.92, Buy, 24 analysts); the widened ~14–21% discount from the prior week's technical −4.7% Russell-Growth index-removal flush stands with no fresh negative catalyst. The scheduled PBM-margin headwind (−$700–800M 2026, ~flat 2027) stays bounded by the Feb-2026 FTC–Express Scripts settlement; Brian Evanko CEO (since 07-01). Intrinsic **~$330–360**, discount **~14–21%**. Remains **top pick #3**, held with eyes open on PBM-margin timing. Next hard catalyst: **Q2 2026-07-30** (Street adj EPS ~$7.57).
@@ -49,7 +50,7 @@
 
 ## 1. Buy-Side Mispricing Analysis
 
-**Valuation context:** ~9.4x guided FY2026 adjusted EPS (≥$30.35) and ~12.02x trailing earnings (P/B 1.78x at the $284.85 07-22 close), EV/EBITDA ~7.3x, ~10% FCF yield — vs a managed-care peer set at mid-teens to high-60s P/E.
+**Valuation context:** ~9.4x guided FY2026 adjusted EPS (≥$30.35) and ~12.02x trailing earnings (P/B 1.78x at the $286.29 07-23 close), EV/EBITDA ~7.3x, ~10% FCF yield — vs a managed-care peer set at mid-teens to high-60s P/E.
 
 **1. Business model clarity.** Cigna is two very different businesses bolted together: **Cigna Healthcare** (commercial/employer medical insurance — a relatively stable, administrative-services-heavy book; Q1 2026 medical loss ratio 79.8%, improved from 82.2% a year ago, FY guide 83.7%–84.7% per PRNewswire/Yahoo, Q1 2026) and **Evernorth** (Express Scripts PBM + specialty pharmacy + care services), the larger profit pool. The confusion for analysts is that Evernorth's economics — rebate pass-throughs, spread, specialty drug margins — are opaque and politically contested, and the rebate-free **Signature** model (now reinforced by the FTC settlement) changes the revenue/margin *optics* even where total economics are preserved. So reported segment trends can look alarming (PBM pretax adjusted earnings −28% YoY to $394M in Q1 2026) while underlying client relationships stay intact. Evernorth revenues actually grew 9% YoY to $58.4B in Q1 2026, with Specialty & Care Services pretax earnings +20% YoY to $1.1B (Yahoo/AlphaStreet, Q1 2026).
 
@@ -67,7 +68,7 @@
 
 ## 2. Comparable Company Analysis
 
-**Subject:** CI at ~9.4x forward (guided) / 12.02x trailing (P/B 1.78x, $284.85 07-22 close). Sector: managed care + PBM.
+**Subject:** CI at ~9.4x forward (guided) / 12.02x trailing (P/B 1.78x, $286.29 07-23 close). Sector: managed care + PBM.
 
 **Step 1 — Peer group.**
 - **UnitedHealth (UNH)** — closest scale/diversification comp (insurance + OptumRx PBM + Optum services); the benchmark.
@@ -110,12 +111,12 @@
 
 **Thesis:** Cigna trades at ~9.3x guided FY2026 EPS because the market applies a heavy, sector-wide PBM/regulatory discount and was spooked by a transitional Q1 PBM earnings dip. The underlying franchise (cleaner insurance book than peers, scaled Express Scripts PBM, ~$7.66B / ~10% FCF, EPS guided up to ≥$30.35) is intact and growing, so the discount overstates the probability-weighted regulatory damage — especially now that the FTC settlement has *bounded* that risk.
 
-**Approx. discount to my intrinsic estimate (~$330–360, i.e. ~11–12x guided EPS): ~14–21%** (at $281.54).
+**Approx. discount to my intrinsic estimate (~$330–360, i.e. ~11–12x guided EPS): ~13–19%** (at $286.29).
 
 **Catalyst analysis.**
 1. **Specific re-rating triggers:** (a) FTC settlement / Signature net-pricing transition proving margin-neutral through the Jan-1-2028 implementation; (b) PBM segment earnings re-accelerating off the transition trough; (c) management reaffirming/raising the ≥$30.35 guide through 2026; (d) continued buyback shrinking the float; (e) clarity/resolution of the eviCore strategic review and ACA exit.
 2. **Likelihood/timeframe:** EPS delivery + buybacks are high-probability and continuous (12–24 months). Regulatory clarity is *improved* vs the prior version — the headline FTC event is settled, so the remaining wildcard is legislative add-ons (12–36 months, path-dependent on the political calendar). Signature traction observable over 12–24 months as 2027 selling-season bids land.
-3. **Biggest-impact catalyst:** **PBM regulatory de-risking** — and the FTC settlement is already a partial down-payment on it. Any further signal that the net-pricing transition is margin-neutral is what unlocks a re-rate from ~9x toward low-teens. Near-term, the **Q2 2026 print (2026-07-30, consensus adj EPS ~$7.57)** is the next read on delivery, against improving managed-care sentiment on *softer medical-cost-trend hopes*.
+3. **Biggest-impact catalyst:** **PBM regulatory de-risking** — and the FTC settlement is already a partial down-payment on it. Any further signal that the net-pricing transition is margin-neutral is what unlocks a re-rate from ~9x toward low-teens. Near-term, the **Q2 2026 print (2026-07-30, consensus adj EPS ~$7.60, revenue ~$70.1B)** is the next read on delivery, against improving managed-care sentiment on *softer medical-cost-trend hopes*.
 4. **Near-term catalysts working against the thesis:** continued PBM earnings softness during the Signature/net-pricing transition; an adverse new legislative headline (e.g. federal PBM "delinking" or divestiture bills); or a medical-cost-trend surprise spilling over from the broader managed-care group that drags CI's multiple even though its own book is cleaner.
 
 **Value-trap check.**
