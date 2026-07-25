@@ -1,6 +1,6 @@
 # Everest Group, Ltd. (NYSE: EG)
 
-**First created:** 2026-06-26 · **Last updated:** 2026-07-24 · Research support only — not personal financial advice.
+**First created:** 2026-06-26 · **Last updated:** 2026-07-25 · Research support only — not personal financial advice.
 
 Global property & casualty reinsurance and insurance, domiciled in Bermuda (Hamilton). Sector: Finance / Property & Casualty (Re)insurance. CEO: James (Jim) Williamson.
 
@@ -8,15 +8,15 @@ Global property & casualty reinsurance and insurance, domiciled in Bermuda (Hami
 
 | Metric | Value | Source |
 |--------|-------|--------|
-| Price (last trade) | **$375.56** (2026-07-23 settled close; **+0.67% vs the 07-22 close $373.07** — just under the 52-wk high and **still below book**) | Robinhood, 2026-07-23 close |
-| Trailing P/E | **7.60x** | Robinhood, 2026-07-23 close |
-| Price/Book | **0.97x** (below book value) | Robinhood, 2026-07-23 close |
+| Price (last trade) | **$385.22** (2026-07-24 settled close; **+2.57% vs the 07-23 close $375.56** — printed a **FRESH 52-wk high $386.87 intraday (07-24)**, closed just below it; now **essentially AT book**) | Robinhood, 2026-07-24 close |
+| Trailing P/E | **~7.80x** (Robinhood raw field 7.60 on a one-day lag) | Robinhood, 2026-07-24 close |
+| Price/Book | **~1.00x** (at book value, up from ~0.97x — the sub-book cushion has essentially closed; Robinhood raw field 0.971 on a one-day lag) | Robinhood, 2026-07-24 close |
 | Forward P/E (2026E) | **~7.1x** on ~$52 consensus EPS | [stockanalysis.com](https://stockanalysis.com/stocks/eg/forecast/) |
 | Book value/share | **$383.75** ($393.02 ex-unrealized fixed-maturity losses), Q1 2026 | [Bernews / Q1'26 release](https://bernews.com/2026/05/everest-group-reports-q1-2026-results/) |
-| Market cap | **~$14.9B** | Robinhood, 2026-07-23 close |
-| Shares out | **~39.6M** | Robinhood, 2026-07-23 close |
-| 52-week range | $302.44 (2025-10-28) – **$385.69 (2026-07-17)**, just under the high | Robinhood, 2026-07-23 close |
-| Dividend | $8.00/yr, **~2.14% yield** ($2.00/qtr) | Robinhood, 2026-07-23 close |
+| Market cap | **~$15.2B** | Robinhood, 2026-07-24 close |
+| Shares out | **~39.6M** | Robinhood, 2026-07-24 close |
+| 52-week range | $302.44 (2025-10-28) – **$386.87 (2026-07-24)**, closed just under the fresh high | Robinhood, 2026-07-24 close |
+| Dividend | $8.00/yr, **~2.14% yield** ($2.00/qtr) | Robinhood, 2026-07-24 close |
 | Q1 2026 net income | **$653M / $16.21 dil. EPS** (vs $210M / $4.90 y/y) | [StockTitan](https://www.stocktitan.net/news/EG/everest-reports-first-quarter-2026-do0uhymguwqc.html) |
 | Q1 2026 combined ratio | **91.2%** (from 102.7% y/y); attritional CR 88.5% | [Bernews](https://bernews.com/2026/05/everest-group-reports-q1-2026-results/) |
 | Q1 2026 operating ROE (annualized) | **16.7%** | [Investing.com Q1'26 slides](https://uk.investing.com/news/company-news/everest-q1-2026-slides-strategic-reset-drives-167-operating-roe-93CH-4641507) |
@@ -29,6 +29,7 @@ Global property & casualty reinsurance and insurance, domiciled in Bermuda (Hami
 
 ## Update Log
 
+- 2026-07-25 (Saturday weekend refresh; Friday close is the last settled session): Basis rolls to the **07-24 close $385.22** (Robinhood, market_date 07-24; **+2.6% vs the 07-23 $375.56**), a **FRESH 52-wk high ($386.87 intraday)** as financials led a stabilizing tape (Dow +0.46%, S&P ~flat, Nasdaq −0.64%; oil retreated on Middle-East de-escalation). **P/B now ~1.00x — essentially AT book, up from ~0.97x; the sub-book cushion has closed at the margin.** Trailing P/E **~7.80x**, div yield ~2.14%, ~$15.2B cap. Thesis intact — still the book-value-support name (discount to IV ~12–18%). **Q2 2026-07-29 (AMC)**, call 07-30, consensus EPS $14.32; Mizuho PT $418 (Neutral, 07-09).
 - 2026-07-24: +0.7% to $375.56 (Robinhood 07-23 close), P/B 0.97 — still BELOW book; held up on a risk-off tape (S&P −1.2%, Nasdaq −2.2%) driven by AI-capex-ROI fears + oil >$102. Standout book-value bargain; thesis intact (~13–20%). Q2 Wed 07-29 (AMC), call 07-30 8:00am ET.
 - **2026-07-23:** Refresh on the settled **07-22 close $373.07** (Robinhood; −1.1% vs the 07-21 $377.09) on a risk-off tape (Nasdaq −0.57%; GOOGL/TSLA AI-capex fears). Trailing P/E **7.60x**, **P/B 0.97x (still below book)**, div yield 2.14%, ~$14.8B cap; just under the 07-17 52-wk high $385.69. No company-specific news; thesis intact — the standout book-value bargain (~13–21% discount); Mizuho PT $418. **Q2 confirmed after close 2026-07-29** (Robinhood earnings calendar, verified).
 - 2026-07-22: **Refresh on the settled 07-21 close; thesis intact; still the standout sub-book bargain.** New canonical close **$377.09** (Robinhood, as of 2026-07-21; **−0.5% vs the 07-20 $378.99**), hovering just below the 07-17 fresh 52-wk high ($385.69); trailing P/E **7.60x**, **P/B 0.97x — still below book**, ~$14.9B cap, ~2.14% yield. No new company-specific news on a quiet, mildly risk-off tape (S&P futures −0.39%; oil up on Iran; new 25% Brazil tariff; GOOGL/TSLA after close — [Yahoo Finance, 2026-07-22](https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-083644887.html)). That a scaled mid-teens-ROE global reinsurer still trades under 1.0x book on a now-ring-fenced (Longtail Re ADC) reserve-credibility discount captures the whole thesis; Mizuho PT $418 (Neutral, 07-09) reaffirms upside. Intrinsic **~$430–470**, discount **~13–21%** — holds **#2**. Next hard catalyst: **Q2 2026-07-29 (AMC)** — a clean, no-new-casualty-charge quarter is the key re-rating trigger.
@@ -64,7 +65,7 @@ Global property & casualty reinsurance and insurance, domiciled in Bermuda (Hami
 
 *Acting as an experienced buy-side analyst specializing in mispriced/undervalued companies.*
 
-**Current valuation context:** ~0.97x book and ~7.60x trailing / ~6.8x forward earnings (price $375.56) vs P&C-(re)insurance peers at ~1.3x–2.7x book and 5–15x earnings.
+**Current valuation context:** ~1.00x book (at book — up from ~0.97x after the 07-24 rally to a fresh 52-wk high $386.87; the sub-book cushion has essentially closed) and ~7.80x trailing / ~6.8x forward earnings (price $385.22, 07-24 close) vs P&C-(re)insurance peers at ~1.3x–2.7x book and 5–15x earnings.
 
 **1. Business-model clarity — is this genuinely hard to model?**
 Everest is not conceptually complex — it underwrites reinsurance (~65% of premium) and primary insurance (~35%), and earns an investment-income spread on float. What makes it *hard to trust* is **reserve adequacy in long-tail US casualty**. Casualty losses (general liability, commercial auto, professional lines) develop over many years; an insurer books a best-estimate reserve today and the truth emerges over a decade. "Social inflation" — rising jury verdicts, litigation funding, broader liability theories — has repeatedly forced the whole industry to top up old reserves. So the analyst's difficulty is not the business; it is **the believability of one number on the balance sheet** (loss reserves) that, if wrong, flows straight through book value. That single point of opacity is exactly why the market applies a below-book multiple.
@@ -97,7 +98,7 @@ The sub-book price implies the market believes **Everest's stated reserves are s
 
 *Acting as a valuation analyst building a comp set for an investment committee.*
 
-**Current multiple:** **0.97x book value** (and ~7.60x trailing P/E). **Sector:** Global P&C reinsurance + specialty insurance.
+**Current multiple:** **~1.00x book value** (at book as of the 07-24 close $385.22 / fresh 52-wk high $386.87 — up from ~0.97x, the sub-book cushion has essentially closed; and ~7.80x trailing P/E). **Sector:** Global P&C reinsurance + specialty insurance.
 
 **Step 1 — The peer group.** Bermuda/global reinsurers and large specialty / diversified P&C (re)insurers:
 
@@ -133,7 +134,7 @@ The sub-book price implies the market believes **Everest's stated reserves are s
 3. **Book-value-per-share growth across $400** (management-guided) plus continued below-book buybacks, which compound per-share book.
 4. **No new shock** — simply *not* announcing another casualty charge through 2026 would itself drive a meaningful re-rating.
 
-A re-rate to even **1.1–1.2x book on a ~$390–400 book** implies a **~$430–480 price (≈ 12–25% upside from ~$376)**; merely closing to 1.0x book is ~$390 (~2%). Analyst targets are converging on this view (Mizuho $418 (Neutral, raised from $388 on 2026-07-09), KBW $411, Raymond James $400, consensus avg ~$378–388; GuruFocus GF Value $401). The risk/reward is asymmetric *if* the reserves hold.
+A re-rate to even **1.1–1.2x book on a ~$390–400 book** implies a **~$430–480 price (≈ 12–25% upside from ~$385)**; merely closing to 1.0x book is ~$390 (~1%, essentially reached — EG closed 07-24 at ~1.00x book). Analyst targets are converging on this view (Mizuho $418 (Neutral, raised from $388 on 2026-07-09), KBW $411, Raymond James $400, consensus avg ~$378–388; GuruFocus GF Value $401). The risk/reward is asymmetric *if* the reserves hold.
 
 ---
 
@@ -143,7 +144,7 @@ A re-rate to even **1.1–1.2x book on a ~$390–400 book** implies a **~$430–
 
 **Thesis:** Everest is a scaled, well-capitalized global reinsurer trading below book and ~7x earnings because a 2024 US-casualty reserve charge broke market confidence. A new CEO, a $1.2B adverse-development cover, profitability-over-volume underwriting (incl. exiting commercial retail), a 91.2% Q1'26 combined ratio with 16.7% operating ROE, and a $4.74B buyback (accretive below book) suggest the reserve problem is being ring-fenced and the franchise can re-earn a 1.1x+ book multiple.
 
-**My rough intrinsic value:** **~$430–470** (~1.1–1.2x normalized book of ~$390–400, consistent with mid-teens ROE and a sub-10x P/E on ~$52–60 normalized EPS). **Approx. discount to intrinsic at ~$376: ~13–20%.**
+**My rough intrinsic value:** **~$430–470** (~1.1–1.2x normalized book of ~$390–400, consistent with mid-teens ROE and a sub-10x P/E on ~$52–60 normalized EPS). **Approx. discount to intrinsic at ~$385 (07-24 close): ~12–18%.**
 
 **Catalyst analysis**
 
@@ -166,7 +167,7 @@ A re-rate to even **1.1–1.2x book on a ~$390–400 book** implies a **~$430–
    - **(c) Permanent "show-me" discount** — some serial-charge insurers carry a structural discount for years even after fixing the book. Applies to a degree; the re-rate may be slower than the fundamentals justify (though analyst targets stepping up is an encouraging sign that the show-me period may be shortening).
 6. **Management / governance / capital-allocation issues:** A *relative strength*. The new CEO inherited the problem, took a large kitchen-sink reserve action plus an ADC (the credible playbook), is exiting unprofitable lines, and is returning capital aggressively via below-book buybacks (the most value-accretive use of cash at this price). No controlling shareholder, no dual-class structure, shareholder-friendly capital allocation. The governance risk is mainly *execution* (will the team underwrite as disciplined as promised through a soft market), not misalignment.
 
-**Risk/reward verdict.** The discount is real and the catalyst (the *absence* of further casualty charges) is concrete, measurable each quarter, and supported by the ADC and conservative new-management posture. You are paid to wait via a ~2.25% dividend plus per-share book accretion from below-book buybacks, with downside cushioned by trading *below* book. The dominant risk — further reserve deterioration — is genuine and not fully knowable from outside, so this is a **medium-sized, monitor-the-reserves position, not a max-conviction one.** At ~0.97x book with mid-teens ROE and a credible clean-up underway, the risk/reward of waiting 12–24 months for the re-rate is attractive *provided* each quarterly reserve disclosure stays clean — and the thesis should be cut quickly if a new casualty charge appears. The run to a fresh 52-wk high ($385.69, 07-17) — still below book — and rising analyst targets ($395–418, incl. Mizuho $418 on 07-09) suggest the re-rate is underway; entry is modestly less attractive than at the $343 prior-note level but the gap to intrinsic is still ~13–20%.
+**Risk/reward verdict.** The discount is real and the catalyst (the *absence* of further casualty charges) is concrete, measurable each quarter, and supported by the ADC and conservative new-management posture. You are paid to wait via a ~2.25% dividend plus per-share book accretion from below-book buybacks, with downside cushioned by trading near book (as of the 07-24 close it is ~at book, ~1.00x, having risen from ~0.97x — the sub-book cushion has essentially closed at the margin). The dominant risk — further reserve deterioration — is genuine and not fully knowable from outside, so this is a **medium-sized, monitor-the-reserves position, not a max-conviction one.** At ~1.00x book (at book as of the 07-24 close, up from ~0.97x — the sub-book cushion has essentially closed) with mid-teens ROE and a credible clean-up underway, the risk/reward of waiting 12–24 months for the re-rate is attractive *provided* each quarterly reserve disclosure stays clean — and the thesis should be cut quickly if a new casualty charge appears. The run to a fresh 52-wk high ($386.87, 07-24) — now essentially at book — and rising analyst targets ($395–418, incl. Mizuho $418 on 07-09) suggest the re-rate is underway; entry is modestly less attractive than at the $343 prior-note level but the gap to intrinsic is still ~12–18%.
 
 ---
 
