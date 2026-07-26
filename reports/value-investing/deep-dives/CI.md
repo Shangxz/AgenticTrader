@@ -1,6 +1,6 @@
 # The Cigna Group (CI)
 
-**First created:** 2026-06-23 · **Last updated:** 2026-07-25
+**First created:** 2026-06-23 · **Last updated:** 2026-07-26
 
 **Current price & key multiples:**
 - Price: **$289.72** (Robinhood, 2026-07-24 close; **+1.20% vs the 07-23 close $286.29**)
@@ -17,6 +17,7 @@
 
 ## Update Log
 
+- 2026-07-26 (Sunday weekend refresh; markets closed, Friday 07-24 remains the last settled session): No new tape — the **07-24 close $289.72** carries forward unchanged (trailing P/E **~12.17x** / **~9.5x guided FY26 EPS** ≥$30.35, P/B **~1.80x**, div yld 2.16%, ~$78.0B cap; Robinhood raw 12.02 / 1.78 on a one-day lag, re-pulled today). Thesis **intact** — ~$7.7B-FCF managed-care/PBM franchise; the prior Russell-Growth index-removal flush discount stands, no fresh negative catalyst over the weekend. Catalyst re-verified on the Robinhood earnings calendar (verified): **Q2 2026 Thu 07-30 (BMO)**, consensus adj EPS **$7.57**, revenue ~$70.1B; FY26 guidance ≥$30.35 intact. Macro overlay: **FOMC rate decision Wed 07-29** two days ahead of the print.
 - 2026-07-25 (Saturday weekend refresh; Friday close is the last settled session): basis rolls to the **07-24 close $289.72** (**+1.2%** vs the 07-23 $286.29), firming on a value-rotation tape (financials led; tech −2.37%). Trailing P/E **~12.17x** / **~9.5x guided FY26 EPS** (≥$30.35), P/B **~1.80x**. Thesis **intact**; the prior Russell-Growth index-removal flush discount stands, no fresh negative catalyst. Q2 confirmed **Thu 2026-07-30 (BMO)**, consensus adj EPS ~$7.57, revenue ~$70.1B; FY26 guidance ≥$30.35 intact.
 - 2026-07-24: +0.5% to $286.29 (Robinhood 07-23 close), P/E ~12.0 / ~9.4x guided FY26 EPS; firmed on a down tape (S&P −1.2%) as value/defensives outperformed the AI-capex/oil-driven sell-off. Thesis intact (~13–19%); BofA top MCO pick. Q2 Thu 07-30 (BMO), consensus adj EPS ~$7.60, revenue ~$70.1B; FY26 guide ≥$30.35 intact.
 - **2026-07-23:** Refresh on the settled **07-22 close $284.85** (Robinhood; −1.9% vs the 07-21 $290.49), giving back the 07-21 managed-care bounce on the risk-off tape. Trailing P/E ~12.0 / **~9.4x guided FY26 EPS** (≥$30.35), P/B 1.78, div yield 2.16%, ~$77.8B cap. No company-specific news; the discount from the prior Russell-Growth index-removal flush stands; thesis intact (~13–19%); BofA top MCO pick, avg PT ~$342. **Q2 confirmed before open 2026-07-30** (Robinhood earnings calendar, verified); consensus adj EPS ~$7.57.

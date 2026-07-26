@@ -1,6 +1,6 @@
 # Everest Group, Ltd. (NYSE: EG)
 
-**First created:** 2026-06-26 · **Last updated:** 2026-07-25 · Research support only — not personal financial advice.
+**First created:** 2026-06-26 · **Last updated:** 2026-07-26 · Research support only — not personal financial advice.
 
 Global property & casualty reinsurance and insurance, domiciled in Bermuda (Hamilton). Sector: Finance / Property & Casualty (Re)insurance. CEO: James (Jim) Williamson.
 
@@ -29,6 +29,7 @@ Global property & casualty reinsurance and insurance, domiciled in Bermuda (Hami
 
 ## Update Log
 
+- 2026-07-26 (Sunday weekend refresh; markets closed, Friday 07-24 remains the last settled session): No new tape — the **07-24 close $385.22** carries forward unchanged (trailing P/E **~7.80x**, **P/B ~1.00x ≈ book**, div yld ~2.14%, ~$15.2B cap; Robinhood raw fields 7.60 / 0.971 on a one-day lag, `market_date` 07-24, re-pulled today). Thesis intact — still the book-value-support name of the list, though the hard sub-book cushion is essentially closed at ~1.00x, so it now leans more on mid-teens-ROE earnings power than on an asset floor (discount to IV **~12–18%**). Catalyst re-verified on the Robinhood earnings calendar (verified): **Q2 2026 Wed 07-29 (AMC)**, call 07-30, consensus EPS **$14.32**; Mizuho PT $418. Macro overlay: **FOMC rate decision also Wed 07-29** (same day as the print).
 - 2026-07-25 (Saturday weekend refresh; Friday close is the last settled session): Basis rolls to the **07-24 close $385.22** (Robinhood, market_date 07-24; **+2.6% vs the 07-23 $375.56**), a **FRESH 52-wk high ($386.87 intraday)** as financials led a stabilizing tape (Dow +0.46%, S&P ~flat, Nasdaq −0.64%; oil retreated on Middle-East de-escalation). **P/B now ~1.00x — essentially AT book, up from ~0.97x; the sub-book cushion has closed at the margin.** Trailing P/E **~7.80x**, div yield ~2.14%, ~$15.2B cap. Thesis intact — still the book-value-support name (discount to IV ~12–18%). **Q2 2026-07-29 (AMC)**, call 07-30, consensus EPS $14.32; Mizuho PT $418 (Neutral, 07-09).
 - 2026-07-24: +0.7% to $375.56 (Robinhood 07-23 close), P/B 0.97 — still BELOW book; held up on a risk-off tape (S&P −1.2%, Nasdaq −2.2%) driven by AI-capex-ROI fears + oil >$102. Standout book-value bargain; thesis intact (~13–20%). Q2 Wed 07-29 (AMC), call 07-30 8:00am ET.
 - **2026-07-23:** Refresh on the settled **07-22 close $373.07** (Robinhood; −1.1% vs the 07-21 $377.09) on a risk-off tape (Nasdaq −0.57%; GOOGL/TSLA AI-capex fears). Trailing P/E **7.60x**, **P/B 0.97x (still below book)**, div yield 2.14%, ~$14.8B cap; just under the 07-17 52-wk high $385.69. No company-specific news; thesis intact — the standout book-value bargain (~13–21% discount); Mizuho PT $418. **Q2 confirmed after close 2026-07-29** (Robinhood earnings calendar, verified).

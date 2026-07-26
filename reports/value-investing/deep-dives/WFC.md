@@ -1,6 +1,6 @@
 # Wells Fargo & Company (WFC)
 
-**First created:** 2026-06-22 · **Last updated:** 2026-07-25
+**First created:** 2026-06-22 · **Last updated:** 2026-07-26
 
 **Current price:** $86.37 (Robinhood, 2026-07-24 close; **+0.2% vs the 07-23 close $86.19**) — trailing P/E 12.83x, P/B 1.62x. WFC was roughly flat as the money-center bank participated modestly in a financials-led, stabilizing tape (partial recovery after Thursday's AI-capex selloff), still holding well above the 07-15 post-earnings low; the capital-return engine ($40B buyback + intended ~11% Q3 dividend hike to $0.50) is untouched.
 
@@ -21,6 +21,7 @@
 
 ## Update Log
 
+- 2026-07-26 (Sunday weekend refresh; markets closed, Friday 07-24 remains the last settled session): No new tape — the **07-24 close $86.37** carries forward unchanged (trailing P/E **12.83x**, P/B **1.62x**, P/TBV ~1.92x, div yld 2.04%, ~$264B cap; Robinhood, `market_date` 07-24, re-pulled today). Thesis intact — healed money-center bank, asset cap gone, capital-return engine untouched ($40B buyback + intended ~11% Q3 dividend hike to $0.50, SCB 2.5%). No company earnings until the Q3 print (~mid-Oct); the relevant near-term item is the **FOMC rate decision Wed 07-29** — the rate path drives the NII/NIM watch item (modest Q3 compression then Q4 stabilization; FY26 NII guide ~$50B). Discount **~12–18%**.
 - 2026-07-25 (Saturday weekend refresh; Friday close is the last settled session): basis rolls to the **07-24 close $86.37** (+0.2% vs the 07-23 $86.19), roughly flat as financials led a stabilizing tape (partial recovery after Thursday's AI-capex selloff; Dow +0.46%, S&P ~flat, Nasdaq −0.64%); P/E **12.83**, P/B **1.62**. Thesis intact — asset cap gone, $40B buyback + intended ~11% Q3 dividend hike to $0.50; next print Q3 ~mid-Oct; NII/NIM the watch item.
 - 2026-07-24: −0.3% to $86.19 (Robinhood 07-23 close), roughly flat vs a −1.2% S&P amid the AI-capex/oil-driven tech sell-off; P/E 12.80 / P/B 1.62. Thesis intact (~12–19%) — asset cap gone, $40B buyback + intended ~11% Q3 dividend hike to $0.50 (SCB 2.5%); NII/NIM the watch item. Q3 print ~mid-Oct.
 - **2026-07-23:** Refresh on the settled **07-22 close $86.42** (Robinhood; −1.5% vs the 07-21 $87.74), giving back the 07-21 bounce on the risk-off tape (Nasdaq −0.57%; GOOGL/TSLA AI-capex fears). Trailing P/E **12.80x**, P/B **1.62x**, div yield 2.04%, ~$265B cap. No company-specific news; thesis intact — capital-return engine ($40B buyback + intended ~11% Q3 dividend hike to $0.50, SCB 2.5%) after the clean Q2 beat (NII +5% to $12.32B, FY26 NII guide ~$50B). Discount ~12–19%. Next print Q3 ~mid-Oct (~2026-10-14).

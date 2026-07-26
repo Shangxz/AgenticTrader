@@ -1,6 +1,6 @@
 # Deep Dive — Arch Capital Group Ltd. (NASDAQ: ACGL)
 
-**First created:** 2026-06-23 · **Last updated:** 2026-07-25
+**First created:** 2026-06-23 · **Last updated:** 2026-07-26
 
 **Current price & key multiples:**
 - Price: **$103.36** (Robinhood, 2026-07-24 close; +3.26% vs the 07-23 close $100.10; now ~1.6% below the 52-wk high $105.09 set 2026-07-07)
@@ -17,6 +17,7 @@
 
 ## Update Log
 
+- 2026-07-26 (Sunday weekend refresh; markets closed, the Friday 07-24 close remains the last settled session): No new tape — the **07-24 close $103.36** carries forward unchanged (trailing P/E **~7.93x**, P/B **~1.56x**, ~$36.1B cap; Robinhood, `market_date` 2026-07-24, re-pulled today). Thesis intact — three-engine mid-teens-ROE compounder; retained **#1 on quality**, smallest margin of safety on the list (**~7–12%**). Catalyst now days out and re-verified on the Robinhood earnings calendar (verified): **Q2 2026 Tue 07-28 (AMC)**, consensus EPS **$2.43** (Robinhood calendar); note the independent **Zacks** consensus is **$2.46 on ~$4.59B revenue (−3.5% YoY)** and Zacks' model does **not** flag a beat this quarter despite ACGL beating the last four ([Yahoo/Zacks, 2026-07](https://finance.yahoo.com/markets/stocks/articles/arch-capital-report-q2-earnings-172000811.html)); earnings **call Wed 07-29 10 a.m. ET**. Macro overlay: the **FOMC rate decision also lands Wed 07-29**.
 - 2026-07-25 (Saturday weekend refresh): Canonical basis rolls to the **07-24 Friday close $103.36** (Robinhood, `market_date` 2026-07-24; +3.3% vs the 07-23 $100.10) — a Saturday run, so the Friday close is the last settled session. Financials **LED** a stabilizing tape (Dow +0.46%, S&P +0.05%, Nasdaq −0.64%; tech −2.37%; oil retreated on Mideast de-escalation), and ACGL rallied ~+3.3%; now just **~1.6% below the 07-07 high $105.09**. Trailing P/E **~7.93x**, P/B **~1.56x**, ~$36.1B cap. Thesis intact — three-engine mid-teens-ROE compounder; retained **#1 on quality**, now the smallest margin of safety on the list (**~7–12%**). Next catalyst: **Q2 2026 Tue 07-28 (AMC)** (call 07-29), consensus EPS **$2.43**.
 - 2026-07-24: +1.5% to $100.10 (Robinhood 07-23 close), outperforming a −1.2% S&P as value/defensives caught a bid amid the AI-capex/oil-driven tech sell-off (Nasdaq −2.2%; Alphabet −7% on its raised ~$205B 2026 capex; Tesla −14%; oil >$102 on Mideast tensions). P/E 7.68 / P/B 1.51 little changed; thesis intact — #1 on quality, smallest margin of safety (~9–14%). Q2 Tue 07-28 (AMC), cons. EPS ~$2.45.
 - **2026-07-23:** Refresh on the settled **07-22 close $98.63** (Robinhood; −1.9% vs the 07-21 $100.55) on a broad risk-off day (Nasdaq −0.57%; GOOGL/TSLA AI-capex fears after the close). Trailing P/E **7.68x**, P/B **1.51x**, ~$34.5B cap; ~6.1% below the 07-07 52-wk high $105.09. No company-specific news; thesis intact — #1 on quality, smallest margin of safety (~10–15%). **Q2 confirmed after close 2026-07-28** (Robinhood earnings calendar, verified); consensus EPS ~$2.45.
