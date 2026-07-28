@@ -1,16 +1,16 @@
 # Wells Fargo & Company (WFC)
 
-**First created:** 2026-06-22 · **Last updated:** 2026-07-27
+**First created:** 2026-06-22 · **Last updated:** 2026-07-28
 
-**Current price:** $86.37 (Robinhood, 2026-07-24 close; **+0.2% vs the 07-23 close $86.19**) — trailing P/E 12.83x, P/B 1.62x. WFC was roughly flat as the money-center bank participated modestly in a financials-led, stabilizing tape (partial recovery after Thursday's AI-capex selloff), still holding well above the 07-15 post-earnings low; the capital-return engine ($40B buyback + intended ~11% Q3 dividend hike to $0.50) is untouched.
+**Current price:** $87.27 (Robinhood, 2026-07-27 close; **+1.0% vs the 07-24 close $86.37**; bid ~$87.9 pre-market 07-28) — trailing P/E 12.80x, P/B 1.62x. WFC rose ~1.0% on the Monday session, still holding well above the 07-15 post-earnings low; the capital-return engine ($40B buyback + intended ~11% Q3 dividend hike to $0.50) is untouched.
 
 **Key valuation metrics:**
-- Trailing P/E: **12.83x** (Robinhood, as of 2026-07-24 close)
+- Trailing P/E: **12.80x** (Robinhood, as of 2026-07-27 close)
 - Forward P/E: **~12.4x** on ~$7.07 FY2026 consensus EPS (StockAnalysis / Public.com analyst consensus, as of 2026-06: https://stockanalysis.com/stocks/wfc/forecast/ ; https://public.com/stocks/wfc/forecast-price-target)
-- Price / book: **1.62x** (Robinhood, as of 2026-07-24 close)
+- Price / book: **1.62x** (Robinhood, as of 2026-07-27 close)
 - Price / tangible book: **~1.92x** ($86.37 / TBVPS $45.02; TBVPS from Wells Fargo Q1 2026 release, as of 2026-04-14: https://www.sec.gov/Archives/edgar/data/72971/000007297126000213/wfc1qer04-14x26ex991xrelea.htm)
-- Dividend yield: **2.04%** ($0.45/qtr; Robinhood, as of 2026-07-24 close) — Board intends to raise to $0.50/qtr in Q3 2026 (Wells Fargo, 2026-06-24: https://newsroom.wf.com/news-releases/news-details/2026/Wells-Fargo-Completes-2026-Stress-Test-and-Intends-to-Raise-Dividend-by-11-to-0-50/default.aspx)
-- Market cap: **~$264B** (~3.07B shares out; Robinhood, as of 2026-07-24 close)
+- Dividend yield: **~2.04%** ($0.45/qtr; Robinhood, as of 2026-07-27 close) — Board intends to raise to $0.50/qtr in Q3 2026 (Wells Fargo, 2026-06-24: https://newsroom.wf.com/news-releases/news-details/2026/Wells-Fargo-Completes-2026-Stress-Test-and-Intends-to-Raise-Dividend-by-11-to-0-50/default.aspx)
+- Market cap: **~$267B** (~3.07B shares out; Robinhood, as of 2026-07-27 close)
 - 52-week range: $72.78 (2026-05-15) – $97.76 (2026-01-05) (Robinhood, as of 2026-07-24)
 - Q1 2026 ROTCE: **14.5%**; ROE 12.2%; FY2025 ROTCE ~15.0%; medium-term target **17–18%** (Wells Fargo Q1 2026 release/earnings coverage, as of 2026-04-14: https://www.sec.gov/Archives/edgar/data/72971/000007297126000213/wfc1qer04-14x26ex991xrelea.htm ; https://www.tikr.com/blog/wells-fargo-stock-posts-15-eps-growth-and-1-trillion-loan-book-in-q1-2026)
 - CEO: Charles Scharf · Sector: Finance / Major Banks · HQ: San Francisco
@@ -21,6 +21,7 @@
 
 ## Update Log
 
+- 2026-07-28 (Tue pre-market ~8:40 ET). New canonical basis = the **2026-07-27 (Monday) close $87.27** (Robinhood, market_date 2026-07-27; +1.0% vs the Fri 07-24 $86.37); trailing P/E **~12.80x**, P/B **~1.62x**, yld ~2.04%; bid ~$87.9 pre-market. The near-term macro read for WFC is the **FOMC rate decision Wed 07-29** (rate path → NII/NIM): CME FedWatch prices ~68.5% for a hold, 10-yr at 4.61%. Split tape (Dow futures +0.8% on KO/Sherwin beats; **Nasdaq-100 −~1% on an AI-memory-chip rout** — SK Hynix −14%, Samsung −13%, Kospi −10%) ([Yahoo Finance, 2026-07-28](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-082832371.html)). Thesis intact — healed money-center bank, asset cap gone, $40B buyback + intended ~11% Q3 dividend hike to $0.50; clean Q2 beat (NII +5% to $12.32B, FY26 NII guide ~$50B). Next print Q3 ~mid-Oct. Discount ~12–18%.
 - 2026-07-27 (Monday pre-market run, ~8:35 ET; the regular session has not yet opened, so the **Friday 07-24 close $86.37** remains the last settled basis — trailing P/E **12.83x**, P/B **1.62x**, P/TBV ~1.92x, div yld 2.04%, ~$264B cap; Robinhood, re-pulled today). Backdrop: strong Monday futures (Dow +1%, Nasdaq-100 +1.4%) on **oil −7% (Brent <$90) / US–Iran pause** ([Yahoo Finance, 2026-07-27](https://finance.yahoo.com/markets/live/stock-market-today-monday-july-27-dow-sp-500-nasdaq-080412540.html)); WFC indicated **~$86.80 pre-market (+0.5%)** (Robinhood quote, 2026-07-27). Thesis intact — healed money-center bank, asset cap gone, capital-return engine untouched ($40B buyback + intended ~11% Q3 dividend hike to $0.50, SCB 2.5%). No company earnings until the Q3 print (~mid-Oct); the key near-term item is the **FOMC rate decision Wed 07-29** — the rate path drives the NII/NIM watch item (modest Q3 compression then Q4 stabilization; FY26 NII guide ~$50B). A falling-oil / cooler-inflation backdrop marginally eases pressure on the Fed. Discount **~12–18%**.
 - 2026-07-26 (Sunday weekend refresh; markets closed, Friday 07-24 remains the last settled session): No new tape — the **07-24 close $86.37** carries forward unchanged (trailing P/E **12.83x**, P/B **1.62x**, P/TBV ~1.92x, div yld 2.04%, ~$264B cap; Robinhood, `market_date` 07-24, re-pulled today). Thesis intact — healed money-center bank, asset cap gone, capital-return engine untouched ($40B buyback + intended ~11% Q3 dividend hike to $0.50, SCB 2.5%). No company earnings until the Q3 print (~mid-Oct); the relevant near-term item is the **FOMC rate decision Wed 07-29** — the rate path drives the NII/NIM watch item (modest Q3 compression then Q4 stabilization; FY26 NII guide ~$50B). Discount **~12–18%**.
 - 2026-07-25 (Saturday weekend refresh; Friday close is the last settled session): basis rolls to the **07-24 close $86.37** (+0.2% vs the 07-23 $86.19), roughly flat as financials led a stabilizing tape (partial recovery after Thursday's AI-capex selloff; Dow +0.46%, S&P ~flat, Nasdaq −0.64%); P/E **12.83**, P/B **1.62**. Thesis intact — asset cap gone, $40B buyback + intended ~11% Q3 dividend hike to $0.50; next print Q3 ~mid-Oct; NII/NIM the watch item.

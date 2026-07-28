@@ -1,11 +1,10 @@
 # The Cigna Group (CI)
 
-**First created:** 2026-06-23 · **Last updated:** 2026-07-27
+**First created:** 2026-06-23 · **Last updated:** 2026-07-28
 
 **Current price & key multiples:**
-- Price: **$289.72** (Robinhood, 2026-07-24 close; **+1.20% vs the 07-23 close $286.29**)
-- Trailing P/E: **~12.17x** (Robinhood raw 12.02 on a one-day lag; ~12.17x computed on the 07-24 close) | **~9.5x guided FY26 EPS (guidance ≥$30.35)** | Price/Book: **~1.80x** (Robinhood raw 1.78; ~1.80x computed on the 07-24 close)
-- Dividend yield: **2.16%** | Market cap: **~$78.0B** (Robinhood, as of 2026-07-24)
+- Price: **$291.02** (Robinhood, 2026-07-27 close; +0.4% vs the 07-24 close $289.72)
+- Trailing P/E: **12.02x** / **~9.6x guided FY26 EPS** (≥$30.35) | Price/Book: **1.78x** | Market cap: **~$79.2B** | Dividend yield: **~2.16%** (Robinhood, 2026-07-27 close)
 - CEO: **Brian C. Evanko** (succeeded David Cordani, who moved to Executive Chair, effective 2026-07-01) (Robinhood profile, as of 2026-07-02)
 - TTM free cash flow: **~$7.66B**, FCF yield **~10%** (StockAnalysis, https://stockanalysis.com/stocks/ci/statistics/, as-of 2026-06-28)
 - EV/EBITDA: **~7.5x** (StockAnalysis, as-of 2026-06-28)
@@ -17,6 +16,7 @@
 
 ## Update Log
 
+- 2026-07-28 (Tue pre-market ~8:40 ET). New canonical basis = the **2026-07-27 (Monday) close $291.02** (Robinhood, market_date 2026-07-27; +0.4% vs the Fri 07-24 $289.72); trailing P/E **~12.02x** / **~9.6x guided FY26 EPS** (≥$30.35), P/B ~1.78x, yld ~2.16%. Split tape (Dow futures +0.8% on KO/Sherwin beats; **Nasdaq-100 −~1% on an AI-memory-chip rout** — SK Hynix −14%, Samsung −13%, Kospi −10%) ([Yahoo Finance, 2026-07-28](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-082832371.html)). **Q2 confirmed Thu 07-30 (am/BMO), consensus adj EPS $7.57 (Robinhood calendar, verified)**, rev ~$70.1B; FY26 guide ≥$30.35 intact. BofA top-MCO pick; consensus Strong Buy, avg PT ~$342. Thesis intact — ~$7.7B-FCF managed-care/PBM franchise on a lingering Russell-index-flush discount with no fresh negative catalyst. Discount ~13–18%.
 - 2026-07-27 (Monday pre-market run, ~8:35 ET; the regular session has not yet opened, so the **Friday 07-24 close $289.72** remains the last settled basis — trailing P/E **~12.17x** / **~9.5x guided FY26 EPS** ≥$30.35, P/B **~1.80x**, div yld 2.16%, ~$78.0B cap; Robinhood raw 12.02 / 1.78, re-pulled today). Backdrop: strong Monday futures (Nasdaq-100 +1.4%) on **oil −7% (Brent <$90) / US–Iran pause** ([Yahoo Finance, 2026-07-27](https://finance.yahoo.com/markets/live/stock-market-today-monday-july-27-dow-sp-500-nasdaq-080412540.html)); CI indicated **~$289.6 pre-market (flat)** (Robinhood quote, 2026-07-27). Thesis **intact** — ~$7.7B-FCF managed-care/PBM franchise; the prior Russell-Growth index-removal flush discount stands, no fresh negative catalyst over the weekend. **Q2 2026 Thu 07-30 (BMO)** re-confirmed (Robinhood calendar, verified) — consensus adj EPS **$7.57** (MarketBeat $7.60) on revenue **~$70.1B**; FY26 guidance ≥$30.35 intact. Macro overlay: **FOMC decision Wed 07-29**, two days ahead of the print. Discount **~13–18%**.
 - 2026-07-26 (Sunday weekend refresh; markets closed, Friday 07-24 remains the last settled session): No new tape — the **07-24 close $289.72** carries forward unchanged (trailing P/E **~12.17x** / **~9.5x guided FY26 EPS** ≥$30.35, P/B **~1.80x**, div yld 2.16%, ~$78.0B cap; Robinhood raw 12.02 / 1.78 on a one-day lag, re-pulled today). Thesis **intact** — ~$7.7B-FCF managed-care/PBM franchise; the prior Russell-Growth index-removal flush discount stands, no fresh negative catalyst over the weekend. Catalyst re-verified on the Robinhood earnings calendar (verified): **Q2 2026 Thu 07-30 (BMO)**, consensus adj EPS **$7.57**, revenue ~$70.1B; FY26 guidance ≥$30.35 intact. Macro overlay: **FOMC rate decision Wed 07-29** two days ahead of the print.
 - 2026-07-25 (Saturday weekend refresh; Friday close is the last settled session): basis rolls to the **07-24 close $289.72** (**+1.2%** vs the 07-23 $286.29), firming on a value-rotation tape (financials led; tech −2.37%). Trailing P/E **~12.17x** / **~9.5x guided FY26 EPS** (≥$30.35), P/B **~1.80x**. Thesis **intact**; the prior Russell-Growth index-removal flush discount stands, no fresh negative catalyst. Q2 confirmed **Thu 2026-07-30 (BMO)**, consensus adj EPS ~$7.57, revenue ~$70.1B; FY26 guidance ≥$30.35 intact.

@@ -1,6 +1,6 @@
 # Everest Group, Ltd. (NYSE: EG)
 
-**First created:** 2026-06-26 · **Last updated:** 2026-07-27 · Research support only — not personal financial advice.
+**First created:** 2026-06-26 · **Last updated:** 2026-07-28 · Research support only — not personal financial advice.
 
 Global property & casualty reinsurance and insurance, domiciled in Bermuda (Hamilton). Sector: Finance / Property & Casualty (Re)insurance. CEO: James (Jim) Williamson.
 
@@ -8,14 +8,14 @@ Global property & casualty reinsurance and insurance, domiciled in Bermuda (Hami
 
 | Metric | Value | Source |
 |--------|-------|--------|
-| Price (last trade) | **$385.22** (2026-07-24 settled close; **+2.57% vs the 07-23 close $375.56** — printed a **FRESH 52-wk high $386.87 intraday (07-24)**, closed just below it; now **essentially AT book**) | Robinhood, 2026-07-24 close |
-| Trailing P/E | **~7.80x** (Robinhood raw field 7.60 on a one-day lag) | Robinhood, 2026-07-24 close |
-| Price/Book | **~1.00x** (at book value, up from ~0.97x — the sub-book cushion has essentially closed; Robinhood raw field 0.971 on a one-day lag) | Robinhood, 2026-07-24 close |
+| Price (last trade) | **$389.34** (2026-07-27 settled close; **+1.1% vs the 07-24 close $385.22** — set a **fresh 52-wk high $390.53 intraday (07-27)**; now **back below book**) | Robinhood, 2026-07-27 close |
+| Trailing P/E | **7.60x** | Robinhood, 2026-07-27 close |
+| Price/Book | **0.97x (back below book)** | Robinhood, 2026-07-27 close |
 | Forward P/E (2026E) | **~7.1x** on ~$52 consensus EPS | [stockanalysis.com](https://stockanalysis.com/stocks/eg/forecast/) |
 | Book value/share | **$383.75** ($393.02 ex-unrealized fixed-maturity losses), Q1 2026 | [Bernews / Q1'26 release](https://bernews.com/2026/05/everest-group-reports-q1-2026-results/) |
-| Market cap | **~$15.2B** | Robinhood, 2026-07-24 close |
-| Shares out | **~39.6M** | Robinhood, 2026-07-24 close |
-| 52-week range | $302.44 (2025-10-28) – **$386.87 (2026-07-24)**, closed just under the fresh high | Robinhood, 2026-07-24 close |
+| Market cap | **~$15.5B** | Robinhood, 2026-07-27 close |
+| Shares out | **~39.8M** | Robinhood, 2026-07-27 close |
+| 52-week range | **$302.44 (2025-10-28) – $390.53 (2026-07-27)** | Robinhood, 2026-07-27 close |
 | Dividend | $8.00/yr, **~2.14% yield** ($2.00/qtr) | Robinhood, 2026-07-24 close |
 | Q1 2026 net income | **$653M / $16.21 dil. EPS** (vs $210M / $4.90 y/y) | [StockTitan](https://www.stocktitan.net/news/EG/everest-reports-first-quarter-2026-do0uhymguwqc.html) |
 | Q1 2026 combined ratio | **91.2%** (from 102.7% y/y); attritional CR 88.5% | [Bernews](https://bernews.com/2026/05/everest-group-reports-q1-2026-results/) |
@@ -29,6 +29,7 @@ Global property & casualty reinsurance and insurance, domiciled in Bermuda (Hami
 
 ## Update Log
 
+- 2026-07-28 (Tue pre-market ~8:40 ET). New canonical basis = the **2026-07-27 (Monday) close $389.34** (Robinhood, market_date 2026-07-27; +1.1% vs the Fri 07-24 $385.22) — a **fresh 52-wk high ($390.53 intraday 07-27)**; trailing P/E **~7.60x**, **P/B ~0.97x**, yld ~2.14%. Note EG is **back below book**: the sub-book cushion that had essentially closed at Friday's ~1.00x has **modestly re-opened** (~0.97x) even as the stock made a new high — book value has kept pace. Split tape (Dow futures +0.8% on KO/Sherwin beats; **Nasdaq-100 −~1% on an AI-memory-chip rout** — SK Hynix −14%, Samsung −13%, Kospi −10%) ([Yahoo Finance, 2026-07-28](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-082832371.html)). **Q2 confirmed Wed 07-29 (pm/AMC), consensus EPS $14.32 (Robinhood calendar, verified)** / $14.52 MarketBeat, rev ~$3.99B — the same day as the FOMC decision and META; call 07-30. Mizuho PT $418. Thesis intact — scaled mid-teens-ROE global reinsurer on a now-ring-fenced (Longtail Re ADC) reserve-credibility discount; book-value support restored to a slight sub-book cushion. Discount ~12–18%.
 - 2026-07-27 (Monday pre-market run, ~8:35 ET; the regular session has not yet opened, so the **Friday 07-24 close $385.22** remains the last settled basis — trailing P/E **~7.80x**, **P/B ~1.00x ≈ book**, div yld ~2.14%, ~$15.2B cap; Robinhood raw fields 7.60 / 0.971, re-pulled today). Backdrop: strong Monday futures (Nasdaq-100 +1.4%) on **oil −7% (Brent <$90) / US–Iran pause** ([Yahoo Finance, 2026-07-27](https://finance.yahoo.com/markets/live/stock-market-today-monday-july-27-dow-sp-500-nasdaq-080412540.html)); EG indicated **~$385.1 pre-market (flat)** (Robinhood quote, 2026-07-27). Thesis intact — still the book-value-support name, but at ~1.00x book the hard sub-book cushion is essentially closed, so it leans more on mid-teens-ROE earnings power (discount **~12–18%**). **Q2 2026 Wed 07-29 (AMC)** re-confirmed (Robinhood calendar, verified; call 07-30) — Robinhood consensus EPS **$14.32**, MarketBeat **$14.52 on ~$3.99B rev** ([Yahoo/Zacks, 2026-07](https://finance.yahoo.com/markets/stocks/articles/everest-group-eg-expected-beat-140006764.html)); note Zacks trimmed its Q2 estimate. Mizuho PT $418. Prints the **same day as the FOMC decision**.
 - 2026-07-26 (Sunday weekend refresh; markets closed, Friday 07-24 remains the last settled session): No new tape — the **07-24 close $385.22** carries forward unchanged (trailing P/E **~7.80x**, **P/B ~1.00x ≈ book**, div yld ~2.14%, ~$15.2B cap; Robinhood raw fields 7.60 / 0.971 on a one-day lag, `market_date` 07-24, re-pulled today). Thesis intact — still the book-value-support name of the list, though the hard sub-book cushion is essentially closed at ~1.00x, so it now leans more on mid-teens-ROE earnings power than on an asset floor (discount to IV **~12–18%**). Catalyst re-verified on the Robinhood earnings calendar (verified): **Q2 2026 Wed 07-29 (AMC)**, call 07-30, consensus EPS **$14.32**; Mizuho PT $418. Macro overlay: **FOMC rate decision also Wed 07-29** (same day as the print).
 - 2026-07-25 (Saturday weekend refresh; Friday close is the last settled session): Basis rolls to the **07-24 close $385.22** (Robinhood, market_date 07-24; **+2.6% vs the 07-23 $375.56**), a **FRESH 52-wk high ($386.87 intraday)** as financials led a stabilizing tape (Dow +0.46%, S&P ~flat, Nasdaq −0.64%; oil retreated on Middle-East de-escalation). **P/B now ~1.00x — essentially AT book, up from ~0.97x; the sub-book cushion has closed at the margin.** Trailing P/E **~7.80x**, div yield ~2.14%, ~$15.2B cap. Thesis intact — still the book-value-support name (discount to IV ~12–18%). **Q2 2026-07-29 (AMC)**, call 07-30, consensus EPS $14.32; Mizuho PT $418 (Neutral, 07-09).
