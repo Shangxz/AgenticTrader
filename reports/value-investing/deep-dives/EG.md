@@ -1,6 +1,6 @@
 # Everest Group, Ltd. (NYSE: EG)
 
-**First created:** 2026-06-26 · **Last updated:** 2026-08-03 · Research support only — not personal financial advice.
+**First created:** 2026-06-26 · **Last updated:** 2026-08-04 · Research support only — not personal financial advice.
 
 Global property & casualty reinsurance and insurance, domiciled in Bermuda (Hamilton). Sector: Finance / Property & Casualty (Re)insurance. CEO: James (Jim) Williamson.
 
@@ -8,15 +8,15 @@ Global property & casualty reinsurance and insurance, domiciled in Bermuda (Hami
 
 | Metric | Value | Source |
 |--------|-------|--------|
-| Price (last trade) | **$374.00** (2026-07-31 settled close; carried forward to the Monday 08-03 pre-market run) | Robinhood, as of 2026-07-31 settled close, re-pulled 2026-08-03 |
-| Trailing P/E | **~7.92x** (refreshed down from ~8.34x as the TTM denominator caught up to the 07-29 Q2 report) | Robinhood, as of 2026-07-31 settled close, re-pulled 2026-08-03 |
-| Price/Book | **~0.94x — back BELOW book on the refreshed field; again the lowest P/B on the list** | Robinhood, as of 2026-07-31 settled close, re-pulled 2026-08-03 |
+| Price (last trade) | **$372.05** (2026-08-03 settled close; ~−0.5% vs the 07-31 $374.00 prior basis) | Robinhood, as of 2026-08-03 settled close |
+| Trailing P/E | **~7.92x** | Robinhood, as of 2026-08-03 settled close |
+| Price/Book | **~0.94x — BELOW book; by a clear margin the lowest P/B on the list** (peers 1.3x–2.7x) | Robinhood, as of 2026-08-03 settled close |
 | Forward P/E (2026E) | **~7.1x** on ~$52 consensus EPS | [stockanalysis.com](https://stockanalysis.com/stocks/eg/forecast/) |
 | Book value/share | **$383.75** ($393.02 ex-unrealized fixed-maturity losses), Q1 2026 | [Bernews / Q1'26 release](https://bernews.com/2026/05/everest-group-reports-q1-2026-results/) |
-| Market cap | **~$14.8B** | Robinhood, as of 2026-07-31 settled close |
-| Shares out | **~39.6M** | Robinhood, as of 2026-07-31 settled close |
-| 52-week range | **$302.44 (2025-10-28) – $401.07 (2026-07-28)** (now ~6.7% below the fresh high) | Robinhood, as of 2026-07-31 settled close |
-| Dividend | $8.00/yr, **~2.03% yield** ($2.00/qtr) | Robinhood, as of 2026-07-31 settled close |
+| Market cap | **~$14.7B** | Robinhood, as of 2026-08-03 settled close |
+| Shares out | **~39.57M** | Robinhood, as of 2026-08-03 settled close |
+| 52-week range | **$302.44 (2025-10-28) – $401.07 (2026-07-28)** (now ~7.2% below the fresh high) | Robinhood, as of 2026-08-03 settled close |
+| Dividend | $8.00/yr, **~2.14% yield** ($2.00/qtr) | Robinhood, as of 2026-08-03 settled close |
 | Q2 2026 results (reported 07-29 AMC) | **Op. EPS $14.85 — BEAT (+2.2% vs ~$14.52 cons.)**; net operating income $585M; GAAP net income $559M; consolidated combined ratio **92.0%** (slight miss / YoY deterioration), core (ex-cat) CR 90.0%; NPE $3.49B, total revenue $3.96B (−11.8% YoY) | [The Insurer](https://www.theinsurer.com/ti/news/everest-q2-earnings-beat-consensus-both-consolidated-and-core-combined-ratios-2026-07-29/), [StockStory](https://stockstory.org/us/stocks/nyse/eg/news/earnings/everest-group-nyseeg-misses-q2-cy2026-sales-expectations) |
 | Q1 2026 net income | **$653M / $16.21 dil. EPS** (vs $210M / $4.90 y/y) | [StockTitan](https://www.stocktitan.net/news/EG/everest-reports-first-quarter-2026-do0uhymguwqc.html) |
 | Q1 2026 combined ratio | **91.2%** (from 102.7% y/y); attritional CR 88.5% | [Bernews](https://bernews.com/2026/05/everest-group-reports-q1-2026-results/) |
@@ -30,6 +30,7 @@ Global property & casualty reinsurance and insurance, domiciled in Bermuda (Hami
 
 ## Update Log
 
+- 2026-08-04: **Tuesday pre-market refresh (~8:40 a.m. ET, before the 9:30 open).** New canonical basis = the **2026-08-03 (Monday) settled close $372.05** (Robinhood, `market_date` 2026-08-03; **~−0.5% vs the 07-31 $374.00 prior basis**); trailing P/E **~7.92x**, **P/B ~0.94x — sub-book, and by a clear margin the lowest P/B on the list** (peers 1.3x–2.7x), ~2.14% yield, ~$14.7B cap; now ~7.2% below the 07-28 fresh 52-wk high ($401.07). Pre-market 08-04 is thin/wide (bid ~$355 / ask ~$388; last print ~$372.05, ~flat) — treat direction as noisy. Modestly risk-on tape (S&P futures +~0.3%, Nasdaq-100 +~0.9%; 08-03 Dow record high + strong ISM Manufacturing PMI 55.6; July jobs due 08-07 ~83K / 4.3%) ([Yahoo Finance, 2026-08-04](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-4-dow-sp-500-nasdaq-100140227.html)). No new EG-specific news; the Q2 beat (op EPS $14.85 vs ~$14.52; 14.9% op ROE; $395M buyback) stands, the **92.0% consolidated combined ratio** the one watch item. Thesis intact — reserve-credibility rehabilitation, mid-teens ROE, below-book buyback accretion; retained **#2**, ~13–19% margin of safety vs ~$430–470 intrinsic. Mizuho PT $418. Next test: Q3 reserve disclosure (~late Oct/early Nov).
 - 2026-08-03: **Monday pre-market refresh (~8:35 a.m. ET, before the 9:30 open).** Canonical basis remains the **2026-07-31 (Friday) settled close** — the third consecutive session on this basis, so price ($374.00) and the Robinhood ratio fields (P/E ~7.92x, **P/B ~0.94x — below book, by a clear margin the lowest on the list**; peers 1.3x–2.7x) are **unchanged**; last pre-market print ~$374.15 (flat). Risk-on open (US futures +~0.6% on Iran diplomacy — oil down, yields down — plus the Amazon-cloud tape; heavy macro week: July payrolls, ISM) ([Yahoo Finance, 2026-08-03](https://finance.yahoo.com/markets/live/stock-market-today-monday-august-3-dow-sp-500-nasdaq-092516872.html)). No EG-specific news; the Q2 beat (op EPS $14.85 vs ~$14.52; 14.9% op ROE; $395M buyback) stands, the 92.0% consolidated combined ratio the one watch item. Thesis intact — reserve-credibility rehabilitation, mid-teens ROE, below-book buyback accretion; retained **#2**, ~13–19% margin of safety vs ~$430–470 intrinsic. Mizuho PT $418. Next test: Q3 reserve disclosure.
 - 2026-08-02: **Sunday weekend refresh — markets closed; the Fri 07-31 close remains the last settled session (second consecutive weekend day on this basis).** Price carries forward unchanged at **$374.00**; the Robinhood ratio fields refreshed as the TTM denominator caught up to the 07-29 Q2 report — trailing P/E now **~7.92x** (from ~8.34x) and **P/B back to ~0.94x (below book again)** from ~1.03x, so EG is once more *sub-book* and by a clear margin the lowest P/B on the list (peers 1.3x–2.7x) (Robinhood, `market_date` 07-31, re-pulled today), ~2.14% yield, ~$14.8B cap; ~6.7% below the 07-28 fresh 52-wk high ($401.07). No weekend company-specific news; the Q2 beat (op EPS $14.85 vs ~$14.52; 14.9% op ROE; $395M buyback) stands, the 92.0% consolidated combined ratio the one watch item. Thesis intact — reserve-credibility rehabilitation, mid-teens ROE, below-book buyback accretion; retained **#2**, ~13–19% margin of safety vs ~$430–470 intrinsic. Mizuho PT $418. Next test: Q3 reserve disclosure.
 - 2026-08-01: Still a top pick (Sat refresh on the Fri 07-31 settled close). Price $374.00 (−0.4%), P/E ~8.34, P/B ~1.03 — still right at book and the lowest P/B on the list (Robinhood, 07-31). Indices rose to cap a strong July on Amazon/AI-capex; EG ~flat on no news, Q2 beat digested vs the 92.0% combined ratio + deliberate top-line shrink. Thesis intact; ~13–19% margin of safety; Mizuho PT $418.
@@ -75,7 +76,7 @@ Global property & casualty reinsurance and insurance, domiciled in Bermuda (Hami
 
 *Acting as an experienced buy-side analyst specializing in mispriced/undervalued companies.*
 
-**Current valuation context:** ~0.94x book (back BELOW book on the refreshed field, again the lowest P/B on the list — ~6.7% below the 07-28 fresh 52-wk high $401.07) and ~7.92x trailing / ~7.1x forward earnings (price $374.00, 07-31 close) vs P&C-(re)insurance peers at ~1.3x–2.7x book and 5–15x earnings. **Q2 2026 reported 07-29 AMC: operating EPS $14.85 — a BEAT (+2.2% vs ~$14.52 cons.); the one watch item is the consolidated combined ratio 92.0% (a slight miss / YoY deterioration).**
+**Current valuation context:** ~0.94x book (sub-book, and by a clear margin the lowest P/B on the list — ~7.2% below the 07-28 fresh 52-wk high $401.07) and ~7.92x trailing / ~7.1x forward earnings (price $372.05, 08-03 close) vs P&C-(re)insurance peers at ~1.3x–2.7x book and 5–15x earnings. **Q2 2026 reported 07-29 AMC: operating EPS $14.85 — a BEAT (+2.2% vs ~$14.52 cons.); the one watch item is the consolidated combined ratio 92.0% (a slight miss / YoY deterioration).**
 
 **1. Business-model clarity — is this genuinely hard to model?**
 Everest is not conceptually complex — it underwrites reinsurance (~65% of premium) and primary insurance (~35%), and earns an investment-income spread on float. What makes it *hard to trust* is **reserve adequacy in long-tail US casualty**. Casualty losses (general liability, commercial auto, professional lines) develop over many years; an insurer books a best-estimate reserve today and the truth emerges over a decade. "Social inflation" — rising jury verdicts, litigation funding, broader liability theories — has repeatedly forced the whole industry to top up old reserves. So the analyst's difficulty is not the business; it is **the believability of one number on the balance sheet** (loss reserves) that, if wrong, flows straight through book value. That single point of opacity is exactly why the market applies a below-book multiple.
@@ -108,7 +109,7 @@ The at-book (~1.00x, still the lowest P/B on the list) price implies the market 
 
 *Acting as a valuation analyst building a comp set for an investment committee.*
 
-**Current multiple:** **~0.94x book value** (back below book on the refreshed field as of the 07-31 close $374.00, ~6.7% below the 07-28 fresh 52-wk high $401.07 — again the lowest P/B on the list; and ~7.92x trailing P/E). **Sector:** Global P&C reinsurance + specialty insurance.
+**Current multiple:** **~0.94x book value** (sub-book as of the 08-03 close $372.05, ~7.2% below the 07-28 fresh 52-wk high $401.07 — by a clear margin the lowest P/B on the list; and ~7.92x trailing P/E). **Sector:** Global P&C reinsurance + specialty insurance.
 
 **Step 1 — The peer group.** Bermuda/global reinsurers and large specialty / diversified P&C (re)insurers:
 
@@ -154,7 +155,7 @@ A re-rate to even **1.1–1.2x book on a ~$390–400 book** implies a **~$430–
 
 **Thesis:** Everest is a scaled, well-capitalized global reinsurer trading below book (~0.94x, the lowest P/B on the list) and ~8x earnings because a 2024 US-casualty reserve charge broke market confidence. A new CEO, a $1.2B adverse-development cover, profitability-over-volume underwriting (incl. exiting commercial retail), a 91.2% Q1'26 combined ratio with 16.7% operating ROE, and a $4.74B buyback (accretive below book) suggest the reserve problem is being ring-fenced and the franchise can re-earn a 1.1x+ book multiple.
 
-**My rough intrinsic value:** **~$430–470** (~1.1–1.2x normalized book of ~$390–400, consistent with mid-teens ROE and a sub-10x P/E on ~$52–60 normalized EPS). **Approx. discount to intrinsic at ~$374 (07-31 close): ~13–19%.**
+**My rough intrinsic value:** **~$430–470** (~1.1–1.2x normalized book of ~$390–400, consistent with mid-teens ROE and a sub-10x P/E on ~$52–60 normalized EPS). **Approx. discount to intrinsic at ~$372 (08-03 close): ~13–19%.**
 
 **Catalyst analysis**
 
