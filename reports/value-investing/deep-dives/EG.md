@@ -1,6 +1,6 @@
 # Everest Group, Ltd. (NYSE: EG)
 
-**First created:** 2026-06-26 · **Last updated:** 2026-09-23 · Research support only — not personal financial advice.
+**First created:** 2026-06-26 · **Last updated:** 2026-09-24 · Research support only — not personal financial advice.
 
 Global property & casualty reinsurance and insurance, domiciled in Bermuda (Hamilton). Sector: Finance / Property & Casualty (Re)insurance. CEO: James (Jim) Williamson.
 
@@ -8,15 +8,15 @@ Global property & casualty reinsurance and insurance, domiciled in Bermuda (Hami
 
 | Metric | Value | Source |
 |--------|-------|--------|
-| Price (last trade) | **$370.96** (Robinhood, 2026-09-22 Tuesday settled close — a **new settled session**; EG firmed **+0.42%** from the 09-21 close ($369.42), bucking the financials rotation as the reinsurer bounced off Monday's dip; thin/illiquid pre-market Wednesday 09-23 (indicative ~$371, wide bid/ask ~$370.85/$390); sits **~7.5% below its 52-wk high** $401.07 set 07-28) | Robinhood, as of 2026-09-22 settled close |
-| Trailing P/E | **~7.82x** | Robinhood, as of 2026-09-22 settled close |
-| Price/Book | **~0.93x — BELOW book; by a clear margin the lowest P/B on the list** (peers 1.3x–2.7x) | Robinhood, as of 2026-09-22 settled close |
+| Price (last trade) | **$372.36** (Robinhood, 2026-09-23 Wednesday settled close; EG rose **+0.38%** from the 09-22 close of $370.96, bucking a **yield-shock risk-off day** as insurers with investable float benefit from higher reinvestment yields; sits **~7.2% below its 52-wk high** $401.07 set 07-28) | Robinhood, as of 2026-09-23 settled close |
+| Trailing P/E | **~7.85x** | Robinhood, as of 2026-09-23 settled close |
+| Price/Book | **~0.93x — BELOW book; by a clear margin the lowest P/B on the list** (peers 1.3x–2.7x) | Robinhood, as of 2026-09-23 settled close |
 | Forward P/E (2026E) | **~7.3x** on ~$52 consensus EPS | [stockanalysis.com](https://stockanalysis.com/stocks/eg/forecast/) |
 | Book value/share | **$383.75** ($393.02 ex-unrealized fixed-maturity losses), Q1 2026 | [Bernews / Q1'26 release](https://bernews.com/2026/05/everest-group-reports-q1-2026-results/) |
-| Market cap | **~$14.23B** | Robinhood, as of 2026-09-22 settled close |
-| Shares out | **~38.34M** | Robinhood, as of 2026-09-22 settled close |
-| 52-week range | **$302.44 (2025-10-28) – $401.07 (2026-07-28)** (now ~7.5% below the high) | Robinhood, as of 2026-09-22 settled close |
-| Dividend | $8.00/yr, **~2.17% yield** ($2.00/qtr; ex-div 09-09, record 09-09, **payable this Fri 2026-09-25**) | Robinhood, as of 2026-09-22 settled close |
+| Market cap | **~$14.3B** | Robinhood, as of 2026-09-23 settled close |
+| Shares out | **~38.3M** | Robinhood, as of 2026-09-23 settled close |
+| 52-week range | **$302.44 (2025-10-28) – $401.07 (2026-07-28)** (now ~7.2% below the high) | Robinhood, as of 2026-09-23 settled close |
+| Dividend | $8.00/yr, **~2.16% yield** ($2.00/qtr; ex-div 09-09, record 09-09, **payable TOMORROW Fri 2026-09-25**) | Robinhood, as of 2026-09-23 settled close |
 | Q2 2026 results (reported 07-29 AMC) | **Op. EPS $14.85 — BEAT (+2.2% vs ~$14.52 cons.)**; net operating income $585M; GAAP net income $559M; consolidated combined ratio **92.0%** (slight miss / YoY deterioration), core (ex-cat) CR 90.0%; NPE $3.49B, total revenue $3.96B (−11.8% YoY) | [The Insurer](https://www.theinsurer.com/ti/news/everest-q2-earnings-beat-consensus-both-consolidated-and-core-combined-ratios-2026-07-29/), [StockStory](https://stockstory.org/us/stocks/nyse/eg/news/earnings/everest-group-nyseeg-misses-q2-cy2026-sales-expectations) |
 | Q1 2026 net income | **$653M / $16.21 dil. EPS** (vs $210M / $4.90 y/y) | [StockTitan](https://www.stocktitan.net/news/EG/everest-reports-first-quarter-2026-do0uhymguwqc.html) |
 | Q1 2026 combined ratio | **91.2%** (from 102.7% y/y); attritional CR 88.5% | [Bernews](https://bernews.com/2026/05/everest-group-reports-q1-2026-results/) |
@@ -30,6 +30,7 @@ Global property & casualty reinsurance and insurance, domiciled in Bermuda (Hami
 
 ## Update Log
 
+- 2026-09-24: **Thursday pre-open refresh; canonical basis rolls to the new 2026-09-23 (Wednesday) settled close; thesis intact — no change.** Wednesday was a **yield-shock risk-off day** — the 10-yr Treasury hit **5.135% (highest since July 2007)** and the 5-yr hit 5% (first since 2007) on hot PMI data, sending the **S&P −0.75% (7,706.03), Nasdaq −1.13%, Dow −0.68%** ([TheStreet, 2026-09-23](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-23-2026); [CNBC, 2026-09-23](https://www.cnbc.com/2026/09/23/stock-market-today-live-updates.html)). Against that tape **EG rose +0.38% (09-22 $370.96 → 09-23 close $372.36)**, again bucking the selloff — a scaled reinsurer with investable float is a net beneficiary of higher reinvestment yields, and EG remains **the only sub-book name on the list (~0.93x P/B)**. Robinhood fundamentals on the new basis: **P/E ~7.85x, P/B ~0.93x**, ~$14.3B cap (~38.3M shares), **~7.2% below the 52-wk high** ($401.07, 07-28). No company-specific news; Q2 (07-29) beat stands (op EPS $14.85, ~14.9% op ROE, $395M buyback); the 92.0% consolidated combined ratio the one watch item. **$2.00/qtr dividend payable TOMORROW Fri 09-25.** **Analyst marks (Robinhood consensus, 2026-09-23):** 7 Buy / 12 Hold / 1 Sell, mean PT **$407.76** (high $480, low $350; Citi Neutral $362). Margin of safety ~14–20%; below-book buyback stays accretive.
 - 2026-09-23: **Wednesday pre-open refresh; canonical basis rolls to the new 2026-09-22 (Tuesday) settled close; thesis intact — no change.** EG **firmed +0.42% Tuesday (09-21 close $369.42 → 09-22 close $370.96)**, bucking a broad **financials rotation** (money moved out of financials into chips/tech on the Meta Muse-AI trade; S&P ~flat, Nasdaq +0.4% to a back-to-back record) ([TheStreet, 2026-09-22](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-22-2026)); EG indicated **~$371 pre-market (thin, wide)** Wednesday (Robinhood quote, 2026-09-23). Robinhood fundamentals on the new basis re-confirm the standout structural margin of safety — **still BELOW book at P/B ~0.93x** (the only sub-book name on the list), **P/E ~7.82x**, ~$14.2B cap (~38.34M shares), now **~7.5% below the 52-wk high** ($401.07, 07-28). **Analyst marks (Robinhood consensus, 2026-09-22):** 7 Buy / 12 Hold / 1 Sell, mean PT **$407.76** (a small tick up from ~$404.81; high $480, low $350; Citi Neutral $362). The Q2 (07-29) beat stands (op EPS $14.85, ~14.9% op ROE, $395M buyback); the 92.0% consolidated combined ratio remains the one watch item. **$2.00/qtr dividend payable this Fri 09-25** (~2.17% yield). Below-book buyback stays accretive (falling share count). No thesis change; margin of safety ~14–20%.
 
 - 2026-09-22: **Tuesday pre-open refresh (~8:50 a.m. ET, before the 9:30 open); the canonical basis rolls forward to the new 2026-09-21 (Monday) settled close; thesis intact — no change.** EG **eased −1.44% Monday (Fri 09-18 close $374.83 → Mon 09-21 close $369.42)**, giving back with reinsurers/defensive value on a strong risk-on tape (Monday was the **best S&P/Nasdaq day since early August** on an **AI rally** — Meta +11.3% on its Muse AI app + a WFC PT raise to $796 — as **oil and yields fell**; [TheStreet, 2026-09-22](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-22-2026)). Robinhood fundamentals on the new basis re-confirm the profile — **P/E ~7.93x, P/B ~0.94x (still BELOW book)**, ~$14.16B cap (~38.3M shares), now **~7.9% below the 52-wk high** ($401.07, 07-28). Still the **only sub-book name on the list**, the standout structural margin of safety — the below-book multiple keeps buybacks accretive. No name-specific news; the Q2 (07-29) beat stands — op EPS $14.85 vs ~$14.52, net income $559M, ~14.9% op ROE, $395M buyback; the **92.0% consolidated combined ratio** remains the one watch item. **Analyst marks (Robinhood consensus, 2026-09-21):** 6 Buy / 12 Hold / 1 Sell, **mean PT ~$404.81** (high $480, low $350); Citi Neutral $362. **Dividend:** the **$2.00/qtr is payable this Friday 09-25** (ex-div 09-09 passed). **Macro:** the **10-yr Treasury yield eased to ~4.951%** (30-yr ~5.284%) as oil slid — a marginal give-back on the investment-book reinvestment yield, immaterial to the underwriting thesis; the week brings flash PMIs (Wed), Q2 GDP/durable goods/claims (Thu), **PCE (Fri)**, and Fed speakers. Margin of safety ~14–20%. Next company catalyst: Q3 ~late Oct/early Nov.
@@ -126,7 +127,7 @@ Global property & casualty reinsurance and insurance, domiciled in Bermuda (Hami
 
 *Acting as an experienced buy-side analyst specializing in mispriced/undervalued companies.*
 
-**Current valuation context:** ~0.94x book (sub-book, and by a clear margin the lowest P/B on the list — ~7.2% below the 07-28 fresh 52-wk high $401.07) and ~7.92x trailing / ~7.1x forward earnings (price $372.05, 08-03 close) vs P&C-(re)insurance peers at ~1.3x–2.7x book and 5–15x earnings. **Q2 2026 reported 07-29 AMC: operating EPS $14.85 — a BEAT (+2.2% vs ~$14.52 cons.); the one watch item is the consolidated combined ratio 92.0% (a slight miss / YoY deterioration).**
+**Current valuation context:** ~0.93x book (sub-book, and by a clear margin the lowest P/B on the list — ~7.2% below the 07-28 fresh 52-wk high $401.07) and ~7.85x trailing / ~7.1x forward earnings (price $372.36, 09-23 close) vs P&C-(re)insurance peers at ~1.3x–2.7x book and 5–15x earnings. **Q2 2026 reported 07-29 AMC: operating EPS $14.85 — a BEAT (+2.2% vs ~$14.52 cons.); the one watch item is the consolidated combined ratio 92.0% (a slight miss / YoY deterioration).**
 
 **1. Business-model clarity — is this genuinely hard to model?**
 Everest is not conceptually complex — it underwrites reinsurance (~65% of premium) and primary insurance (~35%), and earns an investment-income spread on float. What makes it *hard to trust* is **reserve adequacy in long-tail US casualty**. Casualty losses (general liability, commercial auto, professional lines) develop over many years; an insurer books a best-estimate reserve today and the truth emerges over a decade. "Social inflation" — rising jury verdicts, litigation funding, broader liability theories — has repeatedly forced the whole industry to top up old reserves. So the analyst's difficulty is not the business; it is **the believability of one number on the balance sheet** (loss reserves) that, if wrong, flows straight through book value. That single point of opacity is exactly why the market applies a below-book multiple.
@@ -159,7 +160,7 @@ The at-book (~1.00x, still the lowest P/B on the list) price implies the market 
 
 *Acting as a valuation analyst building a comp set for an investment committee.*
 
-**Current multiple:** **~0.94x book value** (sub-book as of the 08-03 close $372.05, ~7.2% below the 07-28 fresh 52-wk high $401.07 — by a clear margin the lowest P/B on the list; and ~7.92x trailing P/E). **Sector:** Global P&C reinsurance + specialty insurance.
+**Current multiple:** **~0.93x book value** (sub-book as of the 09-23 close $372.36, ~7.2% below the 07-28 fresh 52-wk high $401.07 — by a clear margin the lowest P/B on the list; and ~7.85x trailing P/E). **Sector:** Global P&C reinsurance + specialty insurance.
 
 **Step 1 — The peer group.** Bermuda/global reinsurers and large specialty / diversified P&C (re)insurers:
 
@@ -203,9 +204,9 @@ A re-rate to even **1.1–1.2x book on a ~$390–400 book** implies a **~$430–
 
 *Acting as a value-oriented PM deciding whether EG earns a slot in a concentrated book.*
 
-**Thesis:** Everest is a scaled, well-capitalized global reinsurer trading below book (~0.94x, the lowest P/B on the list) and ~8x earnings because a 2024 US-casualty reserve charge broke market confidence. A new CEO, a $1.2B adverse-development cover, profitability-over-volume underwriting (incl. exiting commercial retail), a 91.2% Q1'26 combined ratio with 16.7% operating ROE, and a $4.74B buyback (accretive below book) suggest the reserve problem is being ring-fenced and the franchise can re-earn a 1.1x+ book multiple.
+**Thesis:** Everest is a scaled, well-capitalized global reinsurer trading below book (~0.93x, the lowest P/B on the list) and ~8x earnings because a 2024 US-casualty reserve charge broke market confidence. A new CEO, a $1.2B adverse-development cover, profitability-over-volume underwriting (incl. exiting commercial retail), a 91.2% Q1'26 combined ratio with 16.7% operating ROE, and a $4.74B buyback (accretive below book) suggest the reserve problem is being ring-fenced and the franchise can re-earn a 1.1x+ book multiple.
 
-**My rough intrinsic value:** **~$430–470** (~1.1–1.2x normalized book of ~$390–400, consistent with mid-teens ROE and a sub-10x P/E on ~$52–60 normalized EPS). **Approx. discount to intrinsic at ~$372 (08-03 close): ~13–19%.**
+**My rough intrinsic value:** **~$430–470** (~1.1–1.2x normalized book of ~$390–400, consistent with mid-teens ROE and a sub-10x P/E on ~$52–60 normalized EPS). **Approx. discount to intrinsic at ~$372 (09-23 close): ~13–19%.**
 
 **Catalyst analysis**
 
