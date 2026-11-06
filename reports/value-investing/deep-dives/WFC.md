@@ -1,15 +1,15 @@
 # Wells Fargo & Company (WFC)
 
-**First created:** 2026-06-22 · **Last updated:** 2026-11-05
+**First created:** 2026-06-22 · **Last updated:** 2026-11-06
 
-- Price: **$87.43** (Robinhood, **2026-11-04 (Wednesday) settled close** — the latest settled session; WFC **rose +2.22%** vs the Tuesday $85.53 close on the broad Tuesday→Wednesday market rally; sits **~10.6% below its 52-wk high** $97.76 set 2026-01-05 — still the widest discount among the three top picks. **FOMC HELD at 3.75–4.00% on 10-28 (10–2, two dissents FOR a hike) — a higher-for-longer path supportive of bank NIM. Ex-dividend TOMORROW, 2026-11-06.**)
+- Price: **$84.80** (Robinhood, **2026-11-05 (Thursday) settled close** — the latest settled session; WFC **fell −3.01%** from the $87.43 Wednesday close on a broad risk-off tape (no WFC-specific driver); sits **~13.3% below its 52-wk high** $97.76 set 2026-01-05 — the widest discount among the three top picks, and the drop widens its margin of safety to the widest on the list. **FOMC HELD at 3.75–4.00% on 10-28 (10–2, two dissents FOR a hike) — a higher-for-longer path supportive of bank NIM. EX-DIVIDEND TODAY, 2026-11-06** ($0.50/qtr, payable 12-01).)
 
 **Key valuation metrics:**
-- Trailing P/E: **~12.05x** | Price/Book: **~1.62x** | Market cap: **~$262.5B** | Shares out: **~3.00B** (Robinhood, 2026-11-04 settled close)
+- Trailing P/E: **~12.32x** | Price/Book: **~1.65x** | Market cap: **~$254.5B** | Shares out: **~3.00B** (Robinhood, 2026-11-05 settled close)
 - Forward P/E: **~11.6x** on ~$7.07 FY2026 consensus EPS ($82.20 ÷ $7.07; StockAnalysis / Public.com analyst consensus, as of 2026-06: https://stockanalysis.com/stocks/wfc/forecast/ ; https://public.com/stocks/wfc/forecast-price-target)
 - Price / tangible book: **~1.83x** ($82.20 / TBVPS $45.02; TBVPS from Wells Fargo Q1 2026 release, as of 2026-04-14: https://www.sec.gov/Archives/edgar/data/72971/000007297126000213/wfc1qer04-14x26ex991xrelea.htm)
-- Dividend: **$0.50/qtr** ($2.00/yr), yield **~2.43%** ($2.00/$82.20); paid 2026-09-01 (Robinhood, 2026-10-20)
-- 52-week range: **$72.775 (2026-05-15) – $97.76 (2026-01-05)** (Robinhood, as of 2026-11-04 settled close)
+- Dividend: **$0.50/qtr** ($2.00/yr), yield **~2.36%** ($2.00/$84.80); **ex-dividend 2026-11-06**, payable 2026-12-01 (Robinhood, 2026-11-05)
+- 52-week range: **$72.775 (2026-05-15) – $97.76 (2026-01-05)** (Robinhood, as of 2026-11-05 settled close)
 - **Q3 2026 ROTCE: 16.3%** (ROE 13.8%, ROA 1.05%, efficiency ratio 63); up from 15.2% YoY; medium-term target **17–18%** (Wells Fargo Q3 2026 release, 2026-10-13: https://www.wellsfargo.com/assets/pdf/about/investor-relations/earnings/third-quarter-2026-earnings.pdf)
 - CEO: Charles Scharf · Sector: Finance / Major Banks · HQ: San Francisco
 
@@ -18,6 +18,8 @@
 ---
 
 ## Update Log
+
+- 2026-11-06: **Ex-dividend TODAY (Fri 2026-11-06); canonical basis rolls to the new 2026-11-05 (Thursday) settled close. WFC fell with a broad risk-off tape — widening its margin of safety to the widest on the list; thesis intact, retained #2.** WFC **fell −3.01% to $84.80** (2026-11-05 settled close) on a broad down day (the whole top-pick list fell: CI reversed from a fresh high to −1.29%, META −4.0%, BAC −3.6%, GILD −4.0%; Robinhood intraday OHLC), with **no WFC-specific driver**. The drop deepens the discount to its own 52-wk high ($97.76, 2026-01-05) to **~13.3%** — still the widest on the list — and lifts PT-based upside to **~14.8%** (mean PT $97.33), now the **widest margin of safety of the three top picks**. Trailing P/E ~12.32, P/B ~1.65, ~$254.5B cap, yield ~2.36% (Robinhood, `market_date` 2026-11-05). **Ex-dividend today** ($0.50/qtr, $2.00/yr, payable 12-01). Consensus **20 Buy / 9 Hold / 0 Sell, mean PT $97.33** (high $108, low $88; ratings timestamp 2026-11-02); BofA $102/Buy, Goldman $107/Buy, Jefferies $100/Buy. The **HUD Fair-Housing probe of WFC's Special Purpose Credit Programs (opened 2026-10-07)** stays a quiet reputational watch — no November developments, no findings ([HousingWire](https://www.housingwire.com/articles/hud-investigation-wells-fargo-race/)). The Q3 (10-13) print stands: net income $6.0B, EPS $1.87 (+13% YoY), ROTCE 16.3%, loans & deposits each +11% YoY, $2.5B buyback, CET1 10.0%, NIM 2.43%. The 10-28 Fed hold supports a higher-for-longer NIM path. **Thesis intact — retained #2, now with the widest PT-based margin of safety on the list; the one top pick with no near-term earnings catalyst (next print ~mid-Jan 2027).**
 
 - 2026-11-05: **Quiet refresh; ex-dividend TOMORROW (Fri 2026-11-06).** On the broad Tuesday→Wednesday market rally WFC **rose +2.22% to $87.43** (2026-11-04 Wednesday settled close), still **~10.6% below its 52-wk high $97.76** (set 2026-01-05) — the widest discount to its own high among the three top picks. Trailing P/E ~12.05, P/B ~1.62, yield ~2.3% at the current price (Robinhood, `market_date` 2026-11-04). **Ex-dividend Friday 2026-11-06** ($0.50/qtr, $2.00/yr, payable 2026-12-01). Consensus **20 Buy / 9 Hold / 0 Sell, mean PT $97.33** (**~11.3% upside** at $87.43; high $108, low $88; ratings timestamp 2026-11-02). **HUD Fair-Housing probe of WFC's Special Purpose Credit Programs (opened 2026-10-07) remains a quiet headline/reputational watch — no November developments and no findings** ([HousingWire](https://www.housingwire.com/articles/hud-investigation-wells-fargo-race/); [National Mortgage News](https://www.nationalmortgagenews.com/news/wells-fargo-hud-probe-signals-risk-for-race-based-lending)). The Q3 (10-13) print stands: net income $6.0B, EPS $1.87 (+13% YoY), ROTCE 16.3%, loans & deposits each +11% YoY, $2.5B buyback, CET1 10.0%, NIM 2.43%. The 10-28 Fed hold (10–2) supports a higher-for-longer NIM path. Pre-market ~$88.77. **Thesis intact — ranked #2 top pick; co-widest margin of safety; the one top pick with no near-term earnings catalyst (next print ~mid-Jan 2027).**
 
